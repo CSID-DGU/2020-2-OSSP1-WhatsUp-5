@@ -10,4 +10,6 @@
 
 
 - GPT2_finetuning.ipnynb
-: 허깅페이스의 transformers 라이브러리와 SKT KoGPT2 모델 기반으로 작성된 코드 + 소설 "운수 좋은 날" 데이터 전처리 후 학습
+: tensorflow를 이용한 허깅페이스의 transformers 라이브러리와 SKT KoGPT2 모델 기반으로 작성된 코드 + 소설 "운수 좋은 날" 데이터 전처리 후 학습
+- koGPT2_use.ipnynb
+: SKI의 koGPT2를 실행시켜 본 코드, 어떠한 학습도 시키지 않고 "감기는" 이라는 단어로 문장을 생성한 예시
