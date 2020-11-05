@@ -6,7 +6,7 @@
 
 https://somjang.tistory.com/entry/Google-Colab%EC%97%90%EC%84%9C-Mecab-koMecab-ko-dic-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
 
-주피터 노트북을 참고하면 아래 과정을 쉽게 익힐 수 있습니다.
+Mecab example.ipynb를 참고하면 아래 과정을 쉽게 익힐 수 있습니다.
 
 (1) 구글 드라이브로 data/nnp.csv 파일을 옮깁니다. 
 
