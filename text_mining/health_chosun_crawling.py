@@ -24,6 +24,9 @@ import csv
 import datetime
 import pandas as pd
 
+
+
+
 def health_chosun_crawling():
     #공공보건 포털사이트의 뉴스 기사를 크롤링함
     site = 'http://health.chosun.com/list.html?menu=&more_menu=&more_smenu=&nowcode=1&type=&pn=1'
@@ -74,22 +77,35 @@ def health_chosun_crawling():
     name=""
     content=""
     date=""
+    
+    print("크롤링할 기사의 키워드를 설정하세요")
+    keyword = input("기사의 키워드 : ")
+    input_text = driver.find_element_by_id("query")
+    input_text.send_keys(keyword)
+    
+    input_button = driver.find_element_by_class_name("searchBtn2016")
+    input_button.send_keys(Keys.RETURN)
 
+    medical_news = driver.find_elements_by_css_selector("div.btn_srch_more")
+    for menu in medical_news:
+        if menu.text.find("의료계뉴스 더보기") != -1:
+            menu.find_element_by_css_selector("a").click()
+            break;
+    
     while True:
         time.sleep(1)
         idx = 1
-        list_num = len(driver.find_elements_by_css_selector("dl.list_item"))
+        list_num = len(driver.find_elements_by_css_selector("div.cont ul.lst_srch_type01 li"))
         while True:
             #변수들의 초기화
             name=""
             content=""
             date=""
             while True:
-                news_list = driver.find_element_by_css_selector("div#list_area dl:nth-child(" + str(idx) +")")
-                news = news_list.find_element_by_css_selector('dt a')
-                news_text = news_list.text
+                news = driver.find_element_by_css_selector("div.cont ul.lst_srch_type01 li:nth-child(" + str(idx) +") dl dt a")
+                
                 #잡다한 만화, 책광고 등등의 기사를 제외시킴
-                if news.text.find("카툰") != -1 or news.text.find("해랑")!= -1 or news.text.find("서적") != -1 or news.text.find("튼튼선생") != -1 or news.text.find("양냥") != -1 or news_text.find("비만클리닉") != -1:
+                if news.text.find("카툰") != -1 or news.text.find("해랑")!= -1 or news.text.find("서적") != -1 or news.text.find("튼튼선생") != -1 or news.text.find("양냥") != -1 or news.text.find("비만클리닉") != -1:
                     print(str(row) + "오류발생")
                     idx += 1
                     if(list_num < idx):
@@ -107,18 +123,13 @@ def health_chosun_crawling():
                 pass
             try :
                 time.sleep(1)
-                name = driver.find_element_by_css_selector("h1#news_title_text_id").text
-                date = driver.find_element_by_css_selector("p#date_text").text.split(" ")[1]
-                parts = driver.find_elements_by_css_selector("div.par p")
+                name = driver.find_element_by_css_selector("h2#title_text").text
+                date = driver.find_element_by_css_selector("p#date_text").text.split(" ")[2]
+                content = driver.find_element_by_css_selector("div#news_body_id").text
 
                 year, month, day = map(int, date.split('.'))
                 date3 = datetime.date(year, month, day)
-
-                for part in parts:
-                    if part.text.find("기자") == -1 and part.text.replace(" ","") != "":
-                        content += part.text
-                    else:
-                        break
+                
                 # 해당 기사의 날짜가 사용자 지정 범위 내인 경우에만 csv파일에 작성
                 # 시작 날짜보다 이전에 작성된 기사라면 크롤링 종료
                 if date1 > date3:
@@ -143,8 +154,12 @@ def health_chosun_crawling():
                 if(list_num < idx):
                     break;
                  
-        page_now = driver.find_element_by_css_selector("div.paginate ul.paginate_num span.listAct").text.split(" ")[0]
-        print("page " + str(int(page_now)) + " complete")
-        url = "http://health.chosun.com/list.html?menu=&more_menu=&more_smenu=&nowcode=1&type=&pn=" + str(int(page_now) + 1)
-        driver.get(url)
+        page_now = int(driver.find_element_by_css_selector("div.pagenate_complex strong").text)
+        pages = driver.find_elements_by_css_selector("div.pagenate_complex a")
+        for page in pages:
+            if page.text == str(page_now+1):
+                page.click()
+                break;
+            if page.text == "다음":
+                page.click()
 
