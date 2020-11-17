@@ -33,5 +33,6 @@ with open(csv_file, "r", encoding="utf8") as f:
     location = row[2]
     #해당 동의어를 찾으면 해당 질병을 출력
     if location.find(data) != -1:
+      #괄호()안 data 삭제 후 출력
       print(re.sub(r'\([^)]*\)', '',row[1]))
     rownum += 1
