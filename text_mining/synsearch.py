@@ -24,7 +24,7 @@ def SynSearch():
     
       #검색하려는 열(index) 선택(disease_list.csv의 경우 [2]에 동의어가 있다.)
       location = row[2]
-      list_row = location.split(' ')
+      list_row = location.split(',')
       list_data = data.split(',')
 
       #해당 동의어를 찾으면 해당 질병을 return
