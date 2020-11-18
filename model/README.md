@@ -5,8 +5,7 @@
 1. gluonnlp == 0.9.1
 2. mxnet == 1.6.0
 3. sentencepiece == 0.1.85
-4. torch == 1.5.0
-5. transformers == 2.11.0
+4. transformers == 2.11.0
 
 
 - GPT2_finetuning.ipnynb
