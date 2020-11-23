@@ -1,1380 +1,1381 @@
 class,disease,syn
-감염성질환,RS바이러스 감염증(RS virus infection),"RSV,RS바이러스,RS바이러스 감염,알에스바이러스,호흡기세포융합바이러스,호흡기세포융합바이러스 감염증"
-감염성질환,각막염(Keratitis),각막염증
-감염성질환,간농양(Liver abscess),간의 고름집
-감염성질환,감염성 근육염(Infective myositis),바이러스성 근육염
-감염성질환,감염성 단핵구증(Infectious mononucleosis),"전염성단핵세포증,키스병,엡스타인-바 바이러스 감염증"
-감염성질환,감염성 홍반(Erythema infectiosum),"전염성 홍반,제5병"
-감염성질환,거대세포 바이러스 질환(Cytomegaloviral diseases),사이토메갈로 바이러스 감염
-감염성질환,결핵성 수막염(Tuberculous meningitis),결핵성 뇌수막염
-감염성질환,결핵성 임파선염(Tuberculous lymphadenitis),결핵성 임파선
-감염성질환,경부 림프절염(Cervical lymphadenitis),"경부 림프절,경부 림프절종대,목의 급성 림프절염"
-감염성질환,곰팡이 감염(Fungal infection),곰팡이질환
-감염성질환,광견병(Rabies),"공수병,광견병 바이러스"
-감염성질환,구순포진(Herpes labialis),입술포진
-감염성질환,급성 바이러스성 간염(Acute viral hepatitis),"Viral Hepatitis,바이러스 간염,바이러스성 간염"
-감염성질환,급성 위장염(Acute gastroenteritis),"위장염,급성 위염"
-감염성질환,급성 질염(Acute vaginitis),질염
-감염성질환,기쿠치병(Kikuchi Disease),"기꾸찌 병,아급성 괴사성 임파선염,Histiocytic necrotizing lymphadenopathy,Kikuchi-Fujimoto disease(KFD)"
-감염성질환,"난소난관염(Oophoritis, Ovaritis)","Oophortis,Ovaritis,난관난소염,난관염,난소염,자궁관난소염"
-감염성질환,노로바이러스 장염(Norovirus Gastroenteritis),"Norovirus,노로바이러스,노로바이러스식중독"
-감염성질환,노카르디아증(Nocardiosis),노카르디아 폐렴
-감염성질환,뇌염(Encephalitis),수막뇌염
-감염성질환,단독(Erysipelas),단독증
-감염성질환,대상포진(Herpes zoster),"Zoster,shingles"
-감염성질환,대상포진 후 신경통(Postzoster neuralgia),대상포진신경통
-감염성질환,대장균 감염(Escherichia coli (E. coli) infection),대장균
-감염성질환,뎅기열(Dengue fever),뎅귀열
-감염성질환,돌발성 발진(Exanthem subitum),"roseola infantum,돌발발진,돌발진,소아 장미진,영아 발진"
-감염성질환,두부 백선(Tinea Capitis),"기계충,독창,머리 백선"
-감염성질환,두통(Headache),머리의 통증
-감염성질환,라싸열(Lassa fever ),"라사열,라사피버,라싸피버"
-감염성질환,레지오넬라증(Legionella),"레지오넬라 감염증,레지오네라,재향군인병,Pontiac fever,폰티악열,여름 감기,레지오넬라 폐렴"
-감염성질환,렙토스피라증(Leptospirosis),"7일열,논농부병,농부병,와일씨병"
-감염성질환,리스테리아(Listeria),"리스테리아병,리스테리아증,회선병"
-감염성질환,마버그열(Marburg hemorrhagic fever),"마버그 출혈열,마르부르크 출혈열"
-감염성질환,만성 C형 간염(Chronic hepatitis C),C형간염
-감염성질환,말라리아(Malaria),"3일열,4일열,하루거리열,학질"
-감염성질환,매독(Syphilis),잠복 매독
-감염성질환,메리오이드증(Melioidosis),"유비저균 감염증,멜리오이도시스"
-감염성질환,무른 궤양(Chancroid),"연성하감,헤모필루스 듀크레이균 감염"
-감염성질환,바이러스성 뇌수막염(Viral meningitis),"뇌막염,뇌수막염,뇌척수막염,뇌척수염,수막염"
-감염성질환,박테리아성 뇌수막염(Bacterial meningitis),수막구균성수막염
-감염성질환,반코마이신 내성 장알균(VRE) 감염증(Vancomycin-Resistant Enterococci),"반코마이신 내성 장구균 감염증,반코마이신 저항 장알균 감염증,VRE 균혈증"
-감염성질환,반코마이신 내성 황색포도알균(VRSA) 감염증(Vancomycin-Resistant Staphylococcus aureus),"반코마이신 내성 황색포도상구균균(VRSA)감염증,반코마이신 저항 황색포도알균(VRSA) 감염증"
-감염성질환,발진티푸스(Epidemic typhus),발진타이푸스
-감염성질환,방선균증(Actinomycosis),방사선균증
-감염성질환,베게너 육아종증(Wegener granulomatosis),베게너육아종
-감염성질환,병원 감염성 폐렴(Hospital acquired pneumonia (HAP)),병원성폐렴
-감염성질환,보툴리눔독소증(Botulism),보툴리누스중독증
-감염성질환,브루셀라증(Brucellosis),"부루세라병,브루셀라,브루셀라병"
-감염성질환,사면발이증(Pediculosis pubis),음모슬증
-감염성질환,사카자키균 감염증(Enterobacter Sakazakii Infection),"E. sakazakii,엔테로박터 사카자키,사카자키,Cronobacter"
-감염성질환,사타구니 백선(Tinea cruris),"사타구니무좀,샅백선,완선,음고부백선"
-감염성질환,상기도 감염(Upper respiratory infections),"common cold,감기"
-감염성질환,샅(서혜)육아종(Granuloma inguinale),"donovanosis,도노반증,사타구니육아종,샅고랑육아종,샅육아종,서혜육아종"
-감염성질환,샤가스병(Chagas disease),아메리카트리파노소마증
-감염성질환,선모충증(Trichinellosis),선모충병
-감염성질환,성병(Sexually transmitted disease),"STD,성감염질환,성행위로 전파되는 질환"
-감염성질환,성홍열(Scarlet fever),"scarlatina,세균성 인후염"
-감염성질환,세균성 이질(Shigellosis),"시겔라증,이질"
-감염성질환,소아마비(Polio),"척수성소아마비,폴리오,회백수염"
-감염성질환,속립성 결핵(Miliary tuberculosis),속립결핵
-감염성질환,수두(Varicella (chickenpox)),전염성 수두
-감염성질환,"수족구병(Hand, foot and mouth disease)","수족구,수족구 질환"
-감염성질환,슈도모나스 감염(Pseudomonas infection),"슈도모나스,녹농균 감염증"
-감염성질환,스파르가눔증(Sparganosis),"만선열두조충,스파르가눔"
-감염성질환,신생아 괴사성 장염(Necrotizing enterocolitis of fetus and newborn),"Neonatal Necrotizing Enterocolitis,신생아 괴사성 소장결장염,태아 및 신생아의 괴사성 소장결장염"
-감염성질환,신종 플루(Novel swine-origin influenza A(H1N1)),"H1N1,돼지독감,돼지인플루엔자,신종인플루엔자,신종인플루엔자A"
-감염성질환,신증후성 출혈열(Hemorrhagic fever with renal syndrome),"신증후군 출혈열,신증후출혈열,유행성 출혈열"
-감염성질환,심내막염(Endocarditis),"infectiveendocarditis,감염성심내막염,급성감염성심내막염,급성심내막염,심내막염증,심장내막염,심장내막염증,아급성감염성심내막염,아급성심내막염"
-감염성질환,아메바성 이질(Amebic dysentery),이질 아메바
-감염성질환,아스페르길루스증(Aspergillosis),아스페르길루스종
-감염성질환,에볼라 출혈열(Ebola hemorrhagic fever),에볼라 바이러스
-감염성질환,옻 중독(Poison ivy dermatitis),"옻,옻오름"
-감염성질환,요충증(Enterobiasis),요충병
-감염성질환,용혈성 요독 증후군(Hemolytic Uremic Syndrome),"햄버거병,HUS"
-감염성질환,원인을 알 수 없는 열(Fever of unknown origin),원인불명열
-감염성질환,원충성 질환(PROTOZOAL DISEASES),"샤가스병,아프리카수면병,체체파리"
-감염성질환,웨스트나일열(West Nile Fever),"웨스트나일 뇌염,웨스트나일즈 바이러스 감염,웨스트나일 바이러스 감염증"
-감염성질환,위장관 결핵(Gastrointestinal tuberculosis),"위결핵,장결핵"
-감염성질환,유행성 이하선염(Mumps),"멈프스,볼거리"
-감염성질환,인유두종 바이러스 감염증(Human papiloma virus infection),"사람 유두종 바이러스 감염증,HPV"
-감염성질환,인플루엔자(Influenza),독감
-감염성질환,자궁경부염(Cervicitis),"자궁경관염,자궁입구염"
-감염성질환,장출혈성 대장균 감염증(Enterohemorrhagic Escherichia coli),대장균 O157 감염증
-감염성질환,장티푸스(typhoid fever),"염병,장질 부사"
-감염성질환,조갑주위염(Paronychia),생인손
-감염성질환,조류 인플루엔자(AI) 인체감염증(Avian Influenza Human Infection),"조류 독감,bird flu,avian flu,bird flu,highly pathogenic avian influenza,HPAI"
-감염성질환,중동 호흡기 증후군(MERS)(Middle East Respiratory Syndrome),"신종 코로나 바이러스 감염증,메르스바이러스 감염증,메르스 코로나 바이러스 감염증"
-감염성질환,중증 급성 호흡기 증후군(Severe Acute Respiratory Syndrom),"사스,SARS"
-감염성질환,"HIV 바이러스(HIV infection, asymptomatic)","HIV,증상이 없는 HIV 감염,인간면역결핍바이러스,임상적 잠복기 AIDS"
-감염성질환,지역사회성 폐렴(Community acquired pneumonia),"비정형성 폐렴,지역사회 획득 폐렴"
-감염성질환,지카 바이러스 감염증(Zikavirus Infection),소두증
-감염성질환,첨형 콘딜로마(Condyloma accuminatum),"곤지름,뾰족콘딜로마,생식기 사마귀,성기사마귀,음부 사마귀,첨형 콘딜롬,콘딜롬,항문우췌,첨규형콘딜로마"
-감염성질환,치쿤구니야열(Chikungunya Fever),"치쿤구니아 열병,치쿤구니야 열병,치쿤군야 열병,치쿤구냐 열병,치킨구니야 열병"
-감염성질환,칸디다성 구내염(Candidal stomatitis),"Thrush,구강점막 염증,구강점막 질환,구내염,아구창"
-감염성질환,캄필로박터 감염증(Campylobacteriosis),"캄필로박터,캄필로박터 식중독,캄필로박터 위장관 감염병"
-감염성질환,코로나-19(COVID-19),"신종 코로나바이러스 폐렴,우한 폐렴,2019-nCoV,2019-Novel Coronavirus,신종 코로나 바이러스 감염증"
-감염성질환,큐열(Q Fever),"Q열,Query fever"
-감염성질환,크로이츠펠트-야콥병(Creutzfeldt-Jakob disease),"CJD,vCJD,변종 크로이펠트-야콥병,야콥병,야곱병"
-감염성질환,탄저병(Anthrax),탄저균
-감염성질환,털진드기병(Scrub typhus),"tsutsugamushi disease,덤블티푸스,쓰쓰가무시,쓰쓰가무시병,쓰쓰가무시증,진드기 티푸스,쯔쯔가무시,쯔쯔가무시증,쯔쯔가무시병"
-감염성질환,톡소플라즈마증(Toxoplasmosis),"주혈 원충병,톡소포자충,톡소포자충증,톡소플라스마,톡소플라스마증,톡소플라즈마"
-감염성질환,파라인플루엔자 감염증(Parainfluenza infection),"파라인플루엔자,파라인플루엔자 감염"
-감염성질환,패혈성 관절염(Septic arthtritis),세균성 관절염
-감염성질환,패혈증(Sepsis),패혈증후군
-감염성질환,폐결핵(Pulmonary tuberculosis),TB
-감염성질환,폐색성 혈전 혈관염 (Thromboangiitis obliterans),"Buerger Disease,Buergers Disease,버거씨병,뷰르거병,폐색혈전혈관염,폐쇄혈전혈관염"
-감염성질환,포도상구균 감염(Staphylococcus aureus infection),"Staphylococcus,포도상구균,황색포도상구균"
-감염성질환,풍진(Rubella(German measles)),"3일 홍역,독일홍역"
-감염성질환,한센병(Leprosy),"한센씨병,문둥병,나병"
-감염성질환,헤르페스 바이러스 감염(Herpesviral infection),"단순포진,단순포진 바이러스,헤르페스,헤르페스 바이러스"
-감염성질환,호산구 증가증(Eosinophilia),"호산구 증가,호산구증가증후군"
-감염성질환,홍역(Measles),rubeola
-감염성질환,황열(Yellow fever),"황열 바이러스,황열병,황열병원체"
-감염성질환,효모균증(Cryptococcosis),크립토콕쿠스증
-감염성질환,후천성 면역결핍증(Acquired immunodeficiency syndrome),"AIDS,에이즈,후천성 면역결핍 증후군,후천적 면역결핍"
-감염성질환,흑사병(Yersinia Pestis),페스트
-감염성질환,히스토플라즈마증(Histoplasmosis),히스토플라스마증
-건강증진,고혈압(Essential (primary) hypertension),"High blood pressure,Hypertension,본태성 고혈압,속발성 고혈압"
-건강증진,괴혈병(scurvy),비타민 C 부족증
-건강증진,납 중독(Lead Poisoning),연독
-건강증진,냉방병(Air-conditioningitis),"냉방병증후군,냉방증,냉방증후군"
-건강증진,대사 증후군(Metabolic syndrome),"증후군,대사성증후군,성인병,신진대사증후군,인슐린저항성증후군"
-건강증진,만성 피로 증후군(Chronic Fatigue Syndrome),만성피로증후군
-건강증진,비만(Obesity),"내장지방형비만,복부비만,체지방 과잉"
-건강증진,새집 증후군(Sick building syndrome),"새집병,새집신드롬"
-건강증진,알코올성 간질환(Alcoholic liver disease),"알콜성 간질환,음주 간질환"
-건강증진,원인을 알 수 없는 열(Fever of unknown origin),원인불명열
-건강증진,이상지질혈증(Dyslipidemia),이상지질단백혈증
-건강증진,지방간(Fatty liver),"비알코올성 지방간,비알콜성지방간,알코올성 지방간,알콜성지방간"
-건강증진,폐경(Menopause),난소부전
-귀코목질환,감각신경성 난청(Sensorineural hearing loss),신경성 난청
-귀코목질환,경부 림프절염(Cervical lymphadenitis),"경부 림프절,경부 림프절종대,목의 급성 림프절염"
-귀코목질환,구강암(Oral Cancer),"oral cavity cancer,구강저암,설암,치은암,협부암"
-귀코목질환,급성 중이염(Acute otitis media),"급성 화농성 중이염,중이염"
-귀코목질환,꽃가루 알레르기(Pollen allergy),화분 알레르기
-귀코목질환,난청(hearing loss),"돌발성 난청,선천성 난청,소음성 난청,전도성 난청,전음성 난청"
-귀코목질환,낭포성 히그로마(Cystic hygroma),낭성히그로마
-귀코목질환,두통(Headache),머리의 통증
-귀코목질환,루드비히 안자이나 (Ludwig's angina),"구강저 봉와직염,루드비히 앙기나,턱끝밑 봉와직염"
-귀코목질환,만성 부비동염(Chronic rhinosinusitis),"만성 굴염,만성축농증"
-귀코목질환,만성 비염(Chronic rhinitis),"비염,비후성 비염"
-귀코목질환,만성 중이염(Chronic otitis media),"중이염,만성 중간귀 염"
-귀코목질환,메니에르병(Meniere's disease),"내림프수종,메니에르 증후군"
-귀코목질환,미로염(Labyrinthitis),내이염
-귀코목질환,부비동염(Sinusitis),"급성 부비강염,급성 부비동염,급성 축농증,부비강염,축농증"
-귀코목질환,비부비동 종양(Sinonasal Tumor),"비강암,부비동암,비강종물"
-귀코목질환,비용종(Nasal polyp),"코물혹,코버섯,코용종,콧속 물혹"
-귀코목질환,비인두 종양(Nasopharyngeal tumor),"비인두암,인두암"
-귀코목질환,비중격 만곡(Nasal septal deviation),"비중격만곡증,편위된 코사이막"
-귀코목질환,비출혈(Epistaxis),코피
-귀코목질환,산후 갑상선염(Postpartum thyroiditis),"산후갑상선,산후갑상선염증"
-귀코목질환,삼출성 중이염(Otitis media with effusion),"장액성 중이염,점액성 중이염"
-귀코목질환,상기도 감염(Upper respiratory infections),"common cold,감기"
-귀코목질환,성대와 후두 결절(Nodules of vocal cord and larynx),"성대 결절,후두 결절"
-귀코목질환,성대와 후두 용종(Polyps of vocal cord and larynx),"성대 및 후두의 폴립,성대 용종,후두 용종"
-귀코목질환,수면 무호흡증(Sleep apnea),"sleep apnea syndrome,수면 무호흡,수면 무호흡 증후군"
-귀코목질환,아나필락시스(Anaphylactic shock),"Anaphylactic shock,과민성 쇼크,아나필락시스성 쇼크,아나필락틱 쇼크"
-귀코목질환,아데노이드의 비대를 동반한 편도의 비대(Hypertrophy of tonsils with hypertrophy of adenoids),"구개편도 비대,아데노이드 편도 비대,아데노이드증식증"
-귀코목질환,알레르기 비염(Allergic rhinitis),"알러지비염,알러지성 비염,알레르기비염,알레르기성 비염"
-귀코목질환,외상에 의한 고막 천공(Traumatic rupture of ear drum [Traumatic tympanic membrane perforation]),"고막 천공,고막 파열,외상성 고막 천공,외상성고막파열"
-귀코목질환,외이도염(Otitis externa),외이도염증
-귀코목질환,이명(Tinnitus),"귀울림,이명현상"
-귀코목질환,이석증(Benign paroxysmal vertigo),"양성 돌발성 체위 현훈증,양성 발작성 현기증,양성 체위성 현훈,양성자세현훈"
-귀코목질환,인후두염(Laryngopharyngitis),"급성 인두염,급성 후두염,기관염,목감기,인두염,인후두염증,인후염,인후통,후두염"
-귀코목질환,전정신경염(Vestibular neuronitis),안뜰 신경염
-귀코목질환,진주종(Cholesteatoma),진주 모양 종양
-귀코목질환,청신경초종(Vestibular schwannoma),"청신경 양성종양,청신경 종양,Acoustic neuroma"
-귀코목질환,타석증(Sialolithiasis),"침돌증,침샘의돌,타액결석증"
-귀코목질환,타액선암(Malignant neoplasm of salivary glands),"Salivary Gland Tumor,Salivary adenocarcinoma,설하선암,소타액선암,악하선암,이하선암,침샘암"
-귀코목질환,편도선염(Tonsillitis),"급성 편도염,편도선염증,편도염,편도염증"
-귀코목질환,현훈(Vertigo),"어지러움,어지러움증,어지럼,어지럼증,현기증"
-귀코목질환,"후각장애, 미각장애(Anosmia, Hyposmia)","후각저하증,미각저하증"
-귀코목질환,후두암(Larynx  cancer),"성문상부암,성문암,성문하부암"
-귀코목질환,후비루(Postnasal drip),후비루증후군
-근골격질환,VDT 증후군(Visual Display Terminal Syndrome),"VDT,VDT syndrome,VDT 신드롬,Visual Display Terminal Syndrome,영상 단말기 증후군"
-근골격질환,가스 괴저(Gas gangrene),"Clostridial myonecrosis,가스괴저병"
-근골격질환,각기병(Beriberi),"각기병증,비타민 B1결핍증,비타민B1부족증,티아민결핍증"
-근골격질환,강직성 척추염(Ankylosing spondylitis),"경직성 척추염,강직척추염"
-근골격질환,거북목 증후군(Turtle neck syndrome),"거북목,일자목,일자목 증후군,일자목증후군"
-근골격질환,건 손상(Tendon injury),"힘줄손상,힘줄파열"
-근골격질환,건초염(Tenosynovitis),"건막염,건초염증,활막염,활액막염"
-근골격질환,결절종(Ganglion),"갱그리온,갱글리온"
-근골격질환,경골과 비골 골절(Fracture of tibia & fibula),"경골 골절,비골 골절"
-근골격질환,고관절 이형성증(DDH (developmental dysplasia of the hip)),"발달성고관절이형성증,발달성고관절탈구,선천성고관절이형성증,선천성고관절탈구,신생아고관절탈구,아기고관절탈구"
-근골격질환,골감소증(Osteopenia),"골량감소,뼈감소증"
-근골격질환,골관절염(Osteoarthritis),"DJD,degenerative arthritis,degenerative joint disease,퇴행성관절염"
-근골격질환,골괴사(Osteonecrosis),"골괴사증,뼈조직 괴사"
-근골격질환,골수염(Osteomyelitis),골수염증
-근골격질환,골육종(Osteosarcoma),"골암,골원성육종,뼈암"
-근골격질환,"골절 후 부정 유합, 불유합(Malunion & nonunion of fracture)","부정유합,불유합"
-근골격질환,관절염(Arthritis),"Arthrosis,Osteo-arthrosis,골관절증,관절의 염증,관절증,뼈마디염"
-근골격질환,관절와순 파열(Labral tear),"슬랩,슬랩 병변,SLAP,상부관절와순 파열,관절와순 손상"
-근골격질환,구획 증후군(Compartment syndrome),"확정형 구획증후군,만성형 구획증후군"
-근골격질환,근근막 통증 증후군(myofascial pain syndrome),"근막동통증후군,담,담 걸리다,담결림,담이 걸리다,담통증,발통증후군"
-근골격질환,근긴장성 이영양증 (Myotonic dystrophy),근육긴장퇴행위축
-근골격질환,근육병(Myopathy),"근경직증,근긴장저하,근디스트로피,근위축,근육긴장저하,근육질환,근육퇴행위축,근이영양증,근질환,염증성 근병변,염증성 근병증,염증성 근염,염증성 근질환"
-근골격질환,내반슬(Bow leg),"O자 다리,Geno varum"
-근골격질환,내상과염(Golf Elbow),"골프 엘보우,골프엘보"
-근골격질환,내연골종(Enchondroma),"내연골종증,올리에르병"
-근골격질환,노인성 척추후만증(Senile Kyphosis),노인성등굽음
-근골격질환,대퇴 골절(Fracture of femur),"고관절 골절,대퇴경부골절"
-근골격질환,대퇴골두 무혈관성 괴사(AVN of hip(femoral head)),"고관절무혈성괴사,대퇴골두무혈성괴사,대퇴골두무혈성괴사증,대퇴골무혈성괴사"
-근골격질환,동결견(Frozen shoulder),오십견
-근골격질환,두개 유합증(Craniosynostosis),"두개 조기유합,두개골 조기봉합증,두개골조기유합증,두개조기융합,머리뼈 붙음증"
-근골격질환,듀시엔형 근이영양증 (Duchenne muscular dystrophy),"muscular dystrophy,근디스트로피,근육퇴행위축,근이영양증,두시엔느 근육퇴행위축,뒤셴형 근이영양증,뒤시엔느 근디스트로피,뒤시엔느 근육퇴행위축,뒤시엔느 근이영양증,듀시엔느 근이영양증"
-근골격질환,듀피트렌 구축(Dupuytren's contracture),"듀피트렌,듀피트렌 병"
-근골격질환,류마티스 관절염(Rheumatoid arthritis),"류마토이드관절염,류마토이드성관절염,류머토이드관절염,류머토이드성관절염,류머티스 관절염,류머티스관절,류머티스성 관절염"
-근골격질환,마르판 증후군 (Marfan syndrome),"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
-근골격질환,망치족지(Hammer toe),"망치 발가락,망치족부변형,추상족지증"
-근골격질환,무지(엄지)중수지관절측부인대손상(Gamekeeper's thumb),"skier thumb,무지중수지관절측부인대손상,사냥터지기무지,스키어 무지,스키어 엄지,엄지관절인대손상,엄지중수지관절측부인대손상"
-근골격질환,무지외반증(Hallux valgus),"무지외반,족무지외반,족무지외반증"
-근골격질환,반달연골 이상(Meniscus derangements),"무릎십자인대,무릎십자인대손상,무릎십자인대수술,무릎십자인대이상,반달연골 손상"
-근골격질환,반월판 연골손상(Tear of meniscus),"무릎결림,무릎관절염,무릎손상,반월상연골손상,반월판연골통증"
-근골격질환,베이커 낭종(Baker's cyst),"무릎뒤 물혹,베이커씨낭종,슬와낭종"
-근골격질환,베체트 병(Behcet's disease),"베체트,베체트 증후군,베체트씨병"
-근골격질환,병리적 골절(Pathological fracture),병적 골절
-근골격질환,복합 부위 통증 증후군(Complex regional pain syndrome),"CRPS,reflex sympathetic dystrophy syndrome,반사성 교감신경 위축증,반사성교감신경위축증,반사성교감신경이영양증,통증증후군"
-근골격질환,부가지(Accessory toe),"다지증,발가락 다지증,손가락 다지증"
-근골격질환,뼈의 신생물(Neoplasm of the bone),"골종양,뼈종양"
-근골격질환,석회성 건염(Calcific Tendinitis),석회화 건염
-근골격질환,선천성 사경(Congenital (sternomastoid) torticollis),"목 뒤틀림,선천기운목,선천성 근성 사경,선천성사경,신생아 사경,아기 사경"
-근골격질환,선천성 편평발(Congenital pes planus [flat foot]),"선천 편평발,선천성 평발,평발"
-근골격질환,섬유근육통(Fibromyalgia),"섬유근육통증,섬유근통,섬유근통증,섬유근통증후군"
-근골격질환,소아 류마티스 관절염(Juvenile rheumatoid arthritis),"류마토이드소아관절염,류마티스소아관절염,류머토이드소아관절염,류머티스소아,류머티스소아관절염,소아류마토이드관절염,소아류마티스관절염,소아류머토이드관절염,연소기 류머티스 관절염"
-근골격질환,소아마비(Polio),"척수성소아마비,폴리오,회백수염"
-근골격질환,손목 수근관 증후군(Carpal tunnel syndrome),"손목굴 증후군,손목터널증후군,손저림증,수근관증,수근관증후군,터널증후군,팔목터널증후군"
-근골격질환,쇄골 골절(Clavicle Fracture),쇄골뼈 골절
-근골격질환,수부 외상(Hand trauma),손의 외상
-근골격질환,슬개건염(Patellar tendinitis),"Jumper knee,슬개건 염증,슬개골 건염"
-근골격질환,슬개골 골절(Patella Fracture),"슬개뼈 골절,슬관절 골절,접시뼈 골절"
-근골격질환,슬관절 장애(Internal derangement of knee),무릎 관절 장애
-근골격질환,십자 인대 손상(Cruciate Ligament Injuries),"십자인대부상,십자인대파열,전방십자인대손상,후방십자인대손상"
-근골격질환,아킬레스 건 파열(Acute achilles tendon rupture),아켈리스 건 파열
-근골격질환,아킬레스 건염(Achilles' tendonitis),아킬레스건 염증
-근골격질환,안면 골절(Facial bone fracture),"안면골골절,얼굴골절,얼굴뼈골절"
-근골격질환,압궤 손상(Crushing injury),"crush syndrome,traumatic rhabdomyolysis,압좌손상,압좌증후군,압착손상,외상성 횡문근융해,크러쉬증후군,크러시증후군"
-근골격질환,연골연화증(Chondromalacia),"슬개 대퇴 동통 증후군,슬개골 연골연화증"
-근골격질환,연골형성저하증(Hypochondroplasia),"연골저형성증,저연골형성증"
-근골격질환,염좌(sprain),삠
-근골격질환,오목가슴(Pectus excavatum),"함몰가슴,함몰흉"
-근골격질환,오스굿씨 병(Osgood Schlatter Disease),"경골절 골연골증,경골절의 골연골증,오스굿 슐라터병,오스굿 실라터병"
-근골격질환,완전 척수 손상(Complete cord injury),"Spinal Cord Trauma,척수손상"
-근골격질환,외반슬(Knock-knee),X 다리
-근골격질환,외상에 의한 척추 손상(Traumatic spine injury),"경추부염좌,척추손상"
-근골격질환,요족(Cavus foot),"까치발,오목발"
-근골격질환,요추 전방전위증(Lumbar spondylolisthesis),"요추전위증,척추전방전위증,척추전위증"
-근골격질환,요추 추간판 탈출증(Herniation of intervertebral disk),"디스크,척추관 협착증,퇴행성 척추관 협착증,허리 디스크"
-근골격질환,요추관 협착증(Lumbar spinal stenosis),"척추관 협착증,퇴행성 척추관 협착증"
-근골격질환,요통(Low back pain),"lumbago,아래허리통증,저배통,허리통,허리통증"
-근골격질환,원위 요골과 척골 골절(Fracture of distal radius and ulna),"Fracture of distal radius,손목골절,아래팔골절,아래팔골절수술,요골골절,원위요골골절,척골골절"
-근골격질환,원판형 반월상연골(Discoid meniscus),원판형연골
-근골격질환,육종(Sarcoma),"악성골종양,연부조직육종"
-근골격질환,이소성 골화증(Heterotopic Ossification),"이소성 골형성,이소성 골화"
-근골격질환,일과성 고관절 활액막염(Transient synovitis of hip),"고관절활막염,고관절활액막염,일과성고관절활막염"
-근골격질환,재발성 견관절 전방 탈구(Recurrent Anterior Glenohumeral Dislocation),"견관절 탈구,어깨탈골,어깨탈구,재발성견관절탈골,재발성견관절탈구,재발성어깨탈골,재발성어깨탈구,습관성 어깨 탈구"
-근골격질환,전신 경화증(Systemic Sclerosis),전신성 경화증
-근골격질환,점액낭염(Bursitis),"윤활낭염,활액낭염"
-근골격질환,족저 근막염(Plantar Fasciitis),"발뒤꿈치 통증 증후군,발바닥 건염,발바닥 근막염,족저 건염"
-근골격질환,좌골신경통(Sciatica),궁둥뼈신경통
-근골격질환,주관절 외상과염(Tennis Elbow),"외상과염,주관절통,테니스엘보우,팬엘보,테니스엘보"
-근골격질환,지간 신경종(Interdigital neuroma),"모르톤족지,발가락 신경종"
-근골격질환,지방종(Lipoma),양성지방종성 신생물
-근골격질환,지체장애(Physical disability),"Orthopedic Impairment,지체부자유"
-근골격질환,척수구근 근위축증 (Spinobulbar muscular atrophy),"Kennedy disease,케네디 증후군,케네디병"
-근골격질환,척추 종양(Spine Bone Tumor),"척추암,척추 신생물"
-근골격질환,척추측만증(Scoliosis),"척추 옆 굽음증,척추측만"
-근골격질환,천추골 골절(sacral fracture),"엉덩이뼈 골절,골반뼈 골절"
-근골격질환,턱관절 장애(Temporomandibular joint disorders),"악관절 장애,측두하악장애"
-근골격질환,통풍성 관절염(gouty arthritis),"과요산성 관절염,urarthritis"
-근골격질환,퇴행성 척추 장애(Degenerative spinal disorder),퇴행성 척추 질환
-근골격질환,패혈성 관절염(Septic arthtritis),세균성 관절염
-근골격질환,피로 골절(Stress fracture),스트레스 골절
-근골격질환,피부근육염(Dermatopolymyositis),"다발근육염,다발성근육염,소아피부근염,염증성 근병증,염증성 근육병증"
-근골격질환,회전근개 증후군(Rotator cuff syndrome),"Rotator cuff tear,어깨근육손상,어깨근육파열,회전근개증,회전근개파열"
-근골격질환,횡단성 척수염(Transverse myelitis),"가로방향척수염,급성 횡단성 척수염,척수염,횡단척수염"
-근골격질환,횡문근육종(Rhabdomyosarcoma),"횡문근육암,횡문근육종양"
-근골격질환,횡문근융해증(Rhabdomyolysis),횡문근융해
-근골격질환,후종인대 골화증(Ossification of posterior longitudinal ligament),"후방인대 골화증,후총인대 골화증"
-눈질환,각막 궤양(Corneal ulcer),감염성 각막염
-눈질환,각막 혼탁과 흉터(Corneal opacity and scar),"각막반흔,각막혼탁,각막흉터"
-눈질환,각막염(Keratitis),각막염증
-눈질환,근시(Myopia),"nearsightedness,고도근시,근시안"
-눈질환,꽃가루 알레르기(Pollen allergy),화분 알레르기
-눈질환,노안(Presbyopia),"노시안,노인성 시력장애,노화성 시력장애"
-눈질환,눈꺼풀 장애(Disorders of eyelid),눈꺼풀 이상
-눈질환,눈물흘림증(Epiphora),유루증
-눈질환,당뇨망막병증(Diabetic retinopathy),당뇨망막증
-눈질환,두통(Headache),머리의 통증
-눈질환,레버씨 시신경 위축증 (Leber hereditary optic neuropathy(LHON)),레버 유전성 시신경병증
-눈질환,마르판 증후군 (Marfan syndrome),"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
-눈질환,망막 박리(Retinal detachments & breaks),"HypertensiveRetinopathy,견인망막박리,삼출망막박리,열공망막박리"
-눈질환,망막 열공(retina tear),망막천공
-눈질환,망막 정맥 폐쇄(Retinal vein occlusion),"망막분지정맥폐쇄,망막중심정맥폐쇄 퍼가기"
-눈질환,망막색소변성증(Retinitis Pigmentosa),"망막색소병증,색소성망막염"
-눈질환,망막아세포종(Retinoblastoma),망막모세포종
-눈질환,맥락막 흑색종(Choroidal melanoma),맥락막 악성흑생종
-눈질환,맥립종(Stye),"눈다래기,눈다래끼,눈다래키,다래기,다래끼,다래키"
-눈질환,미숙아 망막병증(Retinopathy of Prematurity),"premature infant of Retinopathy,preterm infant Retinopathy,미숙아 망막증"
-눈질환,비루관 폐쇄(Nasolacrimal duct obstruction),"눈물길폐쇄,누관 폐쇄,눈물샘 막힘"
-눈질환,비문증(Floaters),"날파리증,유리체부유물"
-눈질환,사시(Strabismus),소아사시
-눈질환,색약(color amblyopia),"색각 이상,색맹"
-눈질환,선천성 눈 기형(Congenital malformations of eye),선천적 눈 기형
-눈질환,수정체 탈구(Lens luxation),수정체탈구증
-눈질환,스티븐 존슨 증후군(Stevens Johnson syndrome),"스티븐존슨병,피부점막안증후군"
-눈질환,시신경염(Optic neuritis),시신경염증
-눈질환,안검내반(Entropion),"눈꺼풀 속말림,부안검,안검내번"
-눈질환,안검염(Blepharitis),눈꺼풀염증
-눈질환,안검하수(Ptosis of eyelid),눈꺼풀 처짐증
-눈질환,안구 건조증(Dry eye syndrome),"건성안증후군,눈건조,눈건조증,눈마름증후군,안구건조"
-눈질환,안암(eye cancer),"눈암,안구암,눈의 악성 종양"
-눈질환,알레르기성 결막염(Allergic conjunctivitis),"고초열성 결막염,아토피성 각결막염,알레르기성 결막염,접촉성 안검염,접촉성 안검염에 의한 결막염,춘계 각결막염,플릭텐성 각결막염,알러지성 결막염"
-눈질환,약시(Amblyopia),약시안
-눈질환,원추각막(Keratoconus),원뿔각막
-눈질환,유리체 출혈(Vitreous hemorrhage),초자체 출혈
-눈질환,익상편(Pterygium),군날개
-눈질환,중심장액성 맥락망막병증(Central Serous ChorioRetinopathy),중심장액성 맥락망막염
-눈질환,진균성 각막 궤양(Fungal corneal ulcers),"corneal fungal infection,각막진균증,진균성 각막궤양"
-눈질환,출혈성 결막염(Hemorrhagic conjunctivitis),"급성 아폴로눈병,급성출혈성결막염,아폴로눈병,유행성출혈성결막염"
-눈질환,홍채염(Iritis),"홍채모양체염,홍채염증"
-눈질환,화농성 안구내염(Purulent Endophthalmitis),"농성 내안구염,화농성 눈속 염증,화농성 눈염증,화농성 안구염"
-눈질환,황반변성(Macular degeneration),"노년 황반변성,황반 및 후극부의 변성 퍼가기"
-눈질환,황반천공(Macular hole),황반원공
-뇌신경정신질환,각기병(Beriberi),"각기병증,비타민 B1결핍증,비타민B1부족증,티아민결핍증"
-뇌신경정신질환,강박 장애(Obsessive-Compulsive Disorder),"강박신경증,강박증,강박성 장애"
-뇌신경정신질환,거스트만 증후군(Gerstmann Syndrome),"게르스트만 증후군,저스트만 증후군"
-뇌신경정신질환,건강염려증(Hypochondriasis),"건강염려증상,심기증,질병 불안장애"
-뇌신경정신질환,결핵성 수막염(Tuberculous meningitis),결핵성 뇌수막염
-뇌신경정신질환,경계성 인격장애(Borderline personality disorder),"경계선 인격장애,경계역 인격장애"
-뇌신경정신질환,경미한 인지장애(Mild cognitive impairment),"MCI,경도 인지장애,경도인지기능장애,경미 인지장애,경미한인지기능장애"
-뇌신경정신질환,경추 추간판 탈출증(Cervical HIVD),"경추수핵탈출증,목디스크,추간판 헤르니아,추간판장애,추간판탈출증"
-뇌신경정신질환,공황 장애(Panic disorder),"공황발작,우발적 발작성불안,임소공포"
-뇌신경정신질환,과호흡 증후군(Hyperventilation syndrome),"과다호흡,과다호흡증,과다호흡증후군,과호흡,과호흡증,과환기증후군"
-뇌신경정신질환,광견병(Rabies),"공수병,광견병 바이러스"
-뇌신경정신질환,광장공포증(Agoraphobia),광장공포
-뇌신경정신질환,군발성 두통 증후군(Cluster headache syndrome),"군발두통,군발두통증후군,송이 두통,송이두통증후군"
-뇌신경정신질환,근위축성 측색 경화증(Amyotrophic lateral sclerosis),"Lou Gehrig disease,근위축성 측삭경화증,루게릭,루게릭병"
-뇌신경정신질환,근육 긴장성 두통(Tension-type headache),긴장성두통
-뇌신경정신질환,근육긴장이상증(Dystonia),"근긴장이상,근긴장이상장애,근긴장이상증,근긴장장애,근육긴장장애,디스토니아,디스토니아병,디스토니아장애,디스토니아질환,근육긴장이상"
-뇌신경정신질환,금단 현상(Withdrawal Phenomenon),"withdrawal symptoms,금단증상"
-뇌신경정신질환,기면증(Narcolepsy),"기면발작,기면발작증,기면병,발작수면,수면발작,수면발작증,수면병"
-뇌신경정신질환,기분부전증(Dysthymia),"기분부전장애,만성우울증"
-뇌신경정신질환,기억상실증(amnesia),"기억상실,단기기억상실,단기기억상실증"
-뇌신경정신질환,길랑-바레 증후군(Guillain-Barre Syndrome),"polyneuritis,polyradiculo-neuropathy,갈리안바레 증후군,급성 염증성 탈수초성 다발성 신경병증,급성 특발성 다발성 근신경염,길랭-바레증후군,길렝-바레 증후군,다발성 척수신경증"
-뇌신경정신질환,난독증(Dyslexia),"congenital word-blindness,독서불능증,발달성 단어맹,발달적 독서 불능증,선천성 단어맹,실독증,읽기장애"
-뇌신경정신질환,뇌 동정맥 기형(Cerebral arteriovenous malformation),"cerebral arteriovenous malformation,뇌동정맥기형,뇌의 동정맥 기형,선천성 뇌혈관 기형,뇌혈관 기형"
-뇌신경정신질환,뇌경색(Cerebral infarction),"ischemic stroke,경색성 뇌졸중,뇌경색증,뇌색전증,뇌혈전증,허혈성 뇌졸증"
-뇌신경정신질환,뇌동맥류(Cerebral aneurysm),"뇌동맥꽈리,뇌지주막하 출혈,두개강 내 동맥류"
-뇌신경정신질환,뇌염(Encephalitis),수막뇌염
-뇌신경정신질환,뇌전증(Epilepsy),"epilepticseizure,epilepticsyndrome,간질발작,간질병,간질증후군,간질"
-뇌신경정신질환,뇌졸중(Cerebrovascular disease),"stroke,급성기 허혈성 뇌중풍,뇌졸증,뇌중풍,중풍,허혈성 뇌중풍,허혈성 뇌혈관 질환"
-뇌신경정신질환,뇌종양(Brain tumor),"뇌암,뇌종양"
-뇌신경정신질환,뇌출혈(Cerebral hemorrhage),"뇌 내 출혈,뇌실질내출혈,뇌일혈,출혈성 뇌졸중,출혈성 뇌중풍"
-뇌신경정신질환,뇌하수체 양성 및 악성 신생물(Malignant or benign neoplasm of Pituitary gland),"뇌하수체선종,프로락틴종,뇌하수체 종양,뇌하수체 악성 신생물,뇌하수체 양성 신생물"
-뇌신경정신질환,다발성 경화증(Multiple sclerosis),다발성 경화
-뇌신경정신질환,다발성 신경병증(Polyneuropathy),"다발신경병증,다발신경증"
-뇌신경정신질환,당뇨병성 말초신경병증(Diabetic polyneuropathy),"당뇨병성신경병증,당뇨성말초신경병증,당뇨성신경병증"
-뇌신경정신질환,대뇌성 거인증 (Sotos syndrome),소토스증후군
-뇌신경정신질환,두통(Headache),머리의 통증
-뇌신경정신질환,"떨림, 진전(Tremor)",수전증
-뇌신경정신질환,뚜렛 증후군(Tourette Syndrome),"뚜렛 장애,뚜렛병,뚜렛씨 장애,투렛 증후군"
-뇌신경정신질환,레이노병(Raynaud'S Phenomenon),"레이노 증후군,레이노드증후군,레이노씨병,레이노이드 증상,레이노이드 증후군,레이노이드 질환"
-뇌신경정신질환,리 증후군(Leigh syndrome),"Subacute necrotizing encephalomyelopathy,리씨증후군,아급성 괴사성 뇌척수염"
-뇌신경정신질환,말단비대증(Acromegaly),"acromegaly,거인증,말단거대증,선단거대증,선단비대증"
-뇌신경정신질환,말더듬이(Stuttering),"말더듬병,말더듬증"
-뇌신경정신질환,망상 장애(Delusional disorder),"과대망상,망상증"
-뇌신경정신질환,모야모야병(Moyamoya disease),"모야모야증,모야모야질환,양측 내경동맥 형성부전"
-뇌신경정신질환,뮌하우젠 증후군(Munchausen's syndrome),"가장성장애,대리 뮌하우젠 증후군,문하우젠증후군"
-뇌신경정신질환,바이러스성 뇌수막염(Viral meningitis),"뇌막염,뇌수막염,뇌척수막염,뇌척수염,수막염"
-뇌신경정신질환,박테리아성 뇌수막염(Bacterial meningitis),수막구균성수막염
-뇌신경정신질환,반사회성 인격장애(Antisocial Personality Disorder),"APD,psychopath,psychopathy,sociopath,sociopathy,반사회적 인격 장애,반사회적성격,반사회적인격,사이코패스,소시오패스,싸이코패스"
-뇌신경정신질환,반응성 애착장애(Reactive Attachment Disorder),"Reactive Attachment Disorder,애착장애"
-뇌신경정신질환,발모벽(Trichotillomania),"발모광,트리코틸로마니아"
-뇌신경정신질환,발작(Seizure),"대발작,소발작"
-뇌신경정신질환,베르니케 코시코프 증후군(Wernicke-korsakoff syndrome),베르니케 코르사코프 증후군
-뇌신경정신질환,병적 도벽(Pathological stealing),"Kleptomania,도벽,도벽병,도벽증,절도광"
-뇌신경정신질환,병적 방화(Pathological fire-setting),"Pyromania,방화광,상습방화,병적 발화"
-뇌신경정신질환,복합 부위 통증 증후군(Complex regional pain syndrome),"CRPS,reflex sympathetic dystrophy syndrome,반사성 교감신경 위축증,반사성교감신경위축증,반사성교감신경이영양증,통증증후군"
-뇌신경정신질환,분리 불안 장애(Separation Anxiety Disorder),"Separation Anxiety Disorder,격리불안장애,분리불안,분리불안장애"
-뇌신경정신질환,분열정동 장애(Schizoaffective disorders),"분열정동성장애,정신분열정동성장애,정신분열정동장애"
-뇌신경정신질환,불면증(Insomnia),잠장애
-뇌신경정신질환,불안 장애(Anxiety disorder),"불안증,不安障碍"
-뇌신경정신질환,비정형 파킨슨 증후군(Atypical Parkinsonism),"진행핵상마비,다계통 위축,피질 기저핵 변성,루이소체치매"
-뇌신경정신질환,사회공포증(Sociophobia),"performance anxiety,social anxiety disorder,sociophobia,대인공포증,대인기피증,무대공포증,발표공포증,사회불안장애"
-뇌신경정신질환,산후 우울증(Postpartum depression),"산후우울,산후우울감"
-뇌신경정신질환,삼차 신경병증(Trigeminal neuralgia),삼차신경통
-뇌신경정신질환,설인신경통(Glossopharyngeal neuralgia),혀인두신경통
-뇌신경정신질환,섬망(Delirium),급성 기질성 뇌 증후군
-뇌신경정신질환,섭식 장애(Eating disorder),"Anorexia Nervosa,거식증,신경성대식증,신경성식욕부진증,신경성폭식증,폭식증"
-뇌신경정신질환,성기능장애(Sexual dysfunctions),"Sexualanesthesia,불감증"
-뇌신경정신질환,성도착증(Paraphilia),"변태성욕,색정도착증,성적도착,성적도착증,성적이상,이상성욕"
-뇌신경정신질환,성인 주의력 결핍 과잉행동장애(Adult attention-deficit hyperactivity disorder),"성인 ADHD,성인 과잉행동장애"
-뇌신경정신질환,소아청소년기 우울증(Depression in childhood and adolescence),"아동 우울증,소아 우울증,청소년 우울증,사춘기 우울증"
-뇌신경정신질환,수두증(Hydrocephalus),뇌수종
-뇌신경정신질환,수막종(Meningioma),"뇌수막 종양,뇌수막종"
-뇌신경정신질환,수면 무호흡증(Sleep apnea),"sleep apnea syndrome,수면 무호흡,수면 무호흡 증후군"
-뇌신경정신질환,수면보행증(Somnambulism),"sleepwalking,몽유병,몽유증"
-뇌신경정신질환,스터지 웨버 증후군(Sturge Weber Syndrome),뇌막 혈관종증
-뇌신경정신질환,스핑고 지질증(Other sphingolipidosis),sphingolipodystrophy
-뇌신경정신질환,신경근병증(Radiculopathy),신경뿌리병증
-뇌신경정신질환,신경섬유종(Neurofibromatosis),"neurofibroma,신경섬유종양,신경섬유종증"
-뇌신경정신질환,신경성 식욕부진증(Anorexia nervosa),"거식증,신경성 식욕부진"
-뇌신경정신질환,신경성 폭식증(Bulimia nervosa),"addephagia,신경성 과식증,신경성 식욕대식증,충동성폭식증,폭식증"
-뇌신경정신질환,신경종(Neuroma),신경종양
-뇌신경정신질환,신경초종(Schwannoma),"쉬반종,시반종"
-뇌신경정신질환,신체형 장애(Somatic symptom disorder),"신체화 장애,somatoform disorder"
-뇌신경정신질환,실어증(Aphasia),"말못함증,부전실어,부전실어증,언어상실증"
-뇌신경정신질환,아스퍼거 증후군(Asperger disorder),"아스퍼거 장애,아스페르거 증후군"
-뇌신경정신질환,악성 신경교종(Malignant Glioma),"Glioma,뇌교종,신경교종"
-뇌신경정신질환,안면 마비(Facial palsy),"구안와사,안면신경마비,얼굴마비,와사풍"
-뇌신경정신질환,안면인식장애(Prosopagnosia),안면실인증
-뇌신경정신질환,알츠하이머병(Alzheimer's disease),"알쯔하이머,알쯔하이머 치매,알쯔하이머성 치매,알쯔하이머형 치매,알츠하이머,알츠하이머 치매,알츠하이머성 치매,알츠하이머형 치매,퇴행성 뇌질환,알쯔하이머병"
-뇌신경정신질환,알코올 의존성(Dependance of alcohol),"알코올 중독,알코올 중독증,알콜 중독,알콜중독증,알콜홀릭"
-뇌신경정신질환,알코올성 치매(Alcohol related dementia),"알콜성 치매,Alcoholic Dementia"
-뇌신경정신질환,양극성 장애(Bipolar disorder),"조울병,조울증"
-뇌신경정신질환,얼렌 증후군(Irlen syndrome),"광과민성증후군,시각적과부하증후군,시지각적스트레스증후군"
-뇌신경정신질환,외상 후 스트레스 장애(Post-traumatic stress disorder),"외상후 스트레스,PTSD"
-뇌신경정신질환,외상성 경막하 출혈(Traumatic subdural hemorrhage),"subdural hemorrhage,경막하 출혈,경막하혈종,급성 경막하 출혈"
-뇌신경정신질환,외상성 치매 (Traumatic dementia),"PTD,권투선수의 치매,만성 외상성 뇌병변,외상 후 치매,외상성 뇌병변"
-뇌신경정신질환,외상에 의한 뇌 손상(Traumatic brain injury),"brain concussion,뇌진탕"
-뇌신경정신질환,외상에 의한 척수 손상(Traumatic Spinal cord injury),외상성척수손상
-뇌신경정신질환,요추 추간판 탈출증(Herniation of intervertebral disk),"디스크,척추관 협착증,퇴행성 척추관 협착증,허리 디스크"
-뇌신경정신질환,우울증(Depressive disorder),"우울병,우울장애,울병,주요 우울장애"
-뇌신경정신질환,운동신경 질환(Motor neuron disease),"mnd,운동신경원 병"
-뇌신경정신질환,윌슨병(Willson disease),"Hepatolenticular degeneration,간렌즈핵변성,윌슨씨병"
-뇌신경정신질환,의상도착증(Transvestic fetishism),"transvestism,복장도착증"
-뇌신경정신질환,이차성 파킨슨증(Other parkinsonism),"약물 유도성 파킨슨증,정상압 수두증,혈관성 파킨슨증"
-뇌신경정신질환,인터넷 중독(Internet addiction),"게임중독,게임중독증,온라인게임중독,온라인주식중독,온라인주식중독증,인터넷중독증,채팅중독,채팅중독증,통신중독,통신중독증"
-뇌신경정신질환,일과성 뇌허혈증(Transient cerebral ischemia),"Transient Ischemic Attack,일과성 허혈성 발작,일과성뇌허혈발작,일과성뇌허혈현상"
-뇌신경정신질환,자발성 두개강 내 출혈(Spontaneous intracranial hemorrhage),"고혈압성 뇌출혈,뇌 내 출혈,뇌실질 내 출혈,뇌출혈,자발성 뇌내출혈"
-뇌신경정신질환,자폐증 / 자폐 스펙트럼 장애(Autism spectrum disorder),"자폐,자폐병,자폐성 장애,자폐성 질환,자폐스펙트럼장애,자폐증"
-뇌신경정신질환,잠금 증후군(Locked-in Syndrome),"감금증후군,락인증후군,락트-인 증후군"
-뇌신경정신질환,조현병(정신분열병)(schizophrenia),"정신분열,정신분열증"
-뇌신경정신질환,좌골신경통(Sciatica),궁둥뼈신경통
-뇌신경정신질환,주의력결핍 과잉행동장애(Attention-Deficit Hyperactivity Disorder),"ADHD,과운동성장애,과잉행동장애,주의력결핍,주의력결핍 과잉행동장애"
-뇌신경정신질환,중증 근무력증(Myasthenia gravis),"근무력증,중근무력증"
-뇌신경정신질환,지적장애(Intellectual disability),"정신박약,정신지체,Mental retardation"
-뇌신경정신질환,지주막하 출혈(Subarachnoid hemorrhage),"SAH,거미막밑 출혈,거미막하 출혈,지주막출혈"
-뇌신경정신질환,척수근육위축(Spinal muscular atrophy),"척수성근위축,척수성근위축증"
-뇌신경정신질환,"척수소뇌성 운동실조증 (Spinocerebellar ataxia, SCA)",척수소뇌실조증
-뇌신경정신질환,척추 뇌저 동맥 증후군(Vertebro-basilar artery syndrome),"vertebro-basilar insufficiency,척추기저동맥부전"
-뇌신경정신질환,척추 종양(Spine Bone Tumor),"척추암,척추 신생물"
-뇌신경정신질환,청신경초종(Vestibular schwannoma),"청신경 양성종양,청신경 종양,Acoustic neuroma"
-뇌신경정신질환,치매(Dementia),노인성 치매
-뇌신경정신질환,크로이츠펠트-야콥병(Creutzfeldt-Jakob disease),"CJD,vCJD,변종 크로이펠트-야콥병,야콥병,야곱병"
-뇌신경정신질환,테이-삭스병 (Tay-Sachs disease),흑내장가족성백치
-뇌신경정신질환,퇴행성 척추 장애(Degenerative spinal disorder),퇴행성 척추 질환
-뇌신경정신질환,틱 장애(Tic),"틱,틱증후군"
-뇌신경정신질환,파킨슨병(Parkinson's disease),"파킨슨질환,퍼킨슨병,특발파킨슨병"
-뇌신경정신질환,편집성 인격장애(Paranoid personality disorder),"편집적인격장애,편집증"
-뇌신경정신질환,피질하 경색과 백질뇌증을 동반하는 상염색체 우성 뇌동맥질환(Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy),CADASIL
-뇌신경정신질환,하지불안증후군(Restless Legs Syndrome),"Restless Legs Syndrome,하지불안증"
-뇌신경정신질환,해리 장애(Dissociative disorder),"다중인격,다중인격장애,이인성장애,해리성기억상실,해리성둔주,해리성장애,해리성정체감장애,해리성정체성장애,해리성정체장애"
-뇌신경정신질환,"행동 및 충동 장애(Disruptive, impulse-control and conduct disorders)","조절 장애,충동 장애,충동조절장애"
-뇌신경정신질환,헌팅톤 병(Huntington disease),무도병
-뇌신경정신질환,혼수(Coma),"Unconsciousness,의식불명,코마,코마상태,혼수상태"
-뇌신경정신질환,히스테리성 인격장애(Histrionic personality disorder),"연극성 인격장애,히스테리성 성격장애"
-성형미용 및 재건,구개열(Cleft palate),"구개파열,구순구개열,입천장갈림증"
-성형미용 및 재건,구순열(Cleft lip),"구순구개열,언청이,입술갈림증,토순"
-성형미용 및 재건,노화된 얼굴(Aging face),"노안,늙은 얼굴,얼굴 노화"
-성형미용 및 재건,돌출귀(Prominent Ear),"당나귀귀,미키마우스귀,박쥐귀"
-성형미용 및 재건,돌출입(Class II malocclusion),"부정교합,양악돌출증,상악돌출증,무턱"
-성형미용 및 재건,두개 안면 부조화(Craniofacial dysharmony),"납작머리,두개안면기형,자세성 사두증"
-성형미용 및 재건,두개 유합증(Craniosynostosis),"두개 조기유합,두개골 조기봉합증,두개골조기유합증,두개조기융합,머리뼈 붙음증"
-성형미용 및 재건,"불만족스러운 코의 모양(flat nose, saddle nose, hump nose)","납작코,안장코,매부리코"
-성형미용 및 재건,비 변형(Nose deformity),"코의 변형,휜코,비 만곡증,코 만곡증"
-성형미용 및 재건,사각턱(Prominent mandible angle),각진턱
-성형미용 및 재건,선천성 손 기형(Congenital hand anomaly),"손기형,수부 기형"
-성형미용 및 재건,소유방증(Micromastia),"작은 가슴,Small breast"
-성형미용 및 재건,소이증(Microtia),작은귀증
-성형미용 및 재건,신체 내 지방 불균형(Body fat imbalance),"미용 목적의 체형교정술,지방 흡입,체형교정술"
-성형미용 및 재건,안면 골절(Facial bone fracture),"안면골골절,얼굴골절,얼굴뼈골절"
-성형미용 및 재건,안면 비대칭(Facial asymmetry),"두상비대칭,얼굴비대칭,롬버그병"
-성형미용 및 재건,양안격리증(Hypertelorism),"두눈먼거리증,안와이개증,양안과다격리증"
-성형미용 및 재건,외꺼풀(Oriental eyelid),홑꺼풀
-성형미용 및 재건,주걱턱(Class III malocclusion),"부정교합,양악돌출증,상악돌출증,무턱"
-성형미용 및 재건,취한증(Osmidrosis),"겨드랑이 다한증,암내,액취증"
-성형미용 및 재건,턱뼈 성장 이상(Anomalies of the jaw),"돌출입,무턱증"
-성형미용 및 재건,함몰 유두(Inverted nipple),구융젖
-소아청소년질환,Rh 부적합 임신(Rh Incompatibility pregnancy),신생아의 Rh형에 의한 용혈성 질환
-소아청소년질환,가와사키병(Kawasaki Disease),"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
-소아청소년질환,거대세포 바이러스 질환(Cytomegaloviral diseases),사이토메갈로 바이러스 감염
-소아청소년질환,고관절 이형성증(DDH (developmental dysplasia of the hip)),"발달성고관절이형성증,발달성고관절탈구,선천성고관절이형성증,선천성고관절탈구,신생아고관절탈구,아기고관절탈구"
-소아청소년질환,고환 여성화 증후군(Testicular feminization syndrome),"고환여성화,남성호르몬 불감성 증후군,Androgen insensitivity syndrome"
-소아청소년질환,"과숙아, 만기 후 출산아(Post-term infant)","과기 출산아,만기후 출생아,Post-mature infant"
-소아청소년질환,구개열(Cleft palate),"구개파열,구순구개열,입천장갈림증"
-소아청소년질환,구순열(Cleft lip),"구순구개열,언청이,입술갈림증,토순"
-소아청소년질환,기관지폐 형성이상(Bronchopulmonary dysplasia),"폐 이형성증,기관지폐 이형성증"
-소아청소년질환,낭포성 히그로마(Cystic hygroma),낭성히그로마
-소아청소년질환,단심실(Single ventricle),"단심실 심장병,단일 심실"
-소아청소년질환,대동맥 협착(Aortic stenosis),대동맥판 협착
-소아청소년질환,대동맥 협착증(Coarctation of aorta),"대동맥 판막 협착증,대동맥축착증"
-소아청소년질환,대동맥궁 단절(Interrupted aortic arch),IAA
-소아청소년질환,대혈관 전위(Transposition of great artery),완전 대혈관 전위증
-소아청소년질환,댄디워커 증후군(Dandy-Walker syndrome),DWS
-소아청소년질환,동맥간증(Truncus arteriosus),"동맥간,동맥간 지속성 동맥줄기"
-소아청소년질환,동맥관 개존증(Patent ductus arteriosus),보탈로동맥관개존증
-소아청소년질환,두개 안면 부조화(Craniofacial dysharmony),"납작머리,두개안면기형,자세성 사두증"
-소아청소년질환,두개 유합증(Craniosynostosis),"두개 조기유합,두개골 조기봉합증,두개골조기유합증,두개조기융합,머리뼈 붙음증"
-소아청소년질환,뚜렛 증후군(Tourette Syndrome),"뚜렛 장애,뚜렛병,뚜렛씨 장애,투렛 증후군"
-소아청소년질환,라이 증후군(Reye syndrome),"라이에 증후군,레이증후군"
-소아청소년질환,로하드 증후군(ROHHAD Syndrome),"Rapid-onset obesity with hypothalamic dysfunction hypoventilation and autonomic dysregulation,심한 비만,시상하부 기능 장애,호흡부전 및 자율 신경 조절 장애를 동반하는 증후군"
-소아청소년질환,망막아세포종(Retinoblastoma),망막모세포종
-소아청소년질환,모야모야병(Moyamoya disease),"모야모야증,모야모야질환,양측 내경동맥 형성부전"
-소아청소년질환,모호한 생식기(Ambiguous genitalia),"intersex,intersexual,간성,반음양,반음양자,인터섹슈얼"
-소아청소년질환,미숙아 망막병증(Retinopathy of Prematurity),"premature infant of Retinopathy,preterm infant Retinopathy,미숙아 망막증"
-소아청소년질환,발살바동 동맥류 파열(Ruptured sinus of valsava aneurysm),발살바동동맥류
-소아청소년질환,발육부전성 좌심 증후군(Hypoplastic left heart syndrome),좌심 형성 부전 증후군
-소아청소년질환,방실 중격 결손(Atrioventricular septal defect),"방실 관 결손,방실중격 결손증,심내막상 결손,심방심실 중격 결손증"
-소아청소년질환,배꼽염(Omphalitis),"배꼽염,배꼽염증,제대염,제염"
-소아청소년질환,분리 불안 장애(Separation Anxiety Disorder),"Separation Anxiety Disorder,격리불안장애,분리불안,분리불안장애"
-소아청소년질환,사춘기 조숙(Precocious puberty),"성조숙증,조발 사춘기"
-소아청소년질환,상기도 감염(Upper respiratory infections),"common cold,감기"
-소아청소년질환,생식선 및 생식 세포의 신생물(Gonadal and germ cell neoplasma),"Germ cell tumor,생식세포종,생식세포종양"
-소아청소년질환,서혜부 탈장(Inguinal hernia),"사타구니 탈장,샅굴 탈장,샅 탈장,서혜 헤르니아"
-소아청소년질환,선천성 거대결장증(Hirschsprung disease),"Congenital aganglionic,megacolon,히르쉬스프룽병"
-소아청소년질환,선천성 눈 기형(Congenital malformations of eye),선천적 눈 기형
-소아청소년질환,선천성 담관 폐쇄증(Congenital Atresia of Bile Ducts),"담도폐쇄증,담관폐쇄증"
-소아청소년질환,선천성 사경(Congenital (sternomastoid) torticollis),"목 뒤틀림,선천기운목,선천성 근성 사경,선천성사경,신생아 사경,아기 사경"
-소아청소년질환,"선천성 소장 결손, 폐쇄 및 협착(Congenital absence, atresia and stenosis of intestine)","선천성 소장 결손,선천성 소장 폐쇄,선천성 소장 협착"
-소아청소년질환,선천성 손 기형(Congenital hand anomaly),"손기형,수부 기형"
-소아청소년질환,선천성 수신증(Congenital hydronephrosis),선천성 물콩팥증
-소아청소년질환,선천성 심장 질환(Congenital heart disease),"선천성 심장 기형,선천성 심장병"
-소아청소년질환,성홍열(Scarlet fever),"scarlatina,세균성 인후염"
-소아청소년질환,소아 류마티스 관절염(Juvenile rheumatoid arthritis),"류마토이드소아관절염,류마티스소아관절염,류머토이드소아관절염,류머티스소아,류머티스소아관절염,소아류마토이드관절염,소아류마티스관절염,소아류머토이드관절염,연소기 류머티스 관절염"
-소아청소년질환,소아청소년기 우울증(Depression in childhood and adolescence),"아동 우울증,소아 우울증,청소년 우울증,사춘기 우울증"
-소아청소년질환,수두증(Hydrocephalus),뇌수종
-소아청소년질환,수정대혈관 전위(Corrected TGA),수정대혈관 전위증
-소아청소년질환,신경모세포종(Neuroblastoma),신경모세포종
-소아청소년질환,신생아 가사(Neonatal asphyxia),"Asphyxia of newborn,Neonatal hypoxia,신생아저산소증,신생아질식"
-소아청소년질환,신생아 경련(Convulsions of newborn),"Neonatal seizures,신생아 경련발작,경기"
-소아청소년질환,신생아 괴사성 장염(Necrotizing enterocolitis of fetus and newborn),"Neonatal Necrotizing Enterocolitis,신생아 괴사성 소장결장염,태아 및 신생아의 괴사성 소장결장염"
-소아청소년질환,신생아 다혈구증(Polycythemia),"Polycythemia neonatorum,신생아 적혈구증가증"
-소아청소년질환,신생아 답즙정체증(Neonatal Cholestasis),"신생아 담즙정체,신생아 쓸개즙정체,담적,담적증"
-소아청소년질환,신생아 호흡곤란증후군(Neonatal respiratory distress syndrome),"RDS,신생아진행성호흡부전,신생아호흡부전,신생아호흡장애증후군,유리질막증,초자막 질환"
-소아청소년질환,신생아 황달(Neonatal jaundice),Neonatal hyperbilirubinemia
-소아청소년질환,심방 중격 결손(Atrial septal defect),"ASD,소아 심방중격결손,심방중격결손증"
-소아청소년질환,심실 중격 결손(Ventricular septal defect),"VSD,근성부 결손,막양부 결손,심실중격결손증,판막 하 결손"
-소아청소년질환,아스퍼거 증후군(Asperger disorder),"아스퍼거 장애,아스페르거 증후군"
-소아청소년질환,안면 비대칭(Facial asymmetry),"두상비대칭,얼굴비대칭,롬버그병"
-소아청소년질환,알포트 증후군(Alports syndrome),"Alport Syndrome,유전성 신장염"
-소아청소년질환,약시(Amblyopia),약시안
-소아청소년질환,엡스테인 심기형(Ebstein anomaly),"엡스타인기형,엡스테인 기형"
-소아청소년질환,영아 돌연사 증후군(Sudden Infant Death Syndrome),"유아급사증후군,영아급사증후군"
-소아청소년질환,영아 비대성 유문협착증(IHPS (infantile hypertrophic pyloric stenosis)),"Hypertrophic Pyloric Stenosis in newborn infants,선천성 비대성 유문협착증,신생아 비후성 유문협착증"
-소아청소년질환,영아 산통(Infantile Colic),"3-month colic,3개월산통,colic syndrome,evening colic,산통증후군,저녁산통"
-소아청소년질환,유당분해효소결핍증(Lactose intolerance),"우유 소화불량,유당분해효소결핍,유당불내증,젖당분해효소결핍,젖당불내성"
-소아청소년질환,유행성 이하선염(Mumps),"멈프스,볼거리"
-소아청소년질환,잠재성 이분 척추(Spina bifida occulta),"잠재성이분척추증,폐쇄성 이분척추"
-소아청소년질환,저신장(Short stature),"Nanocormia,성장장애,저신장증"
-소아청소년질환,전폐정맥연결 이상(Total anomalous pulmonary venous connection),"총폐정맥 환류 이상증,총폐정맥이상연결증"
-소아청소년질환,제대 탈장(Umbilical hernia),"Exomphalos,Omphalocele,배꼽 탈장,제대 허니아,제대 헤르니아"
-소아청소년질환,주의력결핍 과잉행동장애(Attention-Deficit Hyperactivity Disorder),"ADHD,과운동성장애,과잉행동장애,주의력결핍,주의력결핍 과잉행동장애"
-소아청소년질환,척수수막류(Myelomeningoceles),"Meningomyelocele,수막척수류,척추갈림증,척추이분증"
-소아청소년질환,천식(Asthma),"소아천식,운동유발성천식,직업성천식"
-소아청소년질환,태아 알코올 증후군(Fetal alcohol syndrome),"FASD,Fetal alcohol spectrum disorder,태아알코올스펙트럼장애,태아알콜중후군"
-소아청소년질환,틱 장애(Tic),"틱,틱증후군"
-소아청소년질환,팔로 사 징후(Tetralogy of Fallot with/without PA),"tof,팔로4징,팔로4징증,팔로4징후,팔로씨4징,팔롯4징,팔롯사징후,활로4징"
-소아청소년질환,항문 폐쇄증(Imperforate anus),"무공성 항문,쇄항,폐쇄성 항문"
-소아청소년질환,헤노호 쉰라인 자반증(Henoch-Schonlein purpura),"H-S 자반증(HSP),과민성 혈관염,알레르기성 자반증,알레르기성 혈관염"
-소아청소년질환,횡격막 탈장(Diaphragmatic hernia),"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
-소화기질환,간 전이(Liver Metastasis),metastatic tumors of the liver
-소화기질환,간 혈관종(Hepatic hemangioma),"hepatichemangioma,간해면상혈관종,간혈관종,해면상간혈관종"
-소화기질환,간경화(Liver cirrhosis),"간경변,간경변병,간경변증,간경화병,간경화증,간섬유병,간섬유증,간섬유화병,간섬유화증,간의경변"
-소화기질환,간내 담석(IHD stone),"간내 결석,간내결석증,간내담석증,간석증"
-소화기질환,간농양(Liver abscess),간의 고름집
-소화기질환,간디스토마(Clonorchisis sinensis),간흡충증
-소화기질환,간문부 담관암(Klatskin's tumor),"간문부암,근위부 담관암,상부 담관암,클라츠킨 종양,Klatskin's tumor"
-소화기질환,간성 뇌증(Hepatic encephalopathy),"hepatic coma,간성뇌증,간성혼수,간성혼수증"
-소화기질환,간세포성 암종(Hepatocellular carcinoma),"liver cancer,간세포암,간세포암종,간암"
-소화기질환,간염(Hepatitis),"간세포 염증,간염증"
-소화기질환,간의 양성 신생물(Benign neoplasm of the liver),"간의 양성 종양,간종양"
-소화기질환,게실 질환(Diverticular disease),"게실병,게실염,게실증,대장 게실"
-소화기질환,경화성 담관염(Sclerosing cholangitis),"경화성 담도염,원발경화성담관염"
-소화기질환,궤양성 대장염(Ulcerative colitis),"궤양대장염,염증성 장 질환,큰 창자염"
-소화기질환,급성 A형 간염(Acute hepatitis A),a형간염
-소화기질환,급성 담낭염(Acute cholecystitis),급성 쓸개염
-소화기질환,급성 바이러스성 간염(Acute viral hepatitis),"Viral Hepatitis,바이러스 간염,바이러스성 간염"
-소화기질환,급성 위장염(Acute gastroenteritis),"위장염,급성 위염"
-소화기질환,급성 충수염(Acute appendicitis),"급성 충수 돌기염,급성맹장염"
-소화기질환,기능성 위장 장애(Functional Gastrointestinal Disorder),"소화불량,신경성 위염,신경성 위장병"
-소화기질환,노로바이러스 장염(Norovirus Gastroenteritis),"Norovirus,노로바이러스,노로바이러스식중독"
-소화기질환,단장 증후군(Short Bowel Syndrome),"작은창자증후군,짧은 창자증후군"
-소화기질환,담관암(Cholangiocarcinoma),"담관악성종양,담관암종,담도암"
-소화기질환,담낭 선근종증(Aadenomyomatosis of Gallbladder),담낭선근종
-소화기질환,담낭 용종(GB polyp),"담낭 양성용종,담낭 폴립,쓸개용종"
-소화기질환,담낭암(GB cancer),"담낭 선암종,담낭악성종양,쓸개악성종양,쓸개암"
-소화기질환,담석(GB stone),"담석증,담낭결석"
-소화기질환,대장 용종(Polyp of colon),"선종성 용종,용종"
-소화기질환,대장암(Colon cancer),"결장암,대장악성종양,대장암종,대장의 악성신생물"
-소화기질환,대장염(Colitis),"급성 대장염,대장질환,만성 대장염"
-소화기질환,대장의 양성 종양(Benign colon tumor),대장양성종양
-소화기질환,독성 간염(Toxic hepatitis),"약물 유인성 간염,약인성 간염"
-소화기질환,만성 B형 간염(Chronic hepatitis B),B형간염
-소화기질환,만성 C형 간염(Chronic hepatitis C),C형간염
-소화기질환,만성 담낭염(Chronic cholecystitis),"담낭염,담낭염증,쓸개염,쓸개염증"
-소화기질환,만성 췌장염(Chronic pancreatitis),재발성 췌장염
-소화기질환,말로리-바이스 증후군(Mallory-weiss Syndrome),"말로리 웨이즈 증후군,맬러리-바이스증후군,맬러리바이스증후군"
-소화기질환,맹장염(Appendicitis),"꼬리염,충수돌기염,충수염"
-소화기질환,문맥색전증(Portal vein thrombosis),문맥색전
-소화기질환,바이러스성 장염(Viral enteritis(Rota)),"Viral enteritis,로타바이러스,로타바이러스 장염,장염"
-소화기질환,바터 팽대부 암(AOV cancer),십이지장 유두암
-소화기질환,반티 증후군(Banti syndrome),특발성 문맥고혈압
-소화기질환,반흔 탈장(Incisonal hernia),"절개 헤르니아,절개부 탈장,절개성 탈장,절개허니아,반흔성 탈장"
-소화기질환,버드 키아리 신드롬(Budd-Chiari syndrome),"Chiari-Budd syndrome,버드증후군,키아리-버드 증후군,키아리증후군,버드-키아리 증후군"
-소화기질환,변실금(Fecal incontinence),대변실금
-소화기질환,복강 내 출혈(Intraperitoneal Bleeding),복강출혈
-소화기질환,복막염(Peritonitis),복막염증
-소화기질환,복부 대동맥류(Abdominal aortic Aneurysm),복부동맥류
-소화기질환,복부 통증(Abdominal Pain),"배아픔,배앓이,배탈,복통,산통"
-소화기질환,석회화 담낭(Porcelain GB),"석회화된 만성 담낭염,자기양 담낭"
-소화기질환,선천성 거대결장증(Hirschsprung disease),"Congenital aganglionic,megacolon,히르쉬스프룽병"
-소화기질환,선천성 담관 폐쇄증(Congenital Atresia of Bile Ducts),"담도폐쇄증,담관폐쇄증"
-소화기질환,"선천성 소장 결손, 폐쇄 및 협착(Congenital absence, atresia and stenosis of intestine)","선천성 소장 결손,선천성 소장 폐쇄,선천성 소장 협착"
-소화기질환,세균성 이질(Shigellosis),"시겔라증,이질"
-소화기질환,셀리악병(Celiac disease),"글루텐민감창자병증,만성소화장애증,비열대스프루,소아지방변증"
-소화기질환,소장암(Small bowel cancer),"작은 창자의 악성 종양,작은 창자암"
-소화기질환,소장의 혈관 장애(Vascular disorders of intestine),"소장 혈관성 장애,소장혈관장애,창자 혈관성 장애"
-소화기질환,소화관의 이물(Foreign body in alimentary tract),"소화관의이물질,소화관이물,소화관이물질"
-소화기질환,소화불량(Dyspepsia),"indigestion,급체,기능성 위장 장애,소화장애,위장 장애,체,체한경우,체했을때"
-소화기질환,식도 정맥류(Esophageal varices),Esophageal Varix
-소화기질환,식도암(Esophageal cancer),식도암종
-소화기질환,식도염(Esophagitis),"급성 식도염,부식성 식도염"
-소화기질환,식도의 이물(Foreign body in esophagus),"식도의 이물질,식도이물,식도이물질"
-소화기질환,식도의 평활근종(Leiomyoma of esophagus),"식도민무늬근종,식도평활근종"
-소화기질환,식도이완불능증(Esophageal Achalasia),"분문연축,식도 무연동증,식도의 근육협동장애,식도의 무연동증"
-소화기질환,식중독(Foodborne illness),Food poisoning
-소화기질환,신생아 괴사성 장염(Necrotizing enterocolitis of fetus and newborn),"Neonatal Necrotizing Enterocolitis,신생아 괴사성 소장결장염,태아 및 신생아의 괴사성 소장결장염"
-소화기질환,신생아 답즙정체증(Neonatal Cholestasis),"신생아 담즙정체,신생아 쓸개즙정체,담적,담적증"
-소화기질환,십이지장 궤양(Duodenal ulcer),소화성궤양
-소화기질환,아메바성 간농양(Amebic liver abscess),아메바성 간 고름집
-소화기질환,알코올성 간질환(Alcoholic liver disease),"알콜성 간질환,음주 간질환"
-소화기질환,영아 비대성 유문협착증(IHPS (infantile hypertrophic pyloric stenosis)),"Hypertrophic Pyloric Stenosis in newborn infants,선천성 비대성 유문협착증,신생아 비후성 유문협착증"
-소화기질환,용혈성 요독 증후군(Hemolytic Uremic Syndrome),"햄버거병,HUS"
-소화기질환,원발성 담즙성 경화증(Primary Biliary cirrhosis),"담즙성 간경변,담즙성 간경화,원발성 담관간경화,원발성 담즙성 간경변증,원발성 담즙성 간경화,원발성 담즙성 경화"
-소화기질환,위궤양(Gastric ulcer),"소화성 궤양,십이지장 궤양"
-소화기질환,위막성 대장염(Pseudomembranous colitis),"거짓막결장염,거짓막잘룩창자염,위막성 대장염,위막성결정염,위박성장염"
-소화기질환,위말트 림프종 (Gastric MALT lymphoma),"MALToma,위몰트림프종"
-소화기질환,위식도 역류성 질환(Gastro-esophagus reflux disease),"역류성 식도염,위 식도 역류질환"
-소화기질환,위암(Stomach cancer),"Gastric cancer,Malignant neoplasm of stomach,cancer of the stomach,위 악성종양,위선암,위선암종,위암종"
-소화기질환,위염(Gastritis),위염증
-소화기질환,위용종(Gastric polyp),"양성 위종양,위물혹,위폴립"
-소화기질환,위장관 결핵(Gastrointestinal tuberculosis),"위결핵,장결핵"
-소화기질환,위장관 기질 종양(Stomach GIST),"위장관 간질 종양,기스트,GIST,위장관 기질적 종양"
-소화기질환,윌슨병(Willson disease),"Hepatolenticular degeneration,간렌즈핵변성,윌슨씨병"
-소화기질환,유당분해효소결핍증(Lactose intolerance),"우유 소화불량,유당분해효소결핍,유당불내증,젖당분해효소결핍,젖당불내성"
-소화기질환,이소성 췌장(Ectopic pancreas),"aberrant pancreas,heterotopic pancreas"
-소화기질환,자가면역성 간염(Autoimmune hepatitis),"Luphoid hepatitis,루포이드 간염,자가면역 간염"
-소화기질환,자극성 장 증후군(Irritable bowel syndrome),"과민성대장,과민성대장증후군,과민성장증후군,과민성창자,과민성창자증후군,자극성 창자증후군,자극성대장증후군,자극성장증후군"
-소화기질환,장염전(Volvulus),"장꼬임,장염전증,장의 꼬임,장의 염전,장축염전증"
-소화기질환,장유착(Intestine adhesions),장유착증
-소화기질환,장중첩증(Intussusception),"장겹칩증,창자겹침증"
-소화기질환,장티푸스(typhoid fever),"염병,장질 부사"
-소화기질환,장폐색(Intestinal obstruction),"ileus,장폐색증"
-소화기질환,재발성 탈장(Recurrent hernia),"재발성헤르니아,탈장재발"
-소화기질환,전격성 간염(Fulminant Hepatic Failure),"Acute liver failure,급성 간부전"
-소화기질환,제대 탈장(Umbilical hernia),"Exomphalos,Omphalocele,배꼽 탈장,제대 허니아,제대 헤르니아"
-소화기질환,조기 위암(Early gastric cancer),"위암 조기,초기위암"
-소화기질환,지방간(Fatty liver),"비알코올성 지방간,비알콜성지방간,알코올성 지방간,알콜성지방간"
-소화기질환,직장암(Rectal cancer),"직장악성종양,직장암종"
-소화기질환,"직장의 양성 종양(Rectum, benign tumor)","직장 용종,직장 종양,직장양성종양"
-소화기질환,진행성 위암(Advanced gastric cancer),진행된위암
-소화기질환,총담관 낭(Choledochal cyst),"담관 낭종,선천성 담관 확장증"
-소화기질환,총담관 담석(CBD stone),"쓸개관 결석,총수담관 결석,총담관 결석"
-소화기질환,충수암(appendiceal carcinoma),"맹장암,충수돌기암"
-소화기질환,췌장 전이암(Pancreatic metastasis),"전이성 췌장 종양,전이성 췌장암"
-소화기질환,췌장염(Pancreatitis),"췌장염증,이자염"
-소화기질환,치핵(Hemorrhoids),치질
-소화기질환,카롤리병(Caroli’s disease),"총담관낭 5형,카롤리증후군"
-소화기질환,크론병(Crohn's disease),"국한성 창자염,염증성 장질환,육아종성 대장염,크론씨병"
-소화기질환,탈항(Anal prolapse),"직장탈,탈출성 치핵"
-소화기질환,항문 누공(Anal fistula),치루
-소화기질환,항문 열구(Anal fissure),"치열,항문열창"
-소화기질환,항문 주위 농양(Perianal abscess),"항문농양,항문직장 고름집"
-소화기질환,항문 폐쇄증(Imperforate anus),"무공성 항문,쇄항,폐쇄성 항문"
-소화기질환,항문소양증(Pruritusani),"항문가려움,항문가려움증,항문소양,항문소양감"
-소화기질환,항문암(Anal cancer),"항문관암,항문악성종양,항문의 악성신생물"
-소화기질환,헬리코박터균 감염(Helicobacter pylori infection),"헬리코박터,헬리코박터균,헬리코박터파일로리감염증"
-순환기질환,WPW 증후군(Wolff-Parkinson-White syndrome),"볼프파킨스화이트증후군,볼프파킨슨화이트증후군,빈맥증후군,심실조기흥분증후군,조기흥분증후군"
-순환기질환,가와사키병(Kawasaki Disease),"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
-순환기질환,결절성 다발동맥염(Polyarteritis nodosa),"결절다발동맥염,결절성동맥주위염"
-순환기질환,경동맥 협착증(Carotid artery stenosis),"경동맥협착,죽상경화성경동맥협착증,목동맥 협착증"
-순환기질환,고콜레스테롤혈증(Pure hypercholesterolemia),"고콜레스테롤혈,과콜레스테롤,과콜레스테롤혈증,콜레스테롤과다증"
-순환기질환,고혈압(Essential (primary) hypertension),"High blood pressure,Hypertension,본태성 고혈압,속발성 고혈압"
-순환기질환,급성 관동맥 증후군(Acute Coronary Syndrome),"ACS,급성 협심증"
-순환기질환,급성 류마티스성 열(Acute Rheumatic fever),"급성 류머티스 열,류마티스 열,류마티스성열,류머트열,류머티스 열,류머티스성열"
-순환기질환,급성 심근경색증(Acute myocardial infarction),"급성 심근경색,동맥증후군,심근경색,심근경색증"
-순환기질환,단심실(Single ventricle),"단심실 심장병,단일 심실"
-순환기질환,대동맥 박리(Aortic dissection),"대동맥 박리증,박리성 대동맥류"
-순환기질환,대동맥 협착(Aortic stenosis),대동맥판 협착
-순환기질환,대동맥 협착증(Coarctation of aorta),"대동맥 판막 협착증,대동맥축착증"
-순환기질환,대동맥궁 단절(Interrupted aortic arch),IAA
-순환기질환,대동맥판막 기능부전(Aortic (valve) insufficiency),"Aortic insufficiency,대동맥판막 기능부전증,대동맥판폐쇄부전,대동맥판폐쇄부전증"
-순환기질환,대동맥판막 협착(Aortic (valve) stenosis),"대동맥 판 협착,대동맥 판 협착증,대동맥 판막 협착증"
-순환기질환,대혈관 전위(Transposition of great artery),완전 대혈관 전위증
-순환기질환,동기능 부전 증후군(Sick sinus syndrome),"동기능부전증,동방결절기능부전,동방결절기능부전증,동방결절기능부전증후군"
-순환기질환,동맥간증(Truncus arteriosus),"동맥간,동맥간 지속성 동맥줄기"
-순환기질환,동맥관 개존증(Patent ductus arteriosus),보탈로동맥관개존증
-순환기질환,동맥류(Other aneurysm),"가성 동맥류,선천성 동맥류,진성 동맥류"
-순환기질환,동맥색전증 및 혈전증(Arterial embolism and thrombosis),"Thrombosis,embolism,뇌 동맥 혈전증,뇌동맥 색전증,동맥 혈전색전증,동맥색전,동맥색전증,동맥혈전,동맥혈전증,색전증,혈전색전증,혈전증"
-순환기질환,두통(Headache),머리의 통증
-순환기질환,레이노병(Raynaud'S Phenomenon),"레이노 증후군,레이노드증후군,레이노씨병,레이노이드 증상,레이노이드 증후군,레이노이드 질환"
-순환기질환,림프부종(Lymphedema),"림프수종,임파종대"
-순환기질환,마르판 증후군 (Marfan syndrome),"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
-순환기질환,발살바동 동맥류 파열(Ruptured sinus of valsava aneurysm),발살바동동맥류
-순환기질환,발육부전성 좌심 증후군(Hypoplastic left heart syndrome),좌심 형성 부전 증후군
-순환기질환,발작성 상심실성 빈맥(Paroxysmal Supraventricular Tachycardia),"PSVT,발작성 심실상성 빈맥,방실결절 회귀성 빈맥,방실회귀성 빈맥"
-순환기질환,방실 중격 결손(Atrioventricular septal defect),"방실 관 결손,방실중격 결손증,심내막상 결손,심방심실 중격 결손증"
-순환기질환,복부 대동맥류(Abdominal aortic Aneurysm),복부동맥류
-순환기질환,부르가다 증후군(Brugada Syndrome),"부르가다,브루가다,브루가다 증후군"
-순환기질환,부정맥(Cardiac arrhythmias),심장 부정맥
-순환기질환,불안정형 협심증(Unstable angina),"불안정협심증,비안정성협심증"
-순환기질환,상대정맥 증후군(Superior vena cava Syndrome),SVC Syndrome
-순환기질환,서맥(Bradycardia),"느린 맥박,느린맥"
-순환기질환,선천성 심장 질환(Congenital heart disease),"선천성 심장 기형,선천성 심장병"
-순환기질환,수정대혈관 전위(Corrected TGA),수정대혈관 전위증
-순환기질환,수족냉증(Coldness of hands and feet),손발냉증
-순환기질환,승모판 기능부전(Mitral (valve) insufficiency),"mitral insufficiency,승모판기능부전증,승모판막역류증,승모판폐쇄부전"
-순환기질환,승모판 협착(Mitral (valve) stenosis),"Mitral stenosis,승모판협착증"
-순환기질환,심계항진(Palpitations),"가슴 두근거림,두근거림"
-순환기질환,심근병증(Cardiomyopathy),"비후성심근증,심근증,제한성 심근증,확장성심근증"
-순환기질환,심근염(Myocarditis),심근염증
-순환기질환,심낭 삼출 (Pericardial effusion),"심낭삼출,심낭삼출액,심장막 삼출액"
-순환기질환,심낭 압전(Cardiac tamponade),"심낭압전증,심장 눌림증,심장압전,심장압전증"
-순환기질환,심낭염(Pericarditis),"심낭염증,심막염,심막염증"
-순환기질환,심내막염(Endocarditis),"infectiveendocarditis,감염성심내막염,급성감염성심내막염,급성심내막염,심내막염증,심장내막염,심장내막염증,아급성감염성심내막염,아급성심내막염"
-순환기질환,심방 세동(Atrial fibrillation),심방 잔떨림
-순환기질환,심방 중격 결손(Atrial septal defect),"ASD,소아 심방중격결손,심방중격결손증"
-순환기질환,심부정맥 색전증(Deep vein thrombosis),"Deep vein thrombosis,심부정맥 혈전증,이코노미 클래스 증후군"
-순환기질환,심실 빈맥(Ventricular tachycardia),"다형 심실빈맥,단형 심실빈맥,비지속성 심실빈맥,심실성빈맥,지속성 심실빈맥"
-순환기질환,심실 중격 결손(Ventricular septal defect),"VSD,근성부 결손,막양부 결손,심실중격결손증,판막 하 결손"
-순환기질환,심장 종양(Cardiac tumor),"심장 암종,심장암"
-순환기질환,심장 판막 질환(Valvular heart disease),심장판막증
-순환기질환,심장신경성 실신(Neurocardiogenic syncope),"미주신경성 실신,혈관미주신경성 실신"
-순환기질환,엡스테인 심기형(Ebstein anomaly),"엡스타인기형,엡스테인 기형"
-순환기질환,오래된 심근경색증(Old myocardial infarction),"만성 심근경색증,만성심근경색"
-순환기질환,울혈성 심부전(Congestive heart failure),"울혈성심부전증,울혈심부전,울혈심부전증"
-순환기질환,이상지질혈증(Dyslipidemia),이상지질단백혈증
-순환기질환,잠수병(Diver's disease),"bends,caisson disease,decompression sickness,감압병,벤즈,잠수병통증,잠수부병,잠함병,잠합병,케이슨병"
-순환기질환,장간막 동맥 혈전증(Mesenteric Arterial Thrombosis),장간막 혈전증
-순환기질환,저혈압(Hypotension),"기립성 저혈압,본태성 저혈압"
-순환기질환,전도 장애(Conduction disorders),"심장전도장애,심장전도계 이상"
-순환기질환,전폐정맥연결 이상(Total anomalous pulmonary venous connection),"총폐정맥 환류 이상증,총폐정맥이상연결증"
-순환기질환,죽상경화증(Atherosclerosis),"동맥경화,동맥경화증"
-순환기질환,척추 뇌저 동맥 증후군(Vertebro-basilar artery syndrome),"vertebro-basilar insufficiency,척추기저동맥부전"
-순환기질환,측두동맥염(Temporal arteritis),"Giant Cell Arteritis,거대세포 동맥염,노인 혈관성 두통,노인성 혈관성 두통,측두동맥염증"
-순환기질환,타카야수 혈관염(Takayasu’s Arteritis),"pulseless disease,대동맥궁 증후군,대동맥활 증후군,타카야수동맥염,다까야수혈관염"
-순환기질환,타코츠보 심근증(Takotsubo cardiomyopathy),"스트레스성 심근증,상심증후군,상실심장증후군,스트레스 유발성성 심근증,Broken heart syndrome,Broken heart disease,Apical ballooning syndrome,Stress (induced) cardiomyopathy"
-순환기질환,팔로 사 징후(Tetralogy of Fallot with/without PA),"tof,팔로4징,팔로4징증,팔로4징후,팔로씨4징,팔롯4징,팔롯사징후,활로4징"
-순환기질환,폐 혈전색전증(Pulmonary thromboembolism),"폐동맥 색전증,폐색전증"
-순환기질환,폐색성 혈전 혈관염 (Thromboangiitis obliterans),"Buerger Disease,Buergers Disease,버거씨병,뷰르거병,폐색혈전혈관염,폐쇄혈전혈관염"
-순환기질환,폐성 고혈압(Pulmonary hypertension),"폐고혈압,폐동맥 고혈압,폐동맥고혈압"
-순환기질환,하지 정맥류(Varicose veins),"정맥류,다리 정맥류"
-순환기질환,허혈성 심질환(Ischemic heart disease),"허혈성심장병,허혈성심장질환"
-순환기질환,헤노호 쉰라인 자반증(Henoch-Schonlein purpura),"H-S 자반증(HSP),과민성 혈관염,알레르기성 자반증,알레르기성 혈관염"
-순환기질환,혈관염(Vasculitis),"거대세포 혈관염,과민성 혈관염,다발성 결절성 혈관염,혈관염증"
-순환기질환,협심증(Angina pectoris),"coronary syndrome,관동맥 증후군,심근허혈"
-순환기질환,흉부 대동맥류(Thoracic aortic Aneurysm),가슴대동맥류
-순환기질환,흉통(Chest pain),가슴통증
-신장비뇨기질환,PSA 상승(Elevated PSA),전립선특이항원 상승
-신장비뇨기질환,간질성 방광염(Interstitial Cystitis),"만성 방광염,방광 통증 증후군"
-신장비뇨기질환,감돈포경(Paraphimosis),과장포피
-신장비뇨기질환,고나트륨혈증(Hypernatremia),"고나트륨증,고장성 및 고나트륨혈증,과나트륨증,과나트륨혈증"
-신장비뇨기질환,고마그네슘혈증(Hypermagnesemia),"고마그네슘증,과마그네슘증,과마그네슘혈증"
-신장비뇨기질환,고칼륨혈증(Hyperkalemia),"고칼륨증,고칼륨혈,고포타시움혈증,과칼륨증,과칼륨혈,과칼륨혈증"
-신장비뇨기질환,고환 종양(Tumors of testis),고환암
-신장비뇨기질환,고환염(Orchitis),고환염증
-신장비뇨기질환,고환의 염전(Torsion of testis),고환 염전
-신장비뇨기질환,급성 간질성 신염(Acute tubulo-interstitial nephritis),세뇨관 간질성 신염
-신장비뇨기질환,급성 방광염(Acute cystitis),"방광 감염,방광 염증,방광염,오줌소태,하부요로감염"
-신장비뇨기질환,급성 신부전(Acute renal failure),"급성신부전증,급성신장기능상실증,급성콩팥기능상실증"
-신장비뇨기질환,급성 신우신염(Acute pyelonephritis),"신우신염,신우염"
-신장비뇨기질환,남성 갱년기(Andropause),"노인 남성의 남성 호르몬 부분결핍증(PADAM : progressive patial androgen deficiency in anging male ),노인 남성의 남성 호르몬 결핍증 (ADAM : androgen deficiency in anging male)"
-신장비뇨기질환,남성 불임(Male infertility),"sterilitas virilis,남성 불임증,불임남성"
-신장비뇨기질환,낭성 신장 질환(Cystic kidney disease),"Polycystic kidney,다낭성 신증,신장물혹,PKD"
-신장비뇨기질환,만성 신부전(Chronic renal failure),만성콩팥기능상실증
-신장비뇨기질환,만성 신우신염(Chronic pyelonephritis),만성 신우염
-신장비뇨기질환,만성 전립선염(Chronic prostatitis),만성 전립샘염
-신장비뇨기질환,말기 신질환(End stage renal disease),말기 신장(콩팥)병
-신장비뇨기질환,매독(Syphilis),잠복 매독
-신장비뇨기질환,면역글로불린 A 신병증(IgA nephropathy),"면역글로불린 A 신병증,면역글로빈 A 신병증,버거병,버거스씨병,Bergers disease,IgA 신병증,IgA 신증"
-신장비뇨기질환,무정자증(azoospermia),희소정자증
-신장비뇨기질환,발작성야간혈색뇨(Paroxysmal nocturnal hemoglobinuria),"PNH,발작성 혈색소뇨"
-신장비뇨기질환,방광암(Bladder cancer),"Malignant neoplasm of bladder,방광 내 신생물,방광선암"
-신장비뇨기질환,방광의 신경근육 기능 장애(Neuromuscular dysfunction of bladder),방광의 신경근 기능장애
-신장비뇨기질환,방광질 누공(Vesicovaginal fistula),방광질루
-신장비뇨기질환,방광탈(Cystocele),"방광낭류,방광류,방광탈출,방광탈출증"
-신장비뇨기질환,배뇨통(Dysuria),배뇨곤란
-신장비뇨기질환,복압성 요실금(Stress urinary incontinence),"긴장성 요실금,스트레스성 요실금"
-신장비뇨기질환,부고환염(Epididymitis),부고환염증
-신장비뇨기질환,비임균성 요도염(Nongonococcal urethritis),"비임질성 요도염,성기 클라미디아 감염증,클라미디아"
-신장비뇨기질환,사구체신염(Glomerulonephritis),"급성사구체신염,만성사구체신염,신염,신장염"
-신장비뇨기질환,사면발이증(Pediculosis pubis),음모슬증
-신장비뇨기질환,샅(서혜)육아종(Granuloma inguinale),"donovanosis,도노반증,사타구니육아종,샅고랑육아종,샅육아종,서혜육아종"
-신장비뇨기질환,서혜부 탈장(Inguinal hernia),"사타구니 탈장,샅굴 탈장,샅 탈장,서혜 헤르니아"
-신장비뇨기질환,선천성 수신증(Congenital hydronephrosis),선천성 물콩팥증
-신장비뇨기질환,성기능장애(Sexual dysfunctions),"Sexualanesthesia,불감증"
-신장비뇨기질환,성병(Sexually transmitted disease),"STD,성감염질환,성행위로 전파되는 질환"
-신장비뇨기질환,소변 정체(Retention of urine),소변정체증
-신장비뇨기질환,수신증(Hydronephrosis),"물콩팥증,요신증"
-신장비뇨기질환,신동맥 협착증(Renal artery stenosis),신동맥 협착
-신장비뇨기질환,신부전(Renal failure),"kidney failure,신부전증"
-신장비뇨기질환,신세포암종(Renal cell carcinoma),"renal cancer,신세포암,신장암"
-신장비뇨기질환,신우요관 폐색(UPJ obstruction),신우요관폐색증
-신장비뇨기질환,신우요관암(Renal pelvis cancer),신우뇨관암
-신장비뇨기질환,신장 결석(Renal stone),"신결석증,신장결석증,신결석"
-신장비뇨기질환,신장 이형성증(Renal dysplasia),"신장이형성,이형성신장"
-신장비뇨기질환,신장의 신생물(Neoplasm of the kidney),신장종양
-신장비뇨기질환,신증후군(Nephrotic syndrome),신증
-신장비뇨기질환,신증후성 출혈열(Hemorrhagic fever with renal syndrome),"신증후군 출혈열,신증후출혈열,유행성 출혈열"
-신장비뇨기질환,알포트 증후군(Alports syndrome),"Alport Syndrome,유전성 신장염"
-신장비뇨기질환,야뇨증(Enuresis),유뇨증
-신장비뇨기질환,양성 전립선 비대증(Benign prostatic hyperplasia),"전립샘의 증식,전립선비대,전립선비대증"
-신장비뇨기질환,요관 결석(Ureteral stone),요로결석
-신장비뇨기질환,요도하열(Hypospadias),"hypospadia,요도밑열림증,요도하열증"
-신장비뇨기질환,요로 감염(Urinary tract infection),요로염
-신장비뇨기질환,요로결석(Urolithiasis),요로결석증
-신장비뇨기질환,요실금(Urinary incontinence),"노인성요실금,노인요실금"
-신장비뇨기질환,용혈성 요독 증후군(Hemolytic Uremic Syndrome),"햄버거병,HUS"
-신장비뇨기질환,음경 발기지속증(Priapism),"발기지속,발기지속증,지속발기증"
-신장비뇨기질환,음경만곡증(Peyronie’s disease),페이로니씨병
-신장비뇨기질환,"음낭 내 부속기 염전(Intrascrotal appendage, torsion)",음낭부속기염전
-신장비뇨기질환,음낭수종(Hydrocele),"물음낭증,음낭수류"
-신장비뇨기질환,인유두종 바이러스 감염증(Human papiloma virus infection),"사람 유두종 바이러스 감염증,HPV"
-신장비뇨기질환,임질(Gonorrhea),"임균감염증,임균성 요도염,성병"
-신장비뇨기질환,잠복고환증(Cryptorchidism),"잠복고환,정류고환,정류고환증"
-신장비뇨기질환,저활동성 방광(Underactive Bladder),UAB
-신장비뇨기질환,전립선암(Prostate cancer),"Malignant neoplasm of prostate,전립선 암종"
-신장비뇨기질환,"전이성 신장암(Kidney, cancer, metastatic)",전이신장암
-신장비뇨기질환,정계정맥류(Varicocele),고환정맥류
-신장비뇨기질환,정자부족증(Oligospermia),감정자증
-신장비뇨기질환,조루증(Premature ejaculation),조루증
-신장비뇨기질환,첨형 콘딜로마(Condyloma accuminatum),"곤지름,뾰족콘딜로마,생식기 사마귀,성기사마귀,음부 사마귀,첨형 콘딜롬,콘딜롬,항문우췌,첨규형콘딜로마"
-신장비뇨기질환,칼만 증후군(Kallmann syndrome),칼만신드롬
-신장비뇨기질환,헤노호 쉰라인 자반증(Henoch-Schonlein purpura),"H-S 자반증(HSP),과민성 혈관염,알레르기성 자반증,알레르기성 혈관염"
-신장비뇨기질환,혈뇨(Hematuria),"소변에 피,소변에서 피,소변피,요혈"
-신장비뇨기질환,혈정액증(Hematospermia),"정액피,피정액,혈정액"
-신장비뇨기질환,회음 괴저(Fournier's gangrene),"Fournier 괴저,푸르니에 괴저"
-여성질환,Rh 부적합 임신(Rh Incompatibility pregnancy),신생아의 Rh형에 의한 용혈성 질환
-여성질환,거대세포 바이러스 질환(Cytomegaloviral diseases),사이토메갈로 바이러스 감염
-여성질환,골반 염증성 질환(Pelvic inflammatory disease),"PID,골반내염증,골반내염증질환,골반염"
-여성질환,과다월경(Hypermenorrhea),"Hypermenorrhea,Menorrhagia,過多月經,과다생리,과다생리증,생리과다,생리과다증,월경과다,월경과다증"
-여성질환,급성 질염(Acute vaginitis),질염
-여성질환,난산(Dystocia),이상분만
-여성질환,난소 낭종(Ovarian cysts),"ovarian cystic tumor,난소 낭성 종양,난소물혹,난소혹"
-여성질환,"난소, 난관 이상(Disorders of ovary, fallopian tube)","나팔관이상,난소이상"
-여성질환,"난소난관염(Oophoritis, Ovaritis)","Oophortis,Ovaritis,난관난소염,난관염,난소염,자궁관난소염"
-여성질환,난소암(Ovarian cancer),"Malignant neoplasm of ovary,난소 악성 종양"
-여성질환,난소의 양성 종양(Benign ovary tumor),난소 양성 종양
-여성질환,노인성 질염(Senile (atrophic) vaginitis),"노인성 질염,비특이성 질염,위축성 질염"
-여성질환,다낭성 난소 증후군(Polycystic ovary syndrome),다낭성난소증
-여성질환,다태아(Multifetal pregnancy),"쌍둥이,쌍태아,다태임신"
-여성질환,단일 제대 동맥(Single Umbilical Artery),"단동맥,단동맥탯줄"
-여성질환,만기 정상 분만(Normal full term spontaneous delivery),"분만,정상분만,출산"
-여성질환,무월경(Amenorrhea),amenorrhoea
-여성질환,바르톨린샘의 고름집(Abscess of Bartholin's gland),"바르톨린관 농양,바르톨린샘 낭종,바르톨린샘 농양,바르톨린샘의 고름집,바르톨린샘의"
-여성질환,방광탈(Cystocele),"방광낭류,방광류,방광탈출,방광탈출증"
-여성질환,복압성 요실금(Stress urinary incontinence),"긴장성 요실금,스트레스성 요실금"
-여성질환,분만 후 출혈(Postpartum hemorrhage),산후출혈
-여성질환,"비정상적 자궁, 질 출혈(Abnormal uterine and vaginal bleeding)","dysfunctional uterine bleeding,기능성 자궁출혈,부정자궁출혈,자궁 질 출혈,자궁출혈,질출혈"
-여성질환,산후 갑상선염(Postpartum thyroiditis),"산후갑상선,산후갑상선염증"
-여성질환,산후 우울증(Postpartum depression),"산후우울,산후우울감"
-여성질환,생식선 및 생식 세포의 신생물(Gonadal and germ cell neoplasma),"Germ cell tumor,생식세포종,생식세포종양"
-여성질환,성병(Sexually transmitted disease),"STD,성감염질환,성행위로 전파되는 질환"
-여성질환,습관성 유산(Habitual miscarriage),반복 유산
-여성질환,쌍태아 수혈 증후군(Twin to twin Transfusion Syndrome),쌍태아간 수혈 증후군
-여성질환,양수과다증(Hydramnios),"Polyhydraminos,과다양수증"
-여성질환,양수과소증(Oligohydramnios),"양수부족,양수부족증"
-여성질환,양수색전증(Amniotic fluid embolism),양수색전
-여성질환,여성 불임(Female infertility),"infertility,불임,여성 불임증"
-여성질환,외음질의 이물(Foreign body in vulva and vagina),질 및 외음부의 이물질
-여성질환,원발성 월경곤란(Primary dysmenorrhea),"생리곤란증,생리통,원발성 월경곤란증,월경곤란,월경곤란증,월경통,일차성 생리통"
-여성질환,월경전 증후군(Premenstrual syndrome),"PMS,생리전 증후군"
-여성질환,유방통(Mastodynia),"유방통증,젖가슴통증"
-여성질환,유산(Abortion),"사산,유발유산,자연유산"
-여성질환,유산 후 계속되는 임신(다태)(Continuing pregnancy after abortion),"반복유산,유산 후 계속되는 임신"
-여성질환,융모막암종(Choriocarcinoma),"융모막 암,융모상피암"
-여성질환,이상 태위(Malpresentation of fetus),"불완전태위,비정상적태위"
-여성질환,인유두종 바이러스 감염증(Human papiloma virus infection),"사람 유두종 바이러스 감염증,HPV"
-여성질환,임신성 당뇨병(Gestational diabetes),"Gestational diabetes mellitus,임신성당뇨"
-여성질환,자간전증(Pre-eclampsia),"임신중독증,임신중독"
-여성질환,자궁 경부의 이형성증(Dysplasia of cervix uteri),"자궁경부 이형성증,자궁경부 이형증,자궁경부이형성"
-여성질환,자궁 내 성장 지연(Intrauterine growth retardation),자궁 내 발육지연
-여성질환,자궁 상피 내 암종(Carcinoma in situ of Cervix),"Cervical intraepithelial neoplasia,자궁경부 상피내종양"
-여성질환,자궁 외 임신(Ectopic pregnancy),"나팔관 임신,난관임신"
-여성질환,자궁 탈출증(Uterine Prolapse),"자궁탈출,자궁탈"
-여성질환,자궁경관무력증(Incompetent internal os of cervix),자궁 무력증
-여성질환,자궁경부암(Cervical cancer),Malignant neoplasm of cervix
-여성질환,자궁경부염(Cervicitis),"자궁경관염,자궁입구염"
-여성질환,자궁내막 용종(Polyp of endometrium),"자궁내막 폴립,자궁용종"
-여성질환,자궁내막 이상증식증(Endometrial hyperplasia),"자궁내막 이상증식증,자궁내막증식,자궁내막증식증"
-여성질환,자궁내막암(Endometrial cancer),"Malignant neoplasm of endometrium,자궁체부암"
-여성질환,자궁선근증(Adenomyosis),"endometriosis interna,선근증,자궁선근종,자궁선종,자궁선증"
-여성질환,자궁의 비염증성 장애(Noninflammatory disorders of uterus),"여성생식기비염증성장애,자궁비염증성장애"
-여성질환,자궁의 평활근종(Leiomyoma of uterus),자궁근종
-여성질환,조기 양막 파열(Premature rupture of membranes),"PROM,양막파수,양막파열,조기파막,조기양막파수"
-여성질환,조기 폐경(Premature ovarian failure),"일차성 난소부전증,조기난소부전"
-여성질환,조산(Prematurity delivery),조기 출산
-여성질환,첨형 콘딜로마(Condyloma accuminatum),"곤지름,뾰족콘딜로마,생식기 사마귀,성기사마귀,음부 사마귀,첨형 콘딜롬,콘딜롬,항문우췌,첨규형콘딜로마"
-여성질환,칸디다성 외음질염(Candidal vulvovaginitis),"곰팡이성 질염,칸디다 질염,칸디다성 질염"
-여성질환,칼만 증후군(Kallmann syndrome),칼만신드롬
-여성질환,태반 유착증(Placenta Accreta),"유착태반,태반유착"
-여성질환,태반 조기 박리(Abruptio placenta),Premature separation of placenta
-여성질환,태아 알코올 증후군(Fetal alcohol syndrome),"FASD,Fetal alcohol spectrum disorder,태아알코올스펙트럼장애,태아알콜중후군"
-여성질환,트리코모나스증(Trichomoniasis),"질트리코모나스,질트리코모나스증,트리코모나스,트리코모나스 감염,트리코모나스 질염,트리코모나스감염증,트리코모너스감염,트리코모너스질염"
-여성질환,폐경(Menopause),난소부전
-여성질환,폐경기 및 여성의 갱년기 상태(Menopausal and female climacteric states),"갱년기,폐경기"
-여성질환,포상기태(Hydatidiform mole),포도송이기태
-여성질환,회음 괴저(Fournier's gangrene),"Fournier 괴저,푸르니에 괴저"
-여성질환,회음 열상(Perineal laceration),"외음파열,질회음열상,회음부열상"
-여성질환,희발월경(Oligomenorrhea),"생리불순,월경불순"
-유방내분비질환,갈색세포종(Pheochromocytoma),크롬친화세포종
-유방내분비질환,갑상선 결절(Thyroid nodule),갑상샘결절
-유방내분비질환,갑상선 미분화암(Undifferentiated thyroid cancer),갑상샘미분화암
-유방내분비질환,갑상선 수질암(Medullary thyroid cancer),갑상샘수질암
-유방내분비질환,갑상선 여포암(Follicular thyroid cancer),갑상샘여포암
-유방내분비질환,갑상선기능저하증(Hypothyroidism),"갑상샘기능저하,갑상샘저하증,갑상선기능저하,갑상선저하증"
-유방내분비질환,갑상선기능항진증(Hyperthyroidism),"갑상샘 기능 항진증,갑상샘항진증,갑상선 항진증"
-유방내분비질환,갑상선암(Thyroid cancer),"갑상샘암,갑상선암종"
-유방내분비질환,갑상선염(Thyroiditis),갑상선염증
-유방내분비질환,갑상선중독증(Thyrotoxicosis),"Graves Disease,갑상샘 중독증,갑상선 중독,그레이브스병"
-유방내분비질환,갑상설관 낭종(Thyroglossal duct cyst),갑상설관낭
-유방내분비질환,고칼륨혈증(Hyperkalemia),"고칼륨증,고칼륨혈,고포타시움혈증,과칼륨증,과칼륨혈,과칼륨혈증"
-유방내분비질환,고칼슘혈증(Hypercalcemia),"고칼슘증,과칼슘증,과칼슘혈증"
-유방내분비질환,골감소증(Osteopenia),"골량감소,뼈감소증"
-유방내분비질환,골다공증(Osteoporosis),골조송증
-유방내분비질환,뇌하수체 기능 항진(Hyperfunction of pituitary gland),뇌하수체 기능항진증
-유방내분비질환,뇌하수체 기능부전(Hypopituitarism),뇌하수체기능저하증
-유방내분비질환,뇌하수체 양성 및 악성 신생물(Malignant or benign neoplasm of Pituitary gland),"뇌하수체선종,프로락틴종,뇌하수체 종양,뇌하수체 악성 신생물,뇌하수체 양성 신생물"
-유방내분비질환,당뇨망막병증(Diabetic retinopathy),당뇨망막증
-유방내분비질환,당뇨병(Diabetes mellitus),당뇨
-유방내분비질환,당뇨병성 말초신경병증(Diabetic polyneuropathy),"당뇨병성신경병증,당뇨성말초신경병증,당뇨성신경병증"
-유방내분비질환,당뇨병성 족부 질환(DM foot ulcer),"당뇨발,당뇨병성 족부 궤양"
-유방내분비질환,당뇨병성 케톤산증 (Diabetic ketoacidosis),"DKA,당뇨병케톤산증,당뇨성케톤산증,케톤산증"
-유방내분비질환,말단비대증(Acromegaly),"acromegaly,거인증,말단거대증,선단거대증,선단비대증"
-유방내분비질환,부갑상선기능저하증(Hypoparathyroidism),부갑상샘 기능저하증
-유방내분비질환,부갑상선기능항진증(Hyperparathyroidism),부갑상선기능항진
-유방내분비질환,부신 기능부전(Adrenal insufficiency),"부신기능부전증,부신피질기능부전,부신피질기능저하증,애디슨병,에디슨병,부신기능저하증"
-유방내분비질환,부신 종양(Adrenal tumor),"Adrenal gland tumor,부신선종,부신양성종양,부신종,부신피질 세포 양성 신생물"
-유방내분비질환,사춘기 조숙(Precocious puberty),"성조숙증,조발 사춘기"
-유방내분비질환,성선기능저하증(Hypogonadism),생식샘기능저하증
-유방내분비질환,성장호르몬 결핍증(Growth hormone deficiency),성장호르몬 결핍
-유방내분비질환,여성형 유방(Gynecomastia),여성형 유방증
-유방내분비질환,요붕증(Diabetes insipidus),항이뇨호르몬 결핍증
-유방내분비질환,유관 확장증(Mammary duct ectasia),"유관확장,유선도관확장,젖샘관 확장,젖샘관확장증"
-유방내분비질환,유방 종양(Breast mass),"가슴종양,유방종괴"
-유방내분비질환,유방암(Breast cancer),"Breast Cancer,Breast tumor,유방 악성신생물,유방종"
-유방내분비질환,유방의 미세석회화(Microcalcification of breast),"유방 미세석회화,유방석회화,유방석회화증"
-유방내분비질환,유방의 섬유선종(Fibroadenoma of breast),"가슴섬유선종,가슴섬유종,섬유선종,유방 섬유선종,유방섬유종"
-유방내분비질환,인슐린 비의존성 당뇨병(Non-insulin dependent diabetes mellitus),"Type 2 diabetes mellitus,성인형 당뇨병,제2형 당뇨병"
-유방내분비질환,인슐린 의존성 당뇨병(Insulin-dependent diabetes mellitus),"Type 1 diabetes mellitus,소아당뇨병,제1형 당뇨병"
-유방내분비질환,임신성 당뇨병(Gestational diabetes),"Gestational diabetes mellitus,임신성당뇨"
-유방내분비질환,저신장(Short stature),"Nanocormia,성장장애,저신장증"
-유방내분비질환,저혈당증(Hypoglycemia),저혈당
-유방내분비질환,점액수종 혼수(Myxoedema coma),점액수종성 혼수
-유방내분비질환,카르시노이드 증후군(Carcinoid syndrome),유암종증후군
-유방내분비질환,쿠싱 증후군(Cushing's syndrome),"Cushing disease,쿠싱병,쿠싱증"
-유방내분비질환,흉선암(Thymus Cancer),"가슴샘종,흉선암종,흉선종"
-유전질환,22번 염색체 장완 미세결실 증후군(CATCH22),Di Georges syndrome
-유전질환,4번 염색체 단완결실 증후군(Wolf-Hirschhorn syndrome),울프-허쉬호른증후군
-유전질환,"ARC 증후군(Arthrogryposis, Renal dysfunction, Cholestasis, ARC syndrome)","ARC Syndrome(Arthrogryposis,Renal Dysfunction,Cholestasis)"
-유전질환,Haw River 증후군(Dentatorubro-Pallidoluysian atrophy(DRPLA)),"DRPLA,무도병아데토시스"
-유전질환,OTC 결핍증 (Ornithine-transcarbamylase deficiency),"Ornithine-transcarbamylase deficiency,오르니틴 트랜스카비미라제 결핍증,요소회로 대사이상증"
-유전질환,XXX 증후군(XXX syndrome),"superfemale syndrome,triple-X syndrome"
-유전질환,XYY 증후군(XYY syndrome),야콥증후군
-유전질환,가부키 증후군(Kabuki Syndrome),가부키 신드롬
-유전질환,"가족성 적혈구잠식성 림프조직구증(Hemophagocytic lymphohistiocytosis, Familial)",혈구탐식성 림프조직구증
-유전질환,갈락토오스혈증(Galactosemia),"Galactose-1-phosphate uridyltransferase deficiency,갈락토스혈증"
-유전질환,결절성 경화증 (Tuberous sclerosis),결절경화증
-유전질환,고셔병(Gaucher disease),"가족성비성빈혈,고셰병"
-유전질환,골덴하 증후군(Goldenhar syndrome),"얼굴귓바퀴척추증후군,Oculo-Auriculo-Vertebra syndrome"
-유전질환,골형성부전증(Osteogenesis imperfecta),"골취약증,골형성 부전,골형성 장애,불완전골형성증,화골부전증"
-유전질환,근긴장성 이영양증 (Myotonic dystrophy),근육긴장퇴행위축
-유전질환,니만-피크병(Niemann-Pick disease),니이만-픽병
-유전질환,니스트 이형성증(Kniest dysplasia ),니스트 형성이상
-유전질환,다발성 흑자 증후군(LEOPARD syndrome),"LEOPARD 증후군,Multiple lentigines syndrome"
-유전질환,다운 증후군 (Down syndrome),"21삼체성,trisomy 21,몽고증"
-유전질환,단풍당밀뇨증(Maple-syrup urine disease),"MSUD,단풍나무시럽병,단풍당뇨증,키노아미노산혈증"
-유전질환,당원 축적병(Glycogen storage disease),"Von Gierke병,당원병,당원병 Ia형,당원축적증"
-유전질환,대뇌성 거인증 (Sotos syndrome),소토스증후군
-유전질환,댄디워커 증후군(Dandy-Walker syndrome),DWS
-유전질환,듀시엔형 근이영양증 (Duchenne muscular dystrophy),"muscular dystrophy,근디스트로피,근육퇴행위축,근이영양증,두시엔느 근육퇴행위축,뒤셴형 근이영양증,뒤시엔느 근디스트로피,뒤시엔느 근육퇴행위축,뒤시엔느 근이영양증,듀시엔느 근이영양증"
-유전질환,라론 증후군(Laron syndrome),성장호르몬 불감성 증후군
-유전질환,레버씨 시신경 위축증 (Leber hereditary optic neuropathy(LHON)),레버 유전성 시신경병증
-유전질환,레쉬-니한 증후군 (Lesch-Nyhan syndrome),레슈-니한 증후군
-유전질환,레트 증후군 (Rett syndrome),"cerroatrophic hyperammonemia,대뇌위축성과암모니아혈증"
-유전질환,로우 증후군(Lowe syndrome),"OCRL,Oculo-cerebro-renal syndrome of Lowe,로웨 증후군"
-유전질환,리 증후군(Leigh syndrome),"Subacute necrotizing encephalomyelopathy,리씨증후군,아급성 괴사성 뇌척수염"
-유전질환,마로토-라미 증후군(Maroteaux-Lamy Syndrome),"Mucopolysaccharidosis VI형,마로토-라미증후군,뮤코다당체침착증 Ⅵ형"
-유전질환,마르판 증후군 (Marfan syndrome),"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
-유전질환,망막아세포종(Retinoblastoma),망막모세포종
-유전질환,메틸말론산증(Methylmalonic acidemia),메틸 말론산 혈증
-유전질환,멘케스병(Menkes disease),멘케씨병
-유전질환,모르키오 증후군(Morquio Syndrome),"Morquio syndrome,Mucopolysaccharidosis IV형,모르키오병,모르키오증후군,뮤코다당체침착증 Ⅳ형"
-유전질환,모세혈관 확장성 운동실조 증후군 (Ataxia-telangiectasia syndrome),운동실조성모세혈관확장증후군
-유전질환,묘성 증후군(Cri du Chat syndrome),"5번 염색체 단완결실 증후군,고양이울음증후군"
-유전질환,무치아증(Anodontia),"선천성 치아 결손,치아 결손,무치증"
-유전질환,뮤코다당질축적증(Mucopolysaccharidoses),"뮤코다당증,뮤코다당체침착증"
-유전질환,"미토콘드리아성 뇌근육병증(MELAS, lactic acidosis, and stroke-like episodes)","MELAS,lactic acidosis and stroke-like episodes,미토콘드리아성 뇌병증"
-유전질환,바르덴부르크 증후군(Waardenburg syndrome),와덴버그 증후군
-유전질환,베스트 난황형 황반부 이영양증 (Best vitelliform macular dystrophy),"난황형 황반 영양장애,베스트 병"
-유전질환,베커형 근이영양증(Becker muscular dystrophy),"베커 근육퇴행위축,베커근이영양증,벡커 근육퇴행위축,벡커 근이영양증"
-유전질환,베크위트-위드만 증후군(Beckwith-Wiedemann syndrome),벡위스-비데만증후군
-유전질환,본히펠린다우 증후군 (Von Hippel-Lindau syndrome),"폰 히펠-린다우 증후군,VHL"
-유전질환,부가지(Accessory toe),"다지증,발가락 다지증,손가락 다지증"
-유전질환,부신백질이영양증(Adrenoleukodystrophy),"ALD,로렌조 오일병,부신백질형성장애증"
-유전질환,사이트린 결핍(Citrin deficiency),"시트룰린혈증 2형,시트린결핍"
-유전질환,산필리포 증후군(Sanfilippo Syndrome),"Mucopolysaccharidosis Ⅲ형,뮤코다당체침착증 Ⅲ형,산필리포증후군"
-유전질환,새열 낭종(Branchial Cyst),"새낭종,새성낭종,새열낭종,새열이상,제 2 새열 낭종"
-유전질환,선천성 갑상선기능저하증(Congenital hypothyroidism),"cretinism,크레틴병"
-유전질환,선천성 기형(Congenital malformation),"기형,기형아"
-유전질환,선천성 부신과다 형성증(Congenital adrenal hyperplasia),"선천성 부신과다형성,선천성 부신과다형성증,선천성 부신증식증"
-유전질환,선천성 수신증(Congenital hydronephrosis),선천성 물콩팥증
-유전질환,수정대혈관 전위(Corrected TGA),수정대혈관 전위증
-유전질환,스티클러 증후군(Stickler syndrome),유전적 진행성 관절안병증
-유전질환,슬라이 증후군(Sly Syndrome),"Mucopolysaccharidosis VII형,뮤코다당체침착증 VII형,슬라이 증후군"
-유전질환,시트룰닌혈증(Citrullinemia),"argininemia,argininosuccinic aciduria,아르기인혈증"
-유전질환,신경섬유종(Neurofibromatosis),"neurofibroma,신경섬유종양,신경섬유종증"
-유전질환,안드로겐 불감성 증후군 (Androgen insensitivity syndrome(AIS)),"Androgen Insensitivity Syndrome,안드로겐 둔감증"
-유전질환,알포트 증후군(Alports syndrome),"Alport Syndrome,유전성 신장염"
-유전질환,에이퍼트 증후군 (Apert syndrome),"acrocephalosyndactyly,aperts syndrome,아페르 증후군,첨두합지증"
-유전질환,연골무형성증(Achondroplasia),"연골무발생증,연골발육부전증,태아연골이양증"
-유전질환,연골외배엽 이형성증 (Ellis-van Creveld syndrome),엘리스-반 클레벨드 증후군
-유전질환,연골형성저하증(Hypochondroplasia),"연골저형성증,저연골형성증"
-유전질환,윌름즈 종양(Wilms Tumor),빌름스 종양
-유전질환,윌리암스 증후군 (Williams syndrome),윌리엄스 증후군
-유전질환,윌슨병(Willson disease),"Hepatolenticular degeneration,간렌즈핵변성,윌슨씨병"
-유전질환,유약 X 증후군(Fragile X syndrome),"취약 X 증후군,취약엑스증후군"
-유전질환,이염성 백질이영양증 (Metachromatic leukodystrophy),이염백질이영양증
-유전질환,저인산증(Hypophosphatasia),"Rathbuns Syndrome,래스번 증후군,저인산혈증"
-유전질환,중쇄 아실코에이 탈수소효소 결핍증(Medium-Chain Acyl-Coenzyme A Dehydrogenase Deficiency(MCAD deficiency)),"MCAD deficiency,MCAD 결핍,MCAD 결핍증"
-유전질환,척수구근 근위축증 (Spinobulbar muscular atrophy),"Kennedy disease,케네디 증후군,케네디병"
-유전질환,척수근육위축(Spinal muscular atrophy),"척수성근위축,척수성근위축증"
-유전질환,"척수소뇌성 운동실조증 (Spinocerebellar ataxia, SCA)",척수소뇌실조증
-유전질환,카르니틴 팔미토일 전환효소 결핍증 2형(Carnitine Palmitoyltransferase II Deficiency),"CPT 2 deficiency,CPT II deficiency"
-유전질환,칼만 증후군(Kallmann syndrome),칼만신드롬
-유전질환,코넬리아드랑게 증후군 (Cornelia de Lange syndrome),"Brachmann de Lange syndrome,CdLS,브라크만드랑즈 증후군,코넬리아디란지증후군"
-유전질환,크루존 증후군(Crouzon syndrome),"크로존 증후군,크루존병,크루존씨병"
-유전질환,테이-삭스병 (Tay-Sachs disease),흑내장가족성백치
-유전질환,트리처 콜린스 증후군 (Treacher-Collins syndrome),"프란체셰티증후군,하악안면골형성부전증,하악안면이골증"
-유전질환,파브리병(Fabry disease),미만성구간혈관각화종
-유전질환,판코니범혈구감소증(Fanconi Pancytopenia syndrome),"Fanconi syndrome,판코니 증후군"
-유전질환,페닐케톤뇨증(Phenylketonuria),"pku,방향성 아미노산 대사장애,페닐알라닌 수산화효소 결핍,페닐알라닌증"
-유전질환,폼페병(Pompe disease),"GSD II,Glycogen storage disease type II,글리코겐 축적 질환 Ⅱ,당원병Ⅱ형"
-유전질환,프라더 윌리 증후군 (Prader-Willi syndrome),"프레더 윌리 증후군,프래더 윌리 증후군"
-유전질환,프로피온산증(Propionic acidemia),프로피온산 혈증
-유전질환,프리이드라이히 운동실조증 (Friedreich ataxia),프리드라이히 실조증
-유전질환,피질하 경색과 백질뇌증을 동반하는 상염색체 우성 뇌동맥질환(Cerebral Autosomal Dominant Arteriopathy with Subcortical Infarcts and Leukoencephalopathy),CADASIL
-유전질환,헌터 증후군(Hunter Syndrome),"Hunter disease,Mucopolysaccharidosis II형,뮤코다당증 제2형"
-유전질환,헌팅톤 병(Huntington disease),무도병
-유전질환,헐러 증후군(Hurler syndrome),"Mucopolysaccharidosis Ⅰ형,뮤코다당증 제1형,후를러증후군"
-유전질환,혈색소침착증(Hemochromatosis),"HHC,Hereditary hemochromatosis,유전성 혈색소증"
-유전질환,혈우병(Hemophilia),"Classic hemophilia,Factor IX deficiency"
-유전질환,호모시스틴뇨증(Homocystinuria),호모시스틴요증
-유전질환,횡격막 탈장(Diaphragmatic hernia),"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
-응급질환,가스 괴저(Gas gangrene),"Clostridial myonecrosis,가스괴저병"
-응급질환,고나트륨혈증(Hypernatremia),"고나트륨증,고장성 및 고나트륨혈증,과나트륨증,과나트륨혈증"
-응급질환,고마그네슘혈증(Hypermagnesemia),"고마그네슘증,과마그네슘증,과마그네슘혈증"
-응급질환,고산병(Mountain sickness),"altitude sickness,산악병"
-응급질환,고칼륨혈증(Hyperkalemia),"고칼륨증,고칼륨혈,고포타시움혈증,과칼륨증,과칼륨혈,과칼륨혈증"
-응급질환,고칼슘혈증(Hypercalcemia),"고칼슘증,과칼슘증,과칼슘혈증"
-응급질환,과호흡 증후군(Hyperventilation syndrome),"과다호흡,과다호흡증,과다호흡증후군,과호흡,과호흡증,과환기증후군"
-응급질환,광견병(Rabies),"공수병,광견병 바이러스"
-응급질환,구획 증후군(Compartment syndrome),"확정형 구획증후군,만성형 구획증후군"
-응급질환,급성 류마티스성 열(Acute Rheumatic fever),"급성 류머티스 열,류마티스 열,류마티스성열,류머트열,류머티스 열,류머티스성열"
-응급질환,급성 심근경색증(Acute myocardial infarction),"급성 심근경색,동맥증후군,심근경색,심근경색증"
-응급질환,기뇌증(Pneumocephalus),"공기뇌증,기두증"
-응급질환,뇌동맥류(Cerebral aneurysm),"뇌동맥꽈리,뇌지주막하 출혈,두개강 내 동맥류"
-응급질환,대동맥 박리(Aortic dissection),"대동맥 박리증,박리성 대동맥류"
-응급질환,대사성 산증(Metabolic Acidosis),"대사성 산혈증,산혈증"
-응급질환,대사성 알칼리증(Metabolic Alkalosis),"대사성알칼리혈증,알칼리혈증"
-응급질환,독성 쇼크 증후군(Toxic shock syndrome),독소쇼크증후군
-응급질환,두통(Headache),머리의 통증
-응급질환,맹장염(Appendicitis),"꼬리염,충수돌기염,충수염"
-응급질환,복강 내 출혈(Intraperitoneal Bleeding),복강출혈
-응급질환,복부 대동맥류(Abdominal aortic Aneurysm),복부동맥류
-응급질환,부정맥(Cardiac arrhythmias),심장 부정맥
-응급질환,소화관의 이물(Foreign body in alimentary tract),"소화관의이물질,소화관이물,소화관이물질"
-응급질환,수부 외상(Hand trauma),손의 외상
-응급질환,식중독(Foodborne illness),Food poisoning
-응급질환,아나필락시스(Anaphylactic shock),"Anaphylactic shock,과민성 쇼크,아나필락시스성 쇼크,아나필락틱 쇼크"
-응급질환,악성 고열증(Malignant hyperthermia),악성고체온증
-응급질환,압궤 손상(Crushing injury),"crush syndrome,traumatic rhabdomyolysis,압좌손상,압좌증후군,압착손상,외상성 횡문근융해,크러쉬증후군,크러시증후군"
-응급질환,약물 알레르기(Drug allergy),"Medication allergy,약물 알러지"
-응급질환,열 피로(heat exhaustion),"열경기,열경련,열성경기,열성경련,열탈진,일사병"
-응급질환,외상에 의한 뇌 손상(Traumatic brain injury),"brain concussion,뇌진탕"
-응급질환,외상에 의한 척수 손상(Traumatic Spinal cord injury),외상성척수손상
-응급질환,외음질의 이물(Foreign body in vulva and vagina),질 및 외음부의 이물질
-응급질환,이물질에 의한 기도 막힘(Airway obstruction),"기도 폐색,기도폐쇄,이물질기도막힘,이물질에의한질식,이물질질식,질식"
-응급질환,익수(Submersion),"near-drowning,침수"
-응급질환,일산화탄소 중독(Carbon monoxide-poisoning),"번개탄중독,연탄가스중독,연탄중독,일산화탄소중독증"
-응급질환,자발성 두개강 내 출혈(Spontaneous intracranial hemorrhage),"고혈압성 뇌출혈,뇌 내 출혈,뇌실질 내 출혈,뇌출혈,자발성 뇌내출혈"
-응급질환,장간막 동맥 혈전증(Mesenteric Arterial Thrombosis),장간막 혈전증
-응급질환,저나트륨혈증(Hyponatremia),저마그네슘증
-응급질환,저마그네슘혈증(Hypomagnesemia),저마그네슘증
-응급질환,저칼륨혈증(Hypokalemia),"hypopotassemia,저칼륨증"
-응급질환,저혈당증(Hypoglycemia),저혈당
-응급질환,전도 장애(Conduction disorders),"심장전도장애,심장전도계 이상"
-응급질환,허혈성 심질환(Ischemic heart disease),"허혈성심장병,허혈성심장질환"
-응급질환,혈관부종(Angioedema),"거대 두드러기,급성알레르기성혈관부종,비알레르기성약물반응혈관부종,알러지성 혈관부종,알레르기성혈관부종,원발성혈관부종,유전성성혈관부종,혈관신경성부종"
-응급질환,호흡성 산증(Respiratory Acidosis),호흡성산혈증
-응급질환,호흡성 알칼리증(Respiratory Alkalosis),호흡성알칼리혈증
-응급질환,혼수(Coma),"Unconsciousness,의식불명,코마,코마상태,혼수상태"
-응급질환,화상(Burn),"전기화상,화학물질에 의한 화상,화학화상"
-응급질환,횡격막 탈장(Diaphragmatic hernia),"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
-응급질환,횡문근융해증(Rhabdomyolysis),횡문근융해
-응급질환,흉부 대동맥류(Thoracic aortic Aneurysm),가슴대동맥류
-응급질환,흉통(Chest pain),가슴통증
-종양혈액질환,간 전이(Liver Metastasis),metastatic tumors of the liver
-종양혈액질환,간문부 담관암(Klatskin's tumor),"간문부암,근위부 담관암,상부 담관암,클라츠킨 종양,Klatskin's tumor"
-종양혈액질환,간세포성 암종(Hepatocellular carcinoma),"liver cancer,간세포암,간세포암종,간암"
-종양혈액질환,간의 양성 신생물(Benign neoplasm of the liver),"간의 양성 종양,간종양"
-종양혈액질환,갑상선암(Thyroid cancer),"갑상샘암,갑상선암종"
-종양혈액질환,거대적혈모구빈혈(Megaloblastic anemia),거대적아구성 빈혈
-종양혈액질환,고환 종양(Tumors of testis),고환암
-종양혈액질환,골수증식종양(Myeloproliferative neoplasm),"MPN,골수증식성 질환,다혈구혈증,특발성 혈소판증가증,골수증식성 신생물"
-종양혈액질환,골수형성이상증후군(Myelodysplastic syndromes),"소아골수이형성증후군,골수이형성증후군"
-종양혈액질환,골육종(Osteosarcoma),"골암,골원성육종,뼈암"
-종양혈액질환,구강암(Oral Cancer),"oral cavity cancer,구강저암,설암,치은암,협부암"
-종양혈액질환,급성골수성백혈병(Acute myeloid leukemia),"AML,급성백혈병"
-종양혈액질환,급성림프모구백혈병(Acute lymphoblastic leukemia),급성 림프모구성 백혈병
-종양혈액질환,기저세포 암종(Basal cell carcinoma),"기저세포상피종,기저세포암,기저세포종,모모세포종,모모조직암,바닥세포 암종,상피성악성종양"
-종양혈액질환,난소 낭종(Ovarian cysts),"ovarian cystic tumor,난소 낭성 종양,난소물혹,난소혹"
-종양혈액질환,난소암(Ovarian cancer),"Malignant neoplasm of ovary,난소 악성 종양"
-종양혈액질환,난소의 양성 종양(Benign ovary tumor),난소 양성 종양
-종양혈액질환,뇌종양(Brain tumor),"뇌암,뇌종양"
-종양혈액질환,다발골수종(Multiple myeloma),"malignant plasma cell neoplasm,다발성 골수종"
-종양혈액질환,단세포군감마글로불린병증(Monoclonal gammopathy of undetermined significance),"단클론성 감마글로불린혈증,단클론성 감마글로불린장애"
-종양혈액질환,담관암(Cholangiocarcinoma),"담관악성종양,담관암종,담도암"
-종양혈액질환,담낭암(GB cancer),"담낭 선암종,담낭악성종양,쓸개악성종양,쓸개암"
-종양혈액질환,대장암(Colon cancer),"결장암,대장악성종양,대장암종,대장의 악성신생물"
-종양혈액질환,대장의 양성 종양(Benign colon tumor),대장양성종양
-종양혈액질환,두경부암(Head and Neck Cancer),"구강암,부비동암,인두암,후두암,인후두암,혀암"
-종양혈액질환,랑거한스세포 조직구증식증(Langerhans cell histiocytosis),"Histiocytosis X,X 조직구증,랑거르한스세포조직구증,랑게르한스 조직구증,랑게르한스세포조직구증,랑게르한스세포조직구증식증,조직구 증식증"
-종양혈액질환,린치 증후군(Lynch Syndrome),"비용종성 대장암,비용종성 직장암,유전성 대장암,유전성 비용종성 대장 직장암,유전성 직장암"
-종양혈액질환,림프종(Lymphoma),"림프암,악성림프종,임파선암"
-종양혈액질환,만성골수백혈병(Chronic myeloid leukemia),"CML,만성백혈병,만성 골수성 백혈병"
-종양혈액질환,만성림프구백혈병(Chronic lymphocytic leukemia),"CLL,만성 림프구성 백혈병"
-종양혈액질환,망막아세포종(Retinoblastoma),망막모세포종
-종양혈액질환,면역결핍증(Immunodeficiency disease),선천성 면역결핍증
-종양혈액질환,면역혈소판감소증(Immune thrombocytopenia),면역 혈소판감소 자색반병
-종양혈액질환,바터 팽대부 암(AOV cancer),십이지장 유두암
-종양혈액질환,발작성야간혈색뇨(Paroxysmal nocturnal hemoglobinuria),"PNH,발작성 혈색소뇨"
-종양혈액질환,방광암(Bladder cancer),"Malignant neoplasm of bladder,방광 내 신생물,방광선암"
-종양혈액질환,버킷 림프종(Burkitt Tumor),아프리칸 림프종
-종양혈액질환,범혈구감소증(Pancytopenia),"온혈구 감소증,전혈구 감소증"
-종양혈액질환,복막 가성점액종(Pseudomyxoma Peritonei),"복막 위 점액종,전이성 점액성 선암종"
-종양혈액질환,부신 종양(Adrenal tumor),"Adrenal gland tumor,부신선종,부신양성종양,부신종,부신피질 세포 양성 신생물"
-종양혈액질환,부신암(Adrenal gland cancer),부신악성종양
-종양혈액질환,비소세포성 폐암(Non-small cell lung cancer),"기관지 폐포암,대세포암,비소세포 폐암,비소세포암,편평상피세포암,폐선암"
-종양혈액질환,비인두 종양(Nasopharyngeal tumor),"비인두암,인두암"
-종양혈액질환,비호지킨 림프종(Non-Hodgkin lymphoma),비호지킨병
-종양혈액질환,뼈의 신생물(Neoplasm of the bone),"골종양,뼈종양"
-종양혈액질환,상대정맥 증후군(Superior vena cava Syndrome),SVC Syndrome
-종양혈액질환,생식선 및 생식 세포의 신생물(Gonadal and germ cell neoplasma),"Germ cell tumor,생식세포종,생식세포종양"
-종양혈액질환,소세포성 폐암(Small cell lung cancer),소세포폐암
-종양혈액질환,소적혈구빈혈(Microcytic anemia),소구성빈혈
-종양혈액질환,순수적혈구무형성(Pure red cell aplasia),"순적혈구 무형성증,순적혈구무형성,순적혈구빈혈,적모구감소증,순수 적혈구 무형성증"
-종양혈액질환,식도암(Esophageal cancer),식도암종
-종양혈액질환,신경모세포종(Neuroblastoma),신경모세포종
-종양혈액질환,신생아 다혈구증(Polycythemia),"Polycythemia neonatorum,신생아 적혈구증가증"
-종양혈액질환,신세포암종(Renal cell carcinoma),"renal cancer,신세포암,신장암"
-종양혈액질환,신우요관암(Renal pelvis cancer),신우뇨관암
-종양혈액질환,신장의 신생물(Neoplasm of the kidney),신장종양
-종양혈액질환,아밀로이드증(Amyloidosis),"유녹말증,유전분증"
-종양혈액질환,악성 종격동 종양(Malignant mediastinal tumor),"종격동 악성종양,종격동 암"
-종양혈액질환,악성 흑색종(Malignant melanoma),"멜라노마,악성 멜라노마,악성 흑색점,흑색종,흑색종증"
-종양혈액질환,안암(eye cancer),"눈암,안구암,눈의 악성 종양"
-종양혈액질환,양성 종격동 종양(Benign mediastinal tumor),"종격동 양성종양,종격동 종양"
-종양혈액질환,연부조직 전이(Soft tissue metastatic),연조직 전이
-종양혈액질환,용혈빈혈(Hemolytic anemia),용혈성 빈혈
-종양혈액질환,원발부위 불명암(Cancer of Unknown Primary Site),"미상암,불명암,원발불명암"
-종양혈액질환,원발성 중추신경계 림프종(Primary CNS lymphoma),중추신경계림프종
-종양혈액질환,위말트 림프종 (Gastric MALT lymphoma),"MALToma,위몰트림프종"
-종양혈액질환,위암(Stomach cancer),"Gastric cancer,Malignant neoplasm of stomach,cancer of the stomach,위 악성종양,위선암,위선암종,위암종"
-종양혈액질환,위장관 기질 종양(Stomach GIST),"위장관 간질 종양,기스트,GIST,위장관 기질적 종양"
-종양혈액질환,유방 파제트병 (Pagets disease of the Breast),"유방파젯병,유방파젯트병"
-종양혈액질환,유방암(Breast cancer),"Breast Cancer,Breast tumor,유방 악성신생물,유방종"
-종양혈액질환,유전구형적혈구증(Hereditary spherocytosis),"가족성 용혈성 빈혈,유전성 구상적혈구증"
-종양혈액질환,육종(Sarcoma),"악성골종양,연부조직육종"
-종양혈액질환,이식편대숙주질환(Graft-versus-host reaction or disease(GVHD)),"골수이식 거부반응,이식 후 거부반응"
-종양혈액질환,자가면역용혈질환(Autoimmune hemolytic disease),"자가면역성 용혈성 병,자가면역성 용혈성 질환"
-종양혈액질환,자궁 상피 내 암종(Carcinoma in situ of Cervix),"Cervical intraepithelial neoplasia,자궁경부 상피내종양"
-종양혈액질환,자궁경부암(Cervical cancer),Malignant neoplasm of cervix
-종양혈액질환,자궁내막암(Endometrial cancer),"Malignant neoplasm of endometrium,자궁체부암"
-종양혈액질환,자궁의 평활근종(Leiomyoma of uterus),자궁근종
-종양혈액질환,재생불량빈혈(Aplastic anemia),재생불량빈혈
-종양혈액질환,전립선암(Prostate cancer),"Malignant neoplasm of prostate,전립선 암종"
-종양혈액질환,전이 암(Metastatic cancer),"암 전이,전이성 암"
-종양혈액질환,"전이성 신장암(Kidney, cancer, metastatic)",전이신장암
-종양혈액질환,조기 위암(Early gastric cancer),"위암 조기,초기위암"
-종양혈액질환,지방종(Lipoma),양성지방종성 신생물
-종양혈액질환,지중해빈혈(Thalassemia),"유전성표적적혈구증가증,쿨리빈혈"
-종양혈액질환,직장암(Rectal cancer),"직장악성종양,직장암종"
-종양혈액질환,진행성 위암(Advanced gastric cancer),진행된위암
-종양혈액질환,철결핍빈혈(Iron deficiency anemia),"철 결핍 빈혈,철 부족성 빈혈,철 결핍성 빈혈"
-종양혈액질환,충수암(appendiceal carcinoma),"맹장암,충수돌기암"
-종양혈액질환,췌장 전이암(Pancreatic metastasis),"전이성 췌장 종양,전이성 췌장암"
-종양혈액질환,췌장암(Pancreatic cancer),"이자암,췌장 신경내분비암,췌장 신경내분비종,췌장 신경내분비종양,췌장선암,췌장악성종양,췌장암종,췌장의악성신생물"
-종양혈액질환,카르시노이드 증후군(Carcinoid syndrome),유암종증후군
-종양혈액질환,캐슬만병(Castlemans disease),"림프선 과오종,여포성 림프 결절종,캐슬만씨병,혈관 여포성 종격림프선 증식증,혈관성 림프 과오종"
-종양혈액질환,타액선암(Malignant neoplasm of salivary glands),"Salivary Gland Tumor,Salivary adenocarcinoma,설하선암,소타액선암,악하선암,이하선암,침샘암"
-종양혈액질환,파종혈관내응고(Diffuse or disseminated intravascular coagulation),"범발성혈관내응고증후군(DIC),파종성 혈관 내 응고 증후군"
-종양혈액질환,폐 전이(Lung Metastasis),"전이된폐암,폐암 전이,전이성폐암"
-종양혈액질환,폐암(Lung cancer),"기관지암,폐 악성신생물,폐악성종양,폐암종"
-종양혈액질환,포르피린증(Porphyria),"포르피리아,포르피리아증"
-종양혈액질환,폰빌레브란트병(Von Willebrand disease),"Pseudohemophilia B,vWD,vascular hemophilia,가성혈우병,폰빌레브란트,혈관혈우병"
-종양혈액질환,피부암(Skin cancer),"피부암종,피부의 악성종양"
-종양혈액질환,피부의 양성 종양(Benign skin tumor),피부 양성종양
-종양혈액질환,한랭글로불린혈증(Cryoglobulinemia),한냉글로불린혈증
-종양혈액질환,항문암(Anal cancer),"항문관암,항문악성종양,항문의 악성신생물"
-종양혈액질환,항인지질 항체 증후군(Antiphospholipid antibody syndrome),휴즈 증후군
-종양혈액질환,호산구 증가증(Eosinophilia),"호산구 증가,호산구증가증후군"
-종양혈액질환,호중구감소증(Neutropenia),"과립구감소증,중성백혈구감소증"
-종양혈액질환,호지킨 림프종(Hodgkin lymphoma),"림프 육아종증,호지킨 병"
-종양혈액질환,횡문근육종(Rhabdomyosarcoma),"횡문근육암,횡문근육종양"
-종양혈액질환,후두암(Larynx  cancer),"성문상부암,성문암,성문하부암"
-종양혈액질환,흉선암(Thymus Cancer),"가슴샘종,흉선암종,흉선종"
-치과질환,근단 주위 농양(Periapical abscess with sinus),치근단 농양
-치과질환,만성 치주염(Chronic periodontitis),"잇몸병,치주염,풍치"
-치과질환,매복 사랑니(Impacted teeth),"매복 지치,매복치"
-치과질환,발육성 치성 낭종(Developmental odontogenic cysts),"발육성 치은낭종,치성 물혹,치성낭종,치은낭종"
-치과질환,설통(Glossodynia),"설통증,혀의 통증,혀통증"
-치과질환,안면 골절(Facial bone fracture),"안면골골절,얼굴골절,얼굴뼈골절"
-치과질환,안면 비대칭(Facial asymmetry),"두상비대칭,얼굴비대칭,롬버그병"
-치과질환,치근낭(Radicular cyst),치근 낭종
-치과질환,치아 우식증[충치](Dental Caries),치아 우식증
-치과질환,치열 궁 관계 이상(Anomalies of dental arch relationship),부정교합
-치과질환,치은염(Gingivitis),잇몸염증
-치과질환,치조골염(Alveolar ostitis),"건성발치와,건조발치와,치조골염"
-치과질환,치주 농양(Periodontal abscess),"잇몸고름,잇몸농양"
-치과질환,턱관절 장애(Temporomandibular joint disorders),"악관절 장애,측두하악장애"
-치과질환,턱관절 탈구(Luxation of the mandible),"측두하악골 탈구,턱빠짐,턱탈구"
-치과질환,턱뼈 성장 이상(Anomalies of the jaw),"돌출입,무턱증"
-치과질환,턱의 기타 낭증(Other cysts of jaw),"맹출성 낭종,비치조낭종,석회화 치성 낭종,원시성 낭종,치성각화낭종,치주낭종,합치성 낭종"
-피부질환,가와사키병(Kawasaki Disease),"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
-피부질환,간찰성 홍반(Erythema intertrigo),마찰 피부염
-피부질환,건선(Psoriasis),"건선피부,건선피부염"
-피부질환,곰팡이 감염(Fungal infection),곰팡이질환
-피부질환,광선 각화증(Actinic Keratosis),"Solar Keratosis,senile keratosis,일광각화증,자외선각화증"
-피부질환,국소 다한증(Localized hyperhidrosis),"다한증,손발바닥 땀과다증,땀과다증"
-피부질환,기미(Melasma),chloasma
-피부질환,기저귀 피부염(Diaper (napkin) dermatitis),"기저귀 발진,기저귀진,기저귀피부염,냅킨피부염,원발성 자극 기저귀 피부염"
-피부질환,기저세포 암종(Basal cell carcinoma),"기저세포상피종,기저세포암,기저세포종,모모세포종,모모조직암,바닥세포 암종,상피성악성종양"
-피부질환,꽃가루 알레르기(Pollen allergy),화분 알레르기
-피부질환,내향성 손발톱(Ingrowing nails),"내성발톱,내향성 손발톱,발톱감입,발톱감입증,조갑 갑입증"
-피부질환,농가진(Impetigo),고름딱지증
-피부질환,다모증(Excessive hair growth),"hirsutism,hypertrichosis,남성형털과다증,조모증,털과다증"
-피부질환,단독(Erysipelas),단독증
-피부질환,당뇨병성 족부 질환(DM foot ulcer),"당뇨발,당뇨병성 족부 궤양"
-피부질환,대상포진(Herpes zoster),"Zoster,shingles"
-피부질환,대상포진 후 신경통(Postzoster neuralgia),대상포진신경통
-피부질환,돌발성 발진(Exanthem subitum),"roseola infantum,돌발발진,돌발진,소아 장미진,영아 발진"
-피부질환,동전모양 습진(Nummular Eczema),화폐상습진
-피부질환,두드러기(Urticaria),"담마진,두드러기피부,은진,은진피부,피부두드러기,피부은진"
-피부질환,두부 백선(Tinea Capitis),"기계충,독창,머리 백선"
-피부질환,딸기코(Rosacea),주사비
-피부질환,땀띠(Miliaria),"속립진,한진"
-피부질환,만성 단순 태선(Lichen simplex chronicus),태선
-피부질환,만성 두드러기(Chronic urticaria),"만성담마진,만성은진,만성은진피부"
-피부질환,모공성 각화증(Keratosis pilaris),"닭살,모공 각화증"
-피부질환,모반(Nevus),"Moles,색소성 모반,점"
-피부질환,무모증(Atrichia pubis),"빈모증,음부털 감소증"
-피부질환,무좀(Tinea pedis),"Athlete’s foot,발백선"
-피부질환,백반증(Vitiligo),"백납,백전풍"
-피부질환,베체트 병(Behcet's disease),"베체트,베체트 증후군,베체트씨병"
-피부질환,봉와직염(Cellulitis),"봉소염,연조직염"
-피부질환,비립종(Milium),좁쌀종
-피부질환,사면발이증(Pediculosis pubis),음모슬증
-피부질환,상피내 신생물(IN SITU NEOPLASMS),"상피성신생물,악성 상피성 신생물,양성 상피성 신생물"
-피부질환,선천성 색소결핍증(Congenital Albinism),"백색증,알비노,하얀병"
-피부질환,소양증(Pruritus),"가려움증,간지러움증,소양감"
-피부질환,수부 습진(Hand Eczema),손 습진
-피부질환,슈도모나스 감염(Pseudomonas infection),"슈도모나스,녹농균 감염증"
-피부질환,스티븐 존슨 증후군(Stevens Johnson syndrome),"스티븐존슨병,피부점막안증후군"
-피부질환,습진(Eczema),피부염
-피부질환,아토피성 피부염(Atopic dermatitis),"Atopic eczema,소아 아토피,아기 아토피,아토피,아토피 습진,아토피피부,아토피피부염"
-피부질환,악성 흑색종(Malignant melanoma),"멜라노마,악성 멜라노마,악성 흑색점,흑색종,흑색종증"
-피부질환,안검황색종(Xanthelasma),"Xanthoma palpebrum,눈꺼풀황색판종"
-피부질환,약물 발진(Drug Eruption),약진
-피부질환,어루러기(Pityriasis versicolor),"전풍,백선,등무좀"
-피부질환,어린선(Ichthyosis),"건피증,비늘선,비늘증,어린증,잔비늘증,비강진,전풍"
-피부질환,여드름(Acne),"Acne vugalis,blackhead,comedo,면포,보통여드름,일반여드름"
-피부질환,오타 모반(Ota like Melanosis),"오타모반,오타씨모반,오타 반점"
-피부질환,옴(Scabies),"개선증,피부병 옴"
-피부질환,옻 중독(Poison ivy dermatitis),"옻,옻오름"
-피부질환,욕창(Skin defect (and/or) soft tissue defect),"Skin Defect and Soft Tissue Defect,Skin Defect or Soft Tissue Defect,pressure sore,sore,압박궤양,피부 또는 연조직 결손"
-피부질환,접촉 피부염(Contact dermatitis),"광알레르기접촉피부염,알레르기접촉피부염,자극성 접촉피부염,자극접촉피부염,접촉성 피부염"
-피부질환,조갑 이영양증(Nail dystrophy),"발톱이영양증,손톱이영양증"
-피부질환,조갑백선(Tinea unguium),"onychomycosis,손발톱 무좀"
-피부질환,조갑주위염(Paronychia),생인손
-피부질환,"주근깨(Freckle,Ephelis)","Ephelis,Freckle,작란반"
-피부질환,쥐젖(Soft fibroma),"물렁섬유종,섬유 상피 용종,연성 섬유종,피부폴립"
-피부질환,지루성 피부염(Seborrheric dermatitis),"두피지루성피부염,지루성 두피,지루성 피부,지루피부염"
-피부질환,지방종(Lipoma),양성지방종성 신생물
-피부질환,천포창(Pemphigus),"물집증,펨피구스"
-피부질환,콜린성 두드러기(Cholinergic urticaria),"콜린성 담마진,콜린성 알러지,콜린성알레르기"
-피부질환,탄저병(Anthrax),탄저균
-피부질환,탈락 피부염(Exfoliative dermatitis),"박탈성피부염,박탈피부염,벗음피부염,탈락피부염,홍색비강진,홍피증"
-피부질환,탈모증(Alopecia),"원형탈모,원형탈모증,탈모증"
-피부질환,편평 태선(Lichen Planus),"구강내편평태선,구강편평태선,편평홍색태선"
-피부질환,표피낭종(Epidermal cyst),피하낭종
-피부질환,피부 농양(Cutaneous abscess),종기
-피부질환,피부근육염(Dermatopolymyositis),"다발근육염,다발성근육염,소아피부근염,염증성 근병증,염증성 근육병증"
-피부질환,피부암(Skin cancer),"피부암종,피부의 악성종양"
-피부질환,피부염(Dermatitis),습진(eczema)
-피부질환,피부의 양성 종양(Benign skin tumor),피부 양성종양
-피부질환,한랭 두드러기(Cold urticaria),"한냉 두드러기,한랭성 두드러기,콜드알러지,콜드알레르기,추위알레르기"
-피부질환,한선염(Hidradenitis suppurativa),"화농성 한선염,아포클린 한선 여드름"
-피부질환,한센병(Leprosy),"한센씨병,문둥병,나병"
-피부질환,한포진(Acute vesiculobullous hand eczema),급성 수포성 수부 습진
-피부질환,화상(Burn),"전기화상,화학물질에 의한 화상,화학화상"
-피부질환,화염상 모반(Nevus flammeus),불꽃 모반
-피부질환,흉터(Scar),반흔
-호흡기질환,가습기 살균제 연관 폐질환(Humidifier disinfectant-associated lung injury),"가습기살균제 폐손상,가습기살균제 폐질환,신종폐질환,원인미상 폐섬유화증,원인미상 폐손상,원인불명 중증 폐질환,원인불명 폐손상,원인불명 폐질환,임산부 폐질환,임산부폐렴,원인불명 신종 폐질환"
-호흡기질환,객혈(Hemoptysis),"각혈,혈담"
-호흡기질환,공기가슴증(기흉)(Pneumothorax),"기흉,폐기흉"
-호흡기질환,과호흡 증후군(Hyperventilation syndrome),"과다호흡,과다호흡증,과다호흡증후군,과호흡,과호흡증,과환기증후군"
-호흡기질환,규폐증(Silicosis),"Anthracosilicosis,Silicosis NOS,Silicotic fibrosis (massive) of lung,규폐증 NOS,탄규폐증,폐의 광범위 규폐성 섬유증,폐의 규폐성 섬유증"
-호흡기질환,급성 기관지염(Acute bronchitis),기관지염
-호흡기질환,기관 협착(Stenosis of trachea),기관지 협착
-호흡기질환,기관지폐 형성이상(Bronchopulmonary dysplasia),"폐 이형성증,기관지폐 이형성증"
-호흡기질환,기관지확장증(Bronchiectasis),기관지확장병
-호흡기질환,꽃가루 알레르기(Pollen allergy),화분 알레르기
-호흡기질환,낭종성 폐질환(Cystic Lung Disease),선천성 전장 기형
-호흡기질환,늑막염(Pleurisy),흉막염
-호흡기질환,두통(Headache),머리의 통증
-호흡기질환,만성 기관지염(Chronic bronchitis),만성폐색성기관지염
-호흡기질환,만성 폐쇄성 폐질환(Chronic obstructive pulmonary disease),COPD
-호흡기질환,미만성 간질성 폐질환(Diffuse Interstitial lung disease),"간질성 폐질환,미만성 침윤성 폐질환,특발성 간질성 폐렴,폐섬유증,폐섬유화증"
-호흡기질환,병원 감염성 폐렴(Hospital acquired pneumonia (HAP)),병원성폐렴
-호흡기질환,비소세포성 폐암(Non-small cell lung cancer),"기관지 폐포암,대세포암,비소세포 폐암,비소세포암,편평상피세포암,폐선암"
-호흡기질환,상기도 감염(Upper respiratory infections),"common cold,감기"
-호흡기질환,상대정맥 증후군(Superior vena cava Syndrome),SVC Syndrome
-호흡기질환,성인 호흡곤란 증후군(Adult respiratory distress syndrome),ARDS
-호흡기질환,소세포성 폐암(Small cell lung cancer),소세포폐암
-호흡기질환,속립성 결핵(Miliary tuberculosis),속립결핵
-호흡기질환,신생아 호흡곤란증후군(Neonatal respiratory distress syndrome),"RDS,신생아진행성호흡부전,신생아호흡부전,신생아호흡장애증후군,유리질막증,초자막 질환"
-호흡기질환,신종 플루(Novel swine-origin influenza A(H1N1)),"H1N1,돼지독감,돼지인플루엔자,신종인플루엔자,신종인플루엔자A"
-호흡기질환,아스페르길루스증(Aspergillosis),아스페르길루스종
-호흡기질환,악성 종격동 종양(Malignant mediastinal tumor),"종격동 악성종양,종격동 암"
-호흡기질환,양성 종격동 종양(Benign mediastinal tumor),"종격동 양성종양,종격동 종양"
-호흡기질환,이물질에 의한 기도 막힘(Airway obstruction),"기도 폐색,기도폐쇄,이물질기도막힘,이물질에의한질식,이물질질식,질식"
-호흡기질환,인플루엔자(Influenza),독감
-호흡기질환,재발성 천명(Recurrent wheeze),천명
-호흡기질환,중동 호흡기 증후군(MERS)(Middle East Respiratory Syndrome),"신종 코로나 바이러스 감염증,메르스바이러스 감염증,메르스 코로나 바이러스 감염증"
-호흡기질환,중증 급성 호흡기 증후군(Severe Acute Respiratory Syndrom),"사스,SARS"
-호흡기질환,지역사회성 폐렴(Community acquired pneumonia),"비정형성 폐렴,지역사회 획득 폐렴"
-호흡기질환,진폐증(Pneumoconiosis),탄광부 진폐증
-호흡기질환,천식(Asthma),"소아천식,운동유발성천식,직업성천식"
-호흡기질환,코로나-19(COVID-19),"신종 코로나바이러스 폐렴,우한 폐렴,2019-nCoV,2019-Novel Coronavirus,신종 코로나 바이러스 감염증"
-호흡기질환,태변 흡인 증후군(Meconium aspiration syndrome),태변 흡입 증후군
-호흡기질환,특발성 폐섬유화증(Idiopathic pulmonary fibrosis),특발성 폐섬유증
-호흡기질환,폐 농양(Abscess of lung),폐농양
-호흡기질환,폐결절(Pulmonary nodule),"SPN,Solitary pulmonary nodule,고립성폐결절,단일폐결절,폐의 결절"
-호흡기질환,폐결핵(Pulmonary tuberculosis),TB
-호흡기질환,폐기종(Emphysema),"emphysema of the lung,pulmonary emphysema"
-호흡기질환,폐렴(Pneumonia),"바이러스성 폐렴,폐염증"
-호흡기질환,폐렴간균에 의한 폐렴 (Klebsiella pneumoniae infection),"크레브시엘라 폐렴,폐렴간균,폐렴간균 폐렴"
-호흡기질환,폐부종(Pulmonary edema),"급성폐부종,폐수종,폐울혈"
-호흡기질환,폐암(Lung cancer),"기관지암,폐 악성신생물,폐악성종양,폐암종"
-호흡기질환,호흡성 산증(Respiratory Acidosis),호흡성산혈증
-호흡기질환,횡격막 탈장(Diaphragmatic hernia),"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
-호흡기질환,흉막 삼출(Pleural effusion),흉수
-호흡기질환,흉선암(Thymus Cancer),"가슴샘종,흉선암종,흉선종"
-호흡기질환,히스토플라즈마증(Histoplasmosis),히스토플라스마증
-기타,가와사키병(Kawasaki Disease),"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
-기타,각막 부종(Corneal Edema),"각막 중심부 부종,각막 후면 부종"
-기타,단일 제대 동맥(Single Umbilical Artery),"단동맥,단동맥탯줄"
-기타,림프관종(Lymphangioma),"낭성 림프관종,해면상림프관종"
-기타,설소대 단축증(Tongue tie),"Ankyloglossia,단설소대증,설단축증,설소대 단축,설유착증"
-기타,쇼그렌 증후군(Sicca syndrome (Sjogren)),"건조 증후군,쇼그렌병,쉐그렌 증후군,자가면역 상피염,자가면역 외분비병증"
-기타,악액질(Cachexia),"소모증후군,종말증후군"
-기타,음식 알레르기(Food allergy),음식 알러지
-기타,전신 홍반성 낭창(Systemic lupus erythematosus),"낭창,루퍼스,루푸스,루프스,전신성 에리테마토우시스,전신성 홍반성 낭창,전신성 홍반성 루푸스,홍반성 낭창,홍반성 루푸스,홍반성 루프스,SLE"
-기타,처그 스트라우스 증후군(Churg strauss syndrome),"처그 스트라우스 혈관염,처그스트라우스,처그스트라우스씨 병,폐 침습성 다발동맥염"
-기타,침샘염(Sialoadenitis),"타액선염,이하선염,설하선염"
-기타,항인지질 항체 증후군(Antiphospholipid antibody syndrome),휴즈 증후군
+감염성질환,RS바이러스 감염증,"RSV,RS바이러스,RS바이러스 감염,알에스바이러스,호흡기세포융합바이러스,호흡기세포융합바이러스 감염증"
+감염성질환,각막염,각막염증
+감염성질환,간농양,간의 고름집
+감염성질환,감염성 근육염,바이러스성 근육염
+감염성질환,감염성 단핵구증,"전염성단핵세포증,키스병,엡스타인-바 바이러스 감염증"
+감염성질환,감염성 홍반,"전염성 홍반,제5병"
+감염성질환,거대세포 바이러스 질환,사이토메갈로 바이러스 감염
+감염성질환,결핵성 수막염,결핵성 뇌수막염
+감염성질환,결핵성 임파선염,결핵성 임파선
+감염성질환,경부 림프절염,"경부 림프절,경부 림프절종대,목의 급성 림프절염"
+감염성질환,곰팡이 감염,곰팡이질환
+감염성질환,광견병,"공수병,광견병 바이러스"
+감염성질환,구순포진,입술포진
+감염성질환,급성 바이러스성 간염,"Viral Hepatitis,바이러스 간염,바이러스성 간염"
+감염성질환,급성 위장염,"위장염,급성 위염"
+감염성질환,급성 질염,질염
+감염성질환,기쿠치병,"기꾸찌 병,아급성 괴사성 임파선염,Histiocytic necrotizing lymphadenopathy,Kikuchi-Fujimoto disease(KFD)"
+감염성질환,난소난관염,"Oophortis,Ovaritis,난관난소염,난관염,난소염,자궁관난소염"
+감염성질환,노로바이러스 장염,"Norovirus,노로바이러스,노로바이러스식중독"
+감염성질환,노카르디아증,노카르디아 폐렴
+감염성질환,뇌염,수막뇌염
+감염성질환,단독,단독증
+감염성질환,대상포진,"Zoster,shingles"
+감염성질환,대상포진 후 신경통,대상포진신경통
+감염성질환,대장균 감염,대장균
+감염성질환,뎅기열,뎅귀열
+감염성질환,돌발성 발진,"roseola infantum,돌발발진,돌발진,소아 장미진,영아 발진"
+감염성질환,두부 백선,"기계충,독창,머리 백선"
+감염성질환,두통,머리의 통증
+감염성질환,라싸열,"라사열,라사피버,라싸피버"
+감염성질환,레지오넬라증,"레지오넬라 감염증,레지오네라,재향군인병,Pontiac fever,폰티악열,여름 감기,레지오넬라 폐렴"
+감염성질환,렙토스피라증,"7일열,논농부병,농부병,와일씨병"
+감염성질환,리스테리아,"리스테리아병,리스테리아증,회선병"
+감염성질환,마버그열,"마버그 출혈열,마르부르크 출혈열"
+감염성질환,만성 C형 간염,C형간염
+감염성질환,말라리아,"3일열,4일열,하루거리열,학질"
+감염성질환,매독,잠복 매독
+감염성질환,메리오이드증,"유비저균 감염증,멜리오이도시스"
+감염성질환,무른 궤양,"연성하감,헤모필루스 듀크레이균 감염"
+감염성질환,바이러스성 뇌수막염,"뇌막염,뇌수막염,뇌척수막염,뇌척수염,수막염"
+감염성질환,박테리아성 뇌수막염,수막구균성수막염
+감염성질환,반코마이신 내성 장알균 감염증,"반코마이신 내성 장구균 감염증,반코마이신 저항 장알균 감염증,VRE 균혈증"
+감염성질환,반코마이신 내성 황색포도알균 감염증,"반코마이신 내성 황색포도상구균균(VRSA)감염증,반코마이신 저항 황색포도알균(VRSA) 감염증"
+감염성질환,발진티푸스,발진타이푸스
+감염성질환,방선균증,방사선균증
+감염성질환,베게너 육아종증,베게너육아종
+감염성질환,병원 감염성 폐렴,병원성폐렴
+감염성질환,보툴리눔독소증,보툴리누스중독증
+감염성질환,브루셀라증,"부루세라병,브루셀라,브루셀라병"
+감염성질환,사면발이증,음모슬증
+감염성질환,사카자키균 감염증,"E. sakazakii,엔테로박터 사카자키,사카자키,Cronobacter"
+감염성질환,사타구니 백선,"사타구니무좀,샅백선,완선,음고부백선"
+감염성질환,상기도 감염,"common cold,감기"
+감염성질환,샅(서혜)육아종,"donovanosis,도노반증,사타구니육아종,샅고랑육아종,샅육아종,서혜육아종"
+감염성질환,샤가스병,아메리카트리파노소마증
+감염성질환,선모충증,선모충병
+감염성질환,성병,"STD,성감염질환,성행위로 전파되는 질환"
+감염성질환,성홍열,"scarlatina,세균성 인후염"
+감염성질환,세균성 이질,"시겔라증,이질"
+감염성질환,소아마비,"척수성소아마비,폴리오,회백수염"
+감염성질환,속립성 결핵,속립결핵
+감염성질환,수두,전염성 수두
+감염성질환,수족구병,"수족구,수족구 질환"
+감염성질환,슈도모나스 감염,"슈도모나스,녹농균 감염증"
+감염성질환,스파르가눔증,"만선열두조충,스파르가눔"
+감염성질환,신생아 괴사성 장염,"Neonatal Necrotizing Enterocolitis,신생아 괴사성 소장결장염,태아 및 신생아의 괴사성 소장결장염"
+감염성질환,신종 플루,"H1N1,돼지독감,돼지인플루엔자,신종인플루엔자,신종인플루엔자A"
+감염성질환,신증후성 출혈열,"신증후군 출혈열,신증후출혈열,유행성 출혈열"
+감염성질환,심내막염,"infectiveendocarditis,감염성심내막염,급성감염성심내막염,급성심내막염,심내막염증,심장내막염,심장내막염증,아급성감염성심내막염,아급성심내막염"
+감염성질환,아메바성 이질,이질 아메바
+감염성질환,아스페르길루스증,아스페르길루스종
+감염성질환,에볼라 출혈열,에볼라 바이러스
+감염성질환,옻 중독,"옻,옻오름"
+감염성질환,요충증,요충병
+감염성질환,용혈성 요독 증후군,"햄버거병,HUS"
+감염성질환,원인을 알 수 없는 열,원인불명열
+감염성질환,원충성 질환,"샤가스병,아프리카수면병,체체파리"
+감염성질환,웨스트나일열,"웨스트나일 뇌염,웨스트나일즈 바이러스 감염,웨스트나일 바이러스 감염증"
+감염성질환,위장관 결핵,"위결핵,장결핵"
+감염성질환,유행성 이하선염,"멈프스,볼거리"
+감염성질환,인유두종 바이러스 감염증,"사람 유두종 바이러스 감염증,HPV"
+감염성질환,독감,"독감,인플루엔자"
+감염성질환,자궁경부염,"자궁경관염,자궁입구염"
+감염성질환,장출혈성 대장균 감염증,대장균 O157 감염증
+감염성질환,장티푸스,"염병,장질 부사"
+감염성질환,조갑주위염,생인손
+감염성질환,조류 인플루엔자 인체감염증,"조류 독감,bird flu,avian flu,bird flu,highly pathogenic avian influenza,HPAI"
+감염성질환,중동 호흡기 증후군,"신종 코로나 바이러스 감염증,메르스바이러스 감염증,메르스 코로나 바이러스 감염증"
+감염성질환,중증 급성 호흡기 증후군,"사스,SARS"
+감염성질환,HIV 바이러스,"HIV,증상이 없는 HIV 감염,인간면역결핍바이러스,임상적 잠복기 AIDS"
+감염성질환,지역사회성 폐렴,"비정형성 폐렴,지역사회 획득 폐렴"
+감염성질환,지카 바이러스 감염증,소두증
+감염성질환,첨형 콘딜로마,"곤지름,뾰족콘딜로마,생식기 사마귀,성기사마귀,음부 사마귀,첨형 콘딜롬,콘딜롬,항문우췌,첨규형콘딜로마"
+감염성질환,치쿤구니야열,"치쿤구니아 열병,치쿤구니야 열병,치쿤군야 열병,치쿤구냐 열병,치킨구니야 열병"
+감염성질환,칸디다성 구내염,"Thrush,구강점막 염증,구강점막 질환,구내염,아구창"
+감염성질환,캄필로박터 감염증,"캄필로박터,캄필로박터 식중독,캄필로박터 위장관 감염병"
+감염성질환,코로나-19,"코로나19,코로나,신종 코로나바이러스 폐렴,우한 폐렴,2019-nCoV,2019-Novel Coronavirus,신종 코로나 바이러스 감염증"
+감염성질환,큐열,"Q열,Query fever"
+감염성질환,크로이츠펠트-야콥병,"CJD,vCJD,변종 크로이펠트-야콥병,야콥병,야곱병"
+감염성질환,탄저병,탄저균
+감염성질환,털진드기병,"tsutsugamushi disease,덤블티푸스,쓰쓰가무시,쓰쓰가무시병,쓰쓰가무시증,진드기 티푸스,쯔쯔가무시,쯔쯔가무시증,쯔쯔가무시병"
+감염성질환,톡소플라즈마증,"주혈 원충병,톡소포자충,톡소포자충증,톡소플라스마,톡소플라스마증,톡소플라즈마"
+감염성질환,파라인플루엔자 감염증,"파라인플루엔자,파라인플루엔자 감염"
+감염성질환,패혈성 관절염,세균성 관절염
+감염성질환,패혈증,패혈증후군
+감염성질환,폐결핵,TB
+감염성질환,폐색성 혈전 혈관염 ,"Buerger Disease,Buergers Disease,버거씨병,뷰르거병,폐색혈전혈관염,폐쇄혈전혈관염"
+감염성질환,포도상구균 감염,"Staphylococcus,포도상구균,황색포도상구균"
+감염성질환,풍진,"3일 홍역,독일홍역"
+감염성질환,한센병,"한센씨병,문둥병,나병"
+감염성질환,헤르페스 바이러스 감염,"단순포진,단순포진 바이러스,헤르페스,헤르페스 바이러스"
+감염성질환,호산구 증가증,"호산구 증가,호산구증가증후군"
+감염성질환,홍역,rubeola
+감염성질환,황열,"황열 바이러스,황열병,황열병원체"
+감염성질환,효모균증,크립토콕쿠스증
+감염성질환,후천성 면역결핍증,"AIDS,에이즈,후천성 면역결핍 증후군,후천적 면역결핍"
+감염성질환,흑사병,페스트
+감염성질환,히스토플라즈마증,히스토플라스마증
+건강증진,고혈압,"High blood pressure,Hypertension,본태성 고혈압,속발성 고혈압"
+건강증진,괴혈병,비타민 C 부족증
+건강증진,납 중독,연독
+건강증진,냉방병,"냉방병증후군,냉방증,냉방증후군"
+건강증진,대사 증후군,"증후군,대사성증후군,성인병,신진대사증후군,인슐린저항성증후군"
+건강증진,만성 피로 증후군,만성피로증후군
+건강증진,비만,"내장지방형비만,복부비만,체지방 과잉"
+건강증진,새집 증후군,"새집병,새집신드롬"
+건강증진,알코올성 간질환,"알콜성 간질환,음주 간질환"
+건강증진,원인을 알 수 없는 열,원인불명열
+건강증진,이상지질혈증,이상지질단백혈증
+건강증진,지방간,"비알코올성 지방간,비알콜성지방간,알코올성 지방간,알콜성지방간"
+건강증진,폐경,난소부전
+귀코목질환,감각신경성 난청,신경성 난청
+귀코목질환,경부 림프절염,"경부 림프절,경부 림프절종대,목의 급성 림프절염"
+귀코목질환,구강암,"oral cavity cancer,구강저암,설암,치은암,협부암"
+귀코목질환,급성 중이염,"급성 화농성 중이염,중이염"
+귀코목질환,꽃가루 알레르기,화분 알레르기
+귀코목질환,난청,"돌발성 난청,선천성 난청,소음성 난청,전도성 난청,전음성 난청"
+귀코목질환,낭포성 히그로마,낭성히그로마
+귀코목질환,두통,머리의 통증
+귀코목질환,루드비히 안자이나 ,"구강저 봉와직염,루드비히 앙기나,턱끝밑 봉와직염"
+귀코목질환,만성 부비동염,"만성 굴염,만성축농증"
+귀코목질환,만성 비염,"비염,비후성 비염"
+귀코목질환,만성 중이염,"중이염,만성 중간귀 염"
+귀코목질환,메니에르병,"내림프수종,메니에르 증후군"
+귀코목질환,미로염,내이염
+귀코목질환,부비동염,"급성 부비강염,급성 부비동염,급성 축농증,부비강염,축농증"
+귀코목질환,비부비동 종양,"비강암,부비동암,비강종물"
+귀코목질환,비용종,"코물혹,코버섯,코용종,콧속 물혹"
+귀코목질환,비인두 종양,"비인두암,인두암"
+귀코목질환,비중격 만곡,"비중격만곡증,편위된 코사이막"
+귀코목질환,비출혈,코피
+귀코목질환,산후 갑상선염,"산후갑상선,산후갑상선염증"
+귀코목질환,삼출성 중이염,"장액성 중이염,점액성 중이염"
+귀코목질환,상기도 감염,"common cold,감기"
+귀코목질환,성대결절,"성대 결절,후두 결절"
+귀코목질환,성대용종,"성대 및 후두의 폴립,성대 용종,후두 용종"
+귀코목질환,수면 무호흡증,"sleep apnea syndrome,수면 무호흡,수면 무호흡 증후군"
+귀코목질환,아나필락시스,"Anaphylactic shock,과민성 쇼크,아나필락시스성 쇼크,아나필락틱 쇼크"
+귀코목질환,편도 비대,"구개편도 비대,아데노이드 편도 비대,아데노이드증식증"
+귀코목질환,알레르기 비염,"알러지비염,알러지성 비염,알레르기비염,알레르기성 비염"
+귀코목질환,고막 천공,"고막 파열,외상성 고막 천공,외상성고막파열"
+귀코목질환,외이도염,외이도염증
+귀코목질환,이명,"귀울림,이명현상"
+귀코목질환,이석증,"양성 돌발성 체위 현훈증,양성 발작성 현기증,양성 체위성 현훈,양성자세현훈"
+귀코목질환,인후두염,"급성 인두염,급성 후두염,기관염,목감기,인두염,인후두염증,인후염,인후통,후두염"
+귀코목질환,전정신경염,안뜰 신경염
+귀코목질환,진주종,진주 모양 종양
+귀코목질환,청신경초종,"청신경 양성종양,청신경 종양,Acoustic neuroma"
+귀코목질환,타석증,"침돌증,침샘의돌,타액결석증"
+귀코목질환,타액선암,"Salivary Gland Tumor,Salivary adenocarcinoma,설하선암,소타액선암,악하선암,이하선암,침샘암"
+귀코목질환,편도선염,"급성 편도염,편도선염증,편도염,편도염증"
+귀코목질환,현훈,"어지러움,어지러움증,어지럼,어지럼증,현기증"
+귀코목질환,후각장애,후각저하증
+귀코목질환,미각장애,미각저하증
+귀코목질환,후두암,"성문상부암,성문암,성문하부암"
+귀코목질환,후비루,후비루증후군
+근골격질환,VDT 증후군,"VDT,VDT syndrome,VDT 신드롬,Visual Display Terminal Syndrome,영상 단말기 증후군"
+근골격질환,가스 괴저,"Clostridial myonecrosis,가스괴저병"
+근골격질환,각기병,"각기병증,비타민 B1결핍증,비타민B1부족증,티아민결핍증"
+근골격질환,강직성 척추염,"경직성 척추염,강직척추염"
+근골격질환,거북목 증후군,"거북목,일자목,일자목 증후군,일자목증후군"
+근골격질환,건 손상,"힘줄손상,힘줄파열"
+근골격질환,건초염,"건막염,건초염증,활막염,활액막염"
+근골격질환,결절종,"갱그리온,갱글리온"
+근골격질환,경골과 비골 골절,"경골 골절,비골 골절"
+근골격질환,고관절 이형성증,"발달성고관절이형성증,발달성고관절탈구,선천성고관절이형성증,선천성고관절탈구,신생아고관절탈구,아기고관절탈구"
+근골격질환,골감소증,"골량감소,뼈감소증"
+근골격질환,골관절염,"DJD,degenerative arthritis,degenerative joint disease,퇴행성관절염"
+근골격질환,골괴사,"골괴사증,뼈조직 괴사"
+근골격질환,골수염,골수염증
+근골격질환,골육종,"골암,골원성육종,뼈암"
+근골격질환,골절 후 부정 유합,"부정유합,불유합"
+근골격질환,관절염,"Arthrosis,Osteo-arthrosis,골관절증,관절의 염증,관절증,뼈마디염"
+근골격질환,관절와순 파열,"슬랩,슬랩 병변,SLAP,상부관절와순 파열,관절와순 손상"
+근골격질환,구획 증후군,"확정형 구획증후군,만성형 구획증후군"
+근골격질환,근근막 통증 증후군,"근막동통증후군,담,담 걸리다,담결림,담이 걸리다,담통증,발통증후군"
+근골격질환,근긴장성 이영양증 ,근육긴장퇴행위축
+근골격질환,근육병,"근경직증,근긴장저하,근디스트로피,근위축,근육긴장저하,근육질환,근육퇴행위축,근이영양증,근질환,염증성 근병변,염증성 근병증,염증성 근염,염증성 근질환"
+근골격질환,내반슬,"O자 다리,Geno varum"
+근골격질환,내상과염,"골프 엘보우,골프엘보"
+근골격질환,내연골종,"내연골종증,올리에르병"
+근골격질환,노인성 척추후만증,노인성등굽음
+근골격질환,대퇴 골절,"고관절 골절,대퇴경부골절"
+근골격질환,대퇴골두 무혈관성 괴사,"고관절무혈성괴사,대퇴골두무혈성괴사,대퇴골두무혈성괴사증,대퇴골무혈성괴사"
+근골격질환,동결견,오십견
+근골격질환,두개 유합증,"두개 조기유합,두개골 조기봉합증,두개골조기유합증,두개조기융합,머리뼈 붙음증"
+근골격질환,듀시엔형 근이영양증 ,"muscular dystrophy,근디스트로피,근육퇴행위축,근이영양증,두시엔느 근육퇴행위축,뒤셴형 근이영양증,뒤시엔느 근디스트로피,뒤시엔느 근육퇴행위축,뒤시엔느 근이영양증,듀시엔느 근이영양증"
+근골격질환,듀피트렌 구축,"듀피트렌,듀피트렌 병"
+근골격질환,류마티스 관절염,"류마토이드관절염,류마토이드성관절염,류머토이드관절염,류머토이드성관절염,류머티스 관절염,류머티스관절,류머티스성 관절염"
+근골격질환,마르판 증후군 ,"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
+근골격질환,망치족지,"망치 발가락,망치족부변형,추상족지증"
+근골격질환,무지(엄지)중수지관절측부인대손상,"skier thumb,무지중수지관절측부인대손상,사냥터지기무지,스키어 무지,스키어 엄지,엄지관절인대손상,엄지중수지관절측부인대손상"
+근골격질환,무지외반증,"무지외반,족무지외반,족무지외반증"
+근골격질환,반달연골 이상,"무릎십자인대,무릎십자인대손상,무릎십자인대수술,무릎십자인대이상,반달연골 손상"
+근골격질환,반월판 연골손상,"무릎결림,무릎관절염,무릎손상,반월상연골손상,반월판연골통증"
+근골격질환,베이커 낭종,"무릎뒤 물혹,베이커씨낭종,슬와낭종"
+근골격질환,베체트 병,"베체트,베체트 증후군,베체트씨병"
+근골격질환,병리적 골절,병적 골절
+근골격질환,복합 부위 통증 증후군,"CRPS,reflex sympathetic dystrophy syndrome,반사성 교감신경 위축증,반사성교감신경위축증,반사성교감신경이영양증,통증증후군"
+근골격질환,부가지,"다지증,발가락 다지증,손가락 다지증"
+근골격질환,뼈의 신생물,"골종양,뼈종양"
+근골격질환,석회성 건염,석회화 건염
+근골격질환,선천성 사경,"목 뒤틀림,선천기운목,선천성 근성 사경,선천성사경,신생아 사경,아기 사경"
+근골격질환,선천성 편평발,"선천 편평발,선천성 평발,평발"
+근골격질환,섬유근육통,"섬유근육통증,섬유근통,섬유근통증,섬유근통증후군"
+근골격질환,소아 류마티스 관절염,"류마토이드소아관절염,류마티스소아관절염,류머토이드소아관절염,류머티스소아,류머티스소아관절염,소아류마토이드관절염,소아류마티스관절염,소아류머토이드관절염,연소기 류머티스 관절염"
+근골격질환,소아마비,"척수성소아마비,폴리오,회백수염"
+근골격질환,손목 수근관 증후군,"손목굴 증후군,손목터널증후군,손저림증,수근관증,수근관증후군,터널증후군,팔목터널증후군"
+근골격질환,쇄골 골절,쇄골뼈 골절
+근골격질환,수부 외상,손의 외상
+근골격질환,슬개건염,"Jumper knee,슬개건 염증,슬개골 건염"
+근골격질환,슬개골 골절,"슬개뼈 골절,슬관절 골절,접시뼈 골절"
+근골격질환,슬관절 장애,무릎 관절 장애
+근골격질환,십자 인대 손상,"십자인대부상,십자인대파열,전방십자인대손상,후방십자인대손상"
+근골격질환,아킬레스 건 파열,아켈리스 건 파열
+근골격질환,아킬레스 건염,아킬레스건 염증
+근골격질환,안면 골절,"안면골골절,얼굴골절,얼굴뼈골절"
+근골격질환,압궤 손상,"crush syndrome,traumatic rhabdomyolysis,압좌손상,압좌증후군,압착손상,외상성 횡문근융해,크러쉬증후군,크러시증후군"
+근골격질환,연골연화증,"슬개 대퇴 동통 증후군,슬개골 연골연화증"
+근골격질환,연골형성저하증,"연골저형성증,저연골형성증"
+근골격질환,염좌,삠
+근골격질환,오목가슴,"함몰가슴,함몰흉"
+근골격질환,오스굿씨 병,"경골절 골연골증,경골절의 골연골증,오스굿 슐라터병,오스굿 실라터병"
+근골격질환,완전 척수 손상,"Spinal Cord Trauma,척수손상"
+근골격질환,외반슬,X 다리
+근골격질환,외상에 의한 척추 손상,"경추부염좌,척추손상"
+근골격질환,요족,"까치발,오목발"
+근골격질환,요추 전방전위증,"요추전위증,척추전방전위증,척추전위증"
+근골격질환,요추 추간판 탈출증,"디스크,척추관 협착증,퇴행성 척추관 협착증,허리 디스크"
+근골격질환,요추관 협착증,"척추관 협착증,퇴행성 척추관 협착증"
+근골격질환,요통,"lumbago,아래허리통증,저배통,허리통,허리통증"
+근골격질환,원위 요골과 척골 골절,"Fracture of distal radius,손목골절,아래팔골절,아래팔골절수술,요골골절,원위요골골절,척골골절"
+근골격질환,원판형 반월상연골,원판형연골
+근골격질환,육종,"악성골종양,연부조직육종"
+근골격질환,이소성 골화증,"이소성 골형성,이소성 골화"
+근골격질환,일과성 고관절 활액막염,"고관절활막염,고관절활액막염,일과성고관절활막염"
+근골격질환,재발성 견관절 전방 탈구,"견관절 탈구,어깨탈골,어깨탈구,재발성견관절탈골,재발성견관절탈구,재발성어깨탈골,재발성어깨탈구,습관성 어깨 탈구"
+근골격질환,전신 경화증,전신성 경화증
+근골격질환,점액낭염,"윤활낭염,활액낭염"
+근골격질환,족저 근막염,"발뒤꿈치 통증 증후군,발바닥 건염,발바닥 근막염,족저 건염"
+근골격질환,좌골신경통,궁둥뼈신경통
+근골격질환,주관절 외상과염,"외상과염,주관절통,테니스엘보우,팬엘보,테니스엘보"
+근골격질환,지간 신경종,"모르톤족지,발가락 신경종"
+근골격질환,지방종,양성지방종성 신생물
+근골격질환,지체장애,"Orthopedic Impairment,지체부자유"
+근골격질환,척수구근 근위축증 ,"Kennedy disease,케네디 증후군,케네디병"
+근골격질환,척추 종양,"척추암,척추 신생물"
+근골격질환,척추측만증,"척추 옆 굽음증,척추측만"
+근골격질환,천추골 골절,"엉덩이뼈 골절,골반뼈 골절"
+근골격질환,턱관절 장애,"악관절 장애,측두하악장애"
+근골격질환,통풍성 관절염,"과요산성 관절염,urarthritis"
+근골격질환,퇴행성 척추 장애,퇴행성 척추 질환
+근골격질환,패혈성 관절염,세균성 관절염
+근골격질환,피로 골절,스트레스 골절
+근골격질환,피부근육염,"다발근육염,다발성근육염,소아피부근염,염증성 근병증,염증성 근육병증"
+근골격질환,회전근개 증후군,"Rotator cuff tear,어깨근육손상,어깨근육파열,회전근개증,회전근개파열"
+근골격질환,횡단성 척수염,"가로방향척수염,급성 횡단성 척수염,척수염,횡단척수염"
+근골격질환,횡문근육종,"횡문근육암,횡문근육종양"
+근골격질환,횡문근융해증,횡문근융해
+근골격질환,후종인대 골화증,"후방인대 골화증,후총인대 골화증"
+눈질환,각막 궤양,감염성 각막염
+눈질환,각막 혼탁과 흉터,"각막반흔,각막혼탁,각막흉터"
+눈질환,각막염,각막염증
+눈질환,근시,"nearsightedness,고도근시,근시안"
+눈질환,꽃가루 알레르기,화분 알레르기
+눈질환,노안,"노시안,노인성 시력장애,노화성 시력장애"
+눈질환,눈꺼풀 장애,눈꺼풀 이상
+눈질환,눈물흘림증,유루증
+눈질환,당뇨망막병증,당뇨망막증
+눈질환,두통,머리의 통증
+눈질환,레버씨 시신경 위축증 ,레버 유전성 시신경병증
+눈질환,마르판 증후군 ,"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
+눈질환,망막 박리,"HypertensiveRetinopathy,견인망막박리,삼출망막박리,열공망막박리"
+눈질환,망막 열공,망막천공
+눈질환,망막 정맥 폐쇄,"망막분지정맥폐쇄,망막중심정맥폐쇄 퍼가기"
+눈질환,망막색소변성증,"망막색소병증,색소성망막염"
+눈질환,망막아세포종,망막모세포종
+눈질환,맥락막 흑색종,맥락막 악성흑생종
+눈질환,맥립종,"눈다래기,눈다래끼,눈다래키,다래기,다래끼,다래키"
+눈질환,미숙아 망막병증,"premature infant of Retinopathy,preterm infant Retinopathy,미숙아 망막증"
+눈질환,비루관 폐쇄,"눈물길폐쇄,누관 폐쇄,눈물샘 막힘"
+눈질환,비문증,"날파리증,유리체부유물"
+눈질환,사시,소아사시
+눈질환,색약,"색각 이상,색맹"
+눈질환,선천성 눈 기형,선천적 눈 기형
+눈질환,수정체 탈구,수정체탈구증
+눈질환,스티븐 존슨 증후군,"스티븐존슨병,피부점막안증후군"
+눈질환,시신경염,시신경염증
+눈질환,안검내반,"눈꺼풀 속말림,부안검,안검내번"
+눈질환,안검염,눈꺼풀염증
+눈질환,안검하수,눈꺼풀 처짐증
+눈질환,안구 건조증,"건성안증후군,눈건조,눈건조증,눈마름증후군,안구건조"
+눈질환,안암,"눈암,안구암,눈의 악성 종양"
+눈질환,알레르기성 결막염,"고초열성 결막염,아토피성 각결막염,알레르기성 결막염,접촉성 안검염,접촉성 안검염에 의한 결막염,춘계 각결막염,플릭텐성 각결막염,알러지성 결막염"
+눈질환,약시,약시안
+눈질환,원추각막,원뿔각막
+눈질환,유리체 출혈,초자체 출혈
+눈질환,익상편,군날개
+눈질환,중심장액성 맥락망막병증,중심장액성 맥락망막염
+눈질환,진균성 각막 궤양,"corneal fungal infection,각막진균증,진균성 각막궤양"
+눈질환,출혈성 결막염,"급성 아폴로눈병,급성출혈성결막염,아폴로눈병,유행성출혈성결막염"
+눈질환,홍채염,"홍채모양체염,홍채염증"
+눈질환,화농성 안구내염,"농성 내안구염,화농성 눈속 염증,화농성 눈염증,화농성 안구염"
+눈질환,황반변성,"노년 황반변성,황반 및 후극부의 변성 퍼가기"
+눈질환,황반천공,황반원공
+뇌신경정신질환,각기병,"각기병증,비타민 B1결핍증,비타민B1부족증,티아민결핍증"
+뇌신경정신질환,강박 장애,"강박신경증,강박증,강박성 장애"
+뇌신경정신질환,거스트만 증후군,"게르스트만 증후군,저스트만 증후군"
+뇌신경정신질환,건강염려증,"건강염려증상,심기증,질병 불안장애"
+뇌신경정신질환,결핵성 수막염,결핵성 뇌수막염
+뇌신경정신질환,경계성 인격장애,"경계선 인격장애,경계역 인격장애"
+뇌신경정신질환,경미한 인지장애,"MCI,경도 인지장애,경도인지기능장애,경미 인지장애,경미한인지기능장애"
+뇌신경정신질환,경추 추간판 탈출증,"경추수핵탈출증,목디스크,추간판 헤르니아,추간판장애,추간판탈출증"
+뇌신경정신질환,공황 장애,"공황발작,우발적 발작성불안,임소공포"
+뇌신경정신질환,과호흡 증후군,"과다호흡,과다호흡증,과다호흡증후군,과호흡,과호흡증,과환기증후군"
+뇌신경정신질환,광견병,"공수병,광견병 바이러스"
+뇌신경정신질환,광장공포증,광장공포
+뇌신경정신질환,군발성 두통 증후군,"군발두통,군발두통증후군,송이 두통,송이두통증후군"
+뇌신경정신질환,근위축성 측색 경화증,"Lou Gehrig disease,근위축성 측삭경화증,루게릭,루게릭병"
+뇌신경정신질환,근육 긴장성 두통,긴장성두통
+뇌신경정신질환,근육긴장이상증,"근긴장이상,근긴장이상장애,근긴장이상증,근긴장장애,근육긴장장애,디스토니아,디스토니아병,디스토니아장애,디스토니아질환,근육긴장이상"
+뇌신경정신질환,금단 현상,"withdrawal symptoms,금단증상"
+뇌신경정신질환,기면증,"기면발작,기면발작증,기면병,발작수면,수면발작,수면발작증,수면병"
+뇌신경정신질환,기분부전증,"기분부전장애,만성우울증"
+뇌신경정신질환,기억상실증,"기억상실,단기기억상실,단기기억상실증"
+뇌신경정신질환,길랑-바레 증후군,"polyneuritis,polyradiculo-neuropathy,갈리안바레 증후군,급성 염증성 탈수초성 다발성 신경병증,급성 특발성 다발성 근신경염,길랭-바레증후군,길렝-바레 증후군,다발성 척수신경증"
+뇌신경정신질환,난독증,"congenital word-blindness,독서불능증,발달성 단어맹,발달적 독서 불능증,선천성 단어맹,실독증,읽기장애"
+뇌신경정신질환,뇌 동정맥 기형,"cerebral arteriovenous malformation,뇌동정맥기형,뇌의 동정맥 기형,선천성 뇌혈관 기형,뇌혈관 기형"
+뇌신경정신질환,뇌경색,"ischemic stroke,경색성 뇌졸중,뇌경색증,뇌색전증,뇌혈전증,허혈성 뇌졸증"
+뇌신경정신질환,뇌동맥류,"뇌동맥꽈리,뇌지주막하 출혈,두개강 내 동맥류"
+뇌신경정신질환,뇌염,수막뇌염
+뇌신경정신질환,뇌전증,"epilepticseizure,epilepticsyndrome,간질발작,간질병,간질증후군,간질"
+뇌신경정신질환,뇌졸중,"stroke,급성기 허혈성 뇌중풍,뇌졸증,뇌중풍,중풍,허혈성 뇌중풍,허혈성 뇌혈관 질환"
+뇌신경정신질환,뇌종양,"뇌암,뇌종양"
+뇌신경정신질환,뇌출혈,"뇌 내 출혈,뇌실질내출혈,뇌일혈,출혈성 뇌졸중,출혈성 뇌중풍"
+뇌신경정신질환,뇌하수체 양성 및 악성 신생물,"뇌하수체선종,프로락틴종,뇌하수체 종양,뇌하수체 악성 신생물,뇌하수체 양성 신생물"
+뇌신경정신질환,다발성 경화증,다발성 경화
+뇌신경정신질환,다발성 신경병증,"다발신경병증,다발신경증"
+뇌신경정신질환,당뇨병성 말초신경병증,"당뇨병성신경병증,당뇨성말초신경병증,당뇨성신경병증"
+뇌신경정신질환,대뇌성 거인증 ,소토스증후군
+뇌신경정신질환,두통,머리의 통증
+뇌신경정신질환,수전증,떨림
+뇌신경정신질환,뚜렛 증후군,"뚜렛 장애,뚜렛병,뚜렛씨 장애,투렛 증후군"
+뇌신경정신질환,레이노병,"레이노 증후군,레이노드증후군,레이노씨병,레이노이드 증상,레이노이드 증후군,레이노이드 질환"
+뇌신경정신질환,리 증후군,"Subacute necrotizing encephalomyelopathy,리씨증후군,아급성 괴사성 뇌척수염"
+뇌신경정신질환,말단비대증,"acromegaly,거인증,말단거대증,선단거대증,선단비대증"
+뇌신경정신질환,말더듬이,"말더듬병,말더듬증"
+뇌신경정신질환,망상 장애,"과대망상,망상증"
+뇌신경정신질환,모야모야병,"모야모야증,모야모야질환,양측 내경동맥 형성부전"
+뇌신경정신질환,뮌하우젠 증후군,"가장성장애,대리 뮌하우젠 증후군,문하우젠증후군"
+뇌신경정신질환,바이러스성 뇌수막염,"뇌막염,뇌수막염,뇌척수막염,뇌척수염,수막염"
+뇌신경정신질환,박테리아성 뇌수막염,수막구균성수막염
+뇌신경정신질환,반사회성 인격장애,"APD,psychopath,psychopathy,sociopath,sociopathy,반사회적 인격 장애,반사회적성격,반사회적인격,사이코패스,소시오패스,싸이코패스"
+뇌신경정신질환,반응성 애착장애,"Reactive Attachment Disorder,애착장애"
+뇌신경정신질환,발모벽,"발모광,트리코틸로마니아"
+뇌신경정신질환,발작,"대발작,소발작"
+뇌신경정신질환,베르니케 코시코프 증후군,베르니케 코르사코프 증후군
+뇌신경정신질환,병적 도벽,"Kleptomania,도벽,도벽병,도벽증,절도광"
+뇌신경정신질환,병적 방화,"Pyromania,방화광,상습방화,병적 발화"
+뇌신경정신질환,복합 부위 통증 증후군,"CRPS,reflex sympathetic dystrophy syndrome,반사성 교감신경 위축증,반사성교감신경위축증,반사성교감신경이영양증,통증증후군"
+뇌신경정신질환,분리 불안 장애,"Separation Anxiety Disorder,격리불안장애,분리불안,분리불안장애"
+뇌신경정신질환,분열정동 장애,"분열정동성장애,정신분열정동성장애,정신분열정동장애"
+뇌신경정신질환,불면증,잠장애
+뇌신경정신질환,불안 장애,"불안증,不安障碍"
+뇌신경정신질환,비정형 파킨슨 증후군,"진행핵상마비,다계통 위축,피질 기저핵 변성,루이소체치매"
+뇌신경정신질환,사회공포증,"performance anxiety,social anxiety disorder,sociophobia,대인공포증,대인기피증,무대공포증,발표공포증,사회불안장애"
+뇌신경정신질환,산후 우울증,"산후우울,산후우울감"
+뇌신경정신질환,삼차 신경병증,삼차신경통
+뇌신경정신질환,설인신경통,혀인두신경통
+뇌신경정신질환,섬망,급성 기질성 뇌 증후군
+뇌신경정신질환,섭식 장애,"Anorexia Nervosa,거식증,신경성대식증,신경성식욕부진증,신경성폭식증,폭식증"
+뇌신경정신질환,성기능장애,"Sexualanesthesia,불감증"
+뇌신경정신질환,성도착증,"변태성욕,색정도착증,성적도착,성적도착증,성적이상,이상성욕"
+뇌신경정신질환,성인 주의력 결핍 과잉행동장애,"성인 ADHD,성인 과잉행동장애"
+뇌신경정신질환,소아청소년기 우울증,"아동 우울증,소아 우울증,청소년 우울증,사춘기 우울증"
+뇌신경정신질환,수두증,뇌수종
+뇌신경정신질환,수막종,"뇌수막 종양,뇌수막종"
+뇌신경정신질환,수면 무호흡증,"sleep apnea syndrome,수면 무호흡,수면 무호흡 증후군"
+뇌신경정신질환,수면보행증,"sleepwalking,몽유병,몽유증"
+뇌신경정신질환,스터지 웨버 증후군,뇌막 혈관종증
+뇌신경정신질환,스핑고 지질증,sphingolipodystrophy
+뇌신경정신질환,신경근병증,신경뿌리병증
+뇌신경정신질환,신경섬유종,"neurofibroma,신경섬유종양,신경섬유종증"
+뇌신경정신질환,신경성 식욕부진증,"거식증,신경성 식욕부진"
+뇌신경정신질환,신경성 폭식증,"addephagia,신경성 과식증,신경성 식욕대식증,충동성폭식증,폭식증"
+뇌신경정신질환,신경종,신경종양
+뇌신경정신질환,신경초종,"쉬반종,시반종"
+뇌신경정신질환,신체형 장애,"신체화 장애,somatoform disorder"
+뇌신경정신질환,실어증,"말못함증,부전실어,부전실어증,언어상실증"
+뇌신경정신질환,아스퍼거 증후군,"아스퍼거 장애,아스페르거 증후군"
+뇌신경정신질환,악성 신경교종,"Glioma,뇌교종,신경교종"
+뇌신경정신질환,안면 마비,"구안와사,안면신경마비,얼굴마비,와사풍"
+뇌신경정신질환,안면인식장애,안면실인증
+뇌신경정신질환,알츠하이머병,"알쯔하이머,알쯔하이머 치매,알쯔하이머성 치매,알쯔하이머형 치매,알츠하이머,알츠하이머 치매,알츠하이머성 치매,알츠하이머형 치매,퇴행성 뇌질환,알쯔하이머병"
+뇌신경정신질환,알코올 의존성,"알코올 중독,알코올 중독증,알콜 중독,알콜중독증,알콜홀릭"
+뇌신경정신질환,알코올성 치매,"알콜성 치매,Alcoholic Dementia"
+뇌신경정신질환,양극성 장애,"조울병,조울증"
+뇌신경정신질환,얼렌 증후군,"광과민성증후군,시각적과부하증후군,시지각적스트레스증후군"
+뇌신경정신질환,외상 후 스트레스 장애,"외상후 스트레스,PTSD"
+뇌신경정신질환,외상성 경막하 출혈,"subdural hemorrhage,경막하 출혈,경막하혈종,급성 경막하 출혈"
+뇌신경정신질환,외상성 치매 ,"PTD,권투선수의 치매,만성 외상성 뇌병변,외상 후 치매,외상성 뇌병변"
+뇌신경정신질환,외상에 의한 뇌 손상,"brain concussion,뇌진탕"
+뇌신경정신질환,외상에 의한 척수 손상,외상성척수손상
+뇌신경정신질환,요추 추간판 탈출증,"디스크,척추관 협착증,퇴행성 척추관 협착증,허리 디스크"
+뇌신경정신질환,우울증,"우울병,우울장애,울병,주요 우울장애"
+뇌신경정신질환,운동신경 질환,"mnd,운동신경원 병"
+뇌신경정신질환,윌슨병,"Hepatolenticular degeneration,간렌즈핵변성,윌슨씨병"
+뇌신경정신질환,의상도착증,"transvestism,복장도착증"
+뇌신경정신질환,이차성 파킨슨증,"약물 유도성 파킨슨증,정상압 수두증,혈관성 파킨슨증"
+뇌신경정신질환,인터넷 중독,"게임중독,게임중독증,온라인게임중독,온라인주식중독,온라인주식중독증,인터넷중독증,채팅중독,채팅중독증,통신중독,통신중독증"
+뇌신경정신질환,일과성 뇌허혈증,"Transient Ischemic Attack,일과성 허혈성 발작,일과성뇌허혈발작,일과성뇌허혈현상"
+뇌신경정신질환,뇌출혈,"고혈압성 뇌출혈,뇌 내 출혈,뇌실질 내 출혈,뇌출혈,자발성 뇌내출혈,자발성 두개강 내 출혈"
+뇌신경정신질환,자폐증,"자폐,자폐병,자폐성 장애,자폐성 질환,자폐스펙트럼장애,자폐증"
+뇌신경정신질환,잠금 증후군,"감금증후군,락인증후군,락트-인 증후군"
+뇌신경정신질환,조현병,"정신분열,정신분열증,정신분열병"
+뇌신경정신질환,좌골신경통,궁둥뼈신경통
+뇌신경정신질환,주의력결핍 과잉행동장애,"ADHD,과운동성장애,과잉행동장애,주의력결핍,주의력결핍 과잉행동장애"
+뇌신경정신질환,중증 근무력증,"근무력증,중근무력증"
+뇌신경정신질환,지적장애,"정신박약,정신지체,Mental retardation"
+뇌신경정신질환,지주막하 출혈,"SAH,거미막밑 출혈,거미막하 출혈,지주막출혈"
+뇌신경정신질환,척수근육위축,"척수성근위축,척수성근위축증"
+뇌신경정신질환,척수소뇌성 운동실조증 ,척수소뇌실조증
+뇌신경정신질환,척추 뇌저 동맥 증후군,"vertebro-basilar insufficiency,척추기저동맥부전"
+뇌신경정신질환,척추 종양,"척추암,척추 신생물"
+뇌신경정신질환,청신경초종,"청신경 양성종양,청신경 종양,Acoustic neuroma"
+뇌신경정신질환,치매,노인성 치매
+뇌신경정신질환,크로이츠펠트-야콥병,"CJD,vCJD,변종 크로이펠트-야콥병,야콥병,야곱병"
+뇌신경정신질환,테이-삭스병 ,흑내장가족성백치
+뇌신경정신질환,퇴행성 척추 장애,퇴행성 척추 질환
+뇌신경정신질환,틱 장애,"틱,틱증후군"
+뇌신경정신질환,파킨슨병,"파킨슨질환,퍼킨슨병,특발파킨슨병"
+뇌신경정신질환,편집성 인격장애,"편집적인격장애,편집증"
+뇌신경정신질환,피질하 경색과 백질뇌증을 동반하는 상염색체 우성 뇌동맥질환,CADASIL
+뇌신경정신질환,하지불안증후군,"Restless Legs Syndrome,하지불안증"
+뇌신경정신질환,해리 장애,"다중인격,다중인격장애,이인성장애,해리성기억상실,해리성둔주,해리성장애,해리성정체감장애,해리성정체성장애,해리성정체장애"
+뇌신경정신질환,행동 및 충동 장애,"조절 장애,충동 장애,충동조절장애"
+뇌신경정신질환,헌팅톤 병,무도병
+뇌신경정신질환,혼수,"Unconsciousness,의식불명,코마,코마상태,혼수상태"
+뇌신경정신질환,히스테리성 인격장애,"연극성 인격장애,히스테리성 성격장애"
+성형미용 및 재건,구개열,"구개파열,구순구개열,입천장갈림증"
+성형미용 및 재건,구순열,"구순구개열,언청이,입술갈림증,토순"
+성형미용 및 재건,노화된 얼굴,"노안,늙은 얼굴,얼굴 노화"
+성형미용 및 재건,돌출귀,"당나귀귀,미키마우스귀,박쥐귀"
+성형미용 및 재건,돌출입,"부정교합,양악돌출증,상악돌출증,무턱"
+성형미용 및 재건,두개 안면 부조화,"납작머리,두개안면기형,자세성 사두증"
+성형미용 및 재건,두개 유합증,"두개 조기유합,두개골 조기봉합증,두개골조기유합증,두개조기융합,머리뼈 붙음증"
+성형미용 및 재건,불만족스러운 코의 모양,"납작코,안장코,매부리코"
+성형미용 및 재건,비 변형,"코의 변형,휜코,비 만곡증,코 만곡증"
+성형미용 및 재건,사각턱,각진턱
+성형미용 및 재건,선천성 손 기형,"손기형,수부 기형"
+성형미용 및 재건,소유방증,"작은 가슴,Small breast"
+성형미용 및 재건,소이증,작은귀증
+성형미용 및 재건,신체 내 지방 불균형,"미용 목적의 체형교정술,지방 흡입,체형교정술"
+성형미용 및 재건,안면 골절,"안면골골절,얼굴골절,얼굴뼈골절"
+성형미용 및 재건,안면 비대칭,"두상비대칭,얼굴비대칭,롬버그병"
+성형미용 및 재건,양안격리증,"두눈먼거리증,안와이개증,양안과다격리증"
+성형미용 및 재건,외꺼풀,홑꺼풀
+성형미용 및 재건,주걱턱,"부정교합,양악돌출증,상악돌출증,무턱"
+성형미용 및 재건,취한증,"겨드랑이 다한증,암내,액취증"
+성형미용 및 재건,턱뼈 성장 이상,"돌출입,무턱증"
+성형미용 및 재건,함몰 유두,구융젖
+소아청소년질환,Rh 부적합 임신,신생아의 Rh형에 의한 용혈성 질환
+소아청소년질환,가와사키병,"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
+소아청소년질환,거대세포 바이러스 질환,사이토메갈로 바이러스 감염
+소아청소년질환,고관절 이형성증,"발달성고관절이형성증,발달성고관절탈구,선천성고관절이형성증,선천성고관절탈구,신생아고관절탈구,아기고관절탈구"
+소아청소년질환,고환 여성화 증후군,"고환여성화,남성호르몬 불감성 증후군,Androgen insensitivity syndrome"
+소아청소년질환,과숙아,"과기 출산아,만기후 출생아,Post-mature infant"
+소아청소년질환,구개열,"구개파열,구순구개열,입천장갈림증"
+소아청소년질환,구순열,"구순구개열,언청이,입술갈림증,토순"
+소아청소년질환,기관지폐 형성이상,"폐 이형성증,기관지폐 이형성증"
+소아청소년질환,낭포성 히그로마,낭성히그로마
+소아청소년질환,단심실,"단심실 심장병,단일 심실"
+소아청소년질환,대동맥 협착,대동맥판 협착
+소아청소년질환,대동맥 협착증,"대동맥 판막 협착증,대동맥축착증"
+소아청소년질환,대동맥궁 단절,IAA
+소아청소년질환,대혈관 전위,완전 대혈관 전위증
+소아청소년질환,댄디워커 증후군,DWS
+소아청소년질환,동맥간증,"동맥간,동맥간 지속성 동맥줄기"
+소아청소년질환,동맥관 개존증,보탈로동맥관개존증
+소아청소년질환,두개 안면 부조화,"납작머리,두개안면기형,자세성 사두증"
+소아청소년질환,두개 유합증,"두개 조기유합,두개골 조기봉합증,두개골조기유합증,두개조기융합,머리뼈 붙음증"
+소아청소년질환,뚜렛 증후군,"뚜렛 장애,뚜렛병,뚜렛씨 장애,투렛 증후군"
+소아청소년질환,라이 증후군,"라이에 증후군,레이증후군"
+소아청소년질환,로하드 증후군,"Rapid-onset obesity with hypothalamic dysfunction hypoventilation and autonomic dysregulation,심한 비만,시상하부 기능 장애,호흡부전 및 자율 신경 조절 장애를 동반하는 증후군"
+소아청소년질환,망막아세포종,망막모세포종
+소아청소년질환,모야모야병,"모야모야증,모야모야질환,양측 내경동맥 형성부전"
+소아청소년질환,모호한 생식기,"intersex,intersexual,간성,반음양,반음양자,인터섹슈얼"
+소아청소년질환,미숙아 망막병증,"premature infant of Retinopathy,preterm infant Retinopathy,미숙아 망막증"
+소아청소년질환,발살바동 동맥류 파열,발살바동동맥류
+소아청소년질환,발육부전성 좌심 증후군,좌심 형성 부전 증후군
+소아청소년질환,방실 중격 결손,"방실 관 결손,방실중격 결손증,심내막상 결손,심방심실 중격 결손증"
+소아청소년질환,배꼽염,"배꼽염,배꼽염증,제대염,제염"
+소아청소년질환,분리 불안 장애,"Separation Anxiety Disorder,격리불안장애,분리불안,분리불안장애"
+소아청소년질환,사춘기 조숙,"성조숙증,조발 사춘기"
+소아청소년질환,상기도 감염,"common cold,감기"
+소아청소년질환,생식선 및 생식 세포의 신생물,"Germ cell tumor,생식세포종,생식세포종양"
+소아청소년질환,서혜부 탈장,"사타구니 탈장,샅굴 탈장,샅 탈장,서혜 헤르니아"
+소아청소년질환,선천성 거대결장증,"Congenital aganglionic,megacolon,히르쉬스프룽병"
+소아청소년질환,선천성 눈 기형,선천적 눈 기형
+소아청소년질환,선천성 담관 폐쇄증,"담도폐쇄증,담관폐쇄증"
+소아청소년질환,선천성 사경,"목 뒤틀림,선천기운목,선천성 근성 사경,선천성사경,신생아 사경,아기 사경"
+소아청소년질환,"선천성 소장 결손, 폐쇄 및 협착","선천성 소장 결손,선천성 소장 폐쇄,선천성 소장 협착"
+소아청소년질환,선천성 손 기형,"손기형,수부 기형"
+소아청소년질환,선천성 수신증,선천성 물콩팥증
+소아청소년질환,선천성 심장 질환,"선천성 심장 기형,선천성 심장병"
+소아청소년질환,성홍열,"scarlatina,세균성 인후염"
+소아청소년질환,소아 류마티스 관절염,"류마토이드소아관절염,류마티스소아관절염,류머토이드소아관절염,류머티스소아,류머티스소아관절염,소아류마토이드관절염,소아류마티스관절염,소아류머토이드관절염,연소기 류머티스 관절염"
+소아청소년질환,소아청소년기 우울증,"아동 우울증,소아 우울증,청소년 우울증,사춘기 우울증"
+소아청소년질환,수두증,뇌수종
+소아청소년질환,수정대혈관 전위,수정대혈관 전위증
+소아청소년질환,신경모세포종,신경모세포종
+소아청소년질환,신생아 가사,"Asphyxia of newborn,Neonatal hypoxia,신생아저산소증,신생아질식"
+소아청소년질환,신생아 경련,"Neonatal seizures,신생아 경련발작,경기"
+소아청소년질환,신생아 괴사성 장염,"Neonatal Necrotizing Enterocolitis,신생아 괴사성 소장결장염,태아 및 신생아의 괴사성 소장결장염"
+소아청소년질환,신생아 다혈구증,"Polycythemia neonatorum,신생아 적혈구증가증"
+소아청소년질환,신생아 답즙정체증,"신생아 담즙정체,신생아 쓸개즙정체,담적,담적증"
+소아청소년질환,신생아 호흡곤란증후군,"RDS,신생아진행성호흡부전,신생아호흡부전,신생아호흡장애증후군,유리질막증,초자막 질환"
+소아청소년질환,신생아 황달,Neonatal hyperbilirubinemia
+소아청소년질환,심방 중격 결손,"ASD,소아 심방중격결손,심방중격결손증"
+소아청소년질환,심실 중격 결손,"VSD,근성부 결손,막양부 결손,심실중격결손증,판막 하 결손"
+소아청소년질환,아스퍼거 증후군,"아스퍼거 장애,아스페르거 증후군"
+소아청소년질환,안면 비대칭,"두상비대칭,얼굴비대칭,롬버그병"
+소아청소년질환,알포트 증후군,"Alport Syndrome,유전성 신장염"
+소아청소년질환,약시,약시안
+소아청소년질환,엡스테인 심기형,"엡스타인기형,엡스테인 기형"
+소아청소년질환,영아 돌연사 증후군,"유아급사증후군,영아급사증후군"
+소아청소년질환,영아 비대성 유문협착증,"Hypertrophic Pyloric Stenosis in newborn infants,선천성 비대성 유문협착증,신생아 비후성 유문협착증"
+소아청소년질환,영아 산통,"3-month colic,3개월산통,colic syndrome,evening colic,산통증후군,저녁산통"
+소아청소년질환,유당분해효소결핍증,"우유 소화불량,유당분해효소결핍,유당불내증,젖당분해효소결핍,젖당불내성"
+소아청소년질환,유행성 이하선염,"멈프스,볼거리"
+소아청소년질환,잠재성 이분 척추,"잠재성이분척추증,폐쇄성 이분척추"
+소아청소년질환,저신장,"Nanocormia,성장장애,저신장증"
+소아청소년질환,전폐정맥연결 이상,"총폐정맥 환류 이상증,총폐정맥이상연결증"
+소아청소년질환,제대 탈장,"Exomphalos,Omphalocele,배꼽 탈장,제대 허니아,제대 헤르니아"
+소아청소년질환,주의력결핍 과잉행동장애,"ADHD,과운동성장애,과잉행동장애,주의력결핍,주의력결핍 과잉행동장애"
+소아청소년질환,척수수막류,"Meningomyelocele,수막척수류,척추갈림증,척추이분증"
+소아청소년질환,천식,"소아천식,운동유발성천식,직업성천식"
+소아청소년질환,태아 알코올 증후군,"FASD,Fetal alcohol spectrum disorder,태아알코올스펙트럼장애,태아알콜중후군"
+소아청소년질환,틱 장애,"틱,틱증후군"
+소아청소년질환,팔로 사 징후,"tof,팔로4징,팔로4징증,팔로4징후,팔로씨4징,팔롯4징,팔롯사징후,활로4징"
+소아청소년질환,항문 폐쇄증,"무공성 항문,쇄항,폐쇄성 항문"
+소아청소년질환,헤노호 쉰라인 자반증,"H-S 자반증(HSP),과민성 혈관염,알레르기성 자반증,알레르기성 혈관염"
+소아청소년질환,횡격막 탈장,"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
+소화기질환,간 전이,metastatic tumors of the liver
+소화기질환,간 혈관종,"hepatichemangioma,간해면상혈관종,간혈관종,해면상간혈관종"
+소화기질환,간경화,"간경변,간경변병,간경변증,간경화병,간경화증,간섬유병,간섬유증,간섬유화병,간섬유화증,간의경변"
+소화기질환,간내 담석,"간내 결석,간내결석증,간내담석증,간석증"
+소화기질환,간농양,간의 고름집
+소화기질환,간디스토마,간흡충증
+소화기질환,간문부 담관암,"간문부암,근위부 담관암,상부 담관암,클라츠킨 종양,Klatskin's tumor"
+소화기질환,간성 뇌증,"hepatic coma,간성뇌증,간성혼수,간성혼수증"
+소화기질환,간세포성 암종,"liver cancer,간세포암,간세포암종,간암"
+소화기질환,간염,"간세포 염증,간염증"
+소화기질환,간의 양성 신생물,"간의 양성 종양,간종양"
+소화기질환,게실 질환,"게실병,게실염,게실증,대장 게실"
+소화기질환,경화성 담관염,"경화성 담도염,원발경화성담관염"
+소화기질환,궤양성 대장염,"궤양대장염,염증성 장 질환,큰 창자염"
+소화기질환,급성 A형 간염,a형간염
+소화기질환,급성 담낭염,급성 쓸개염
+소화기질환,급성 바이러스성 간염,"Viral Hepatitis,바이러스 간염,바이러스성 간염"
+소화기질환,급성 위장염,"위장염,급성 위염"
+소화기질환,급성 충수염,"급성 충수 돌기염,급성맹장염"
+소화기질환,기능성 위장 장애,"소화불량,신경성 위염,신경성 위장병"
+소화기질환,노로바이러스 장염,"Norovirus,노로바이러스,노로바이러스식중독"
+소화기질환,단장 증후군,"작은창자증후군,짧은 창자증후군"
+소화기질환,담관암,"담관악성종양,담관암종,담도암"
+소화기질환,담낭 선근종증,담낭선근종
+소화기질환,담낭 용종,"담낭 양성용종,담낭 폴립,쓸개용종"
+소화기질환,담낭암,"담낭 선암종,담낭악성종양,쓸개악성종양,쓸개암"
+소화기질환,담석,"담석증,담낭결석"
+소화기질환,대장 용종,"선종성 용종,용종"
+소화기질환,대장암,"결장암,대장악성종양,대장암종,대장의 악성신생물"
+소화기질환,대장염,"급성 대장염,대장질환,만성 대장염"
+소화기질환,대장의 양성 종양,대장양성종양
+소화기질환,독성 간염,"약물 유인성 간염,약인성 간염"
+소화기질환,만성 B형 간염,B형간염
+소화기질환,만성 C형 간염,C형간염
+소화기질환,만성 담낭염,"담낭염,담낭염증,쓸개염,쓸개염증"
+소화기질환,만성 췌장염,재발성 췌장염
+소화기질환,말로리-바이스 증후군,"말로리 웨이즈 증후군,맬러리-바이스증후군,맬러리바이스증후군"
+소화기질환,맹장염,"꼬리염,충수돌기염,충수염"
+소화기질환,문맥색전증,문맥색전
+소화기질환,장염,"Viral enteritis,로타바이러스,로타바이러스 장염,바이러스성 장염"
+소화기질환,바터 팽대부 암,십이지장 유두암
+소화기질환,반티 증후군,특발성 문맥고혈압
+소화기질환,반흔 탈장,"절개 헤르니아,절개부 탈장,절개성 탈장,절개허니아,반흔성 탈장"
+소화기질환,버드 키아리 신드롬,"Chiari-Budd syndrome,버드증후군,키아리-버드 증후군,키아리증후군,버드-키아리 증후군"
+소화기질환,변실금,대변실금
+소화기질환,복강 내 출혈,복강출혈
+소화기질환,복막염,복막염증
+소화기질환,복부 대동맥류,복부동맥류
+소화기질환,복부 통증,"배아픔,배앓이,배탈,복통,산통"
+소화기질환,석회화 담낭,"석회화된 만성 담낭염,자기양 담낭"
+소화기질환,선천성 거대결장증,"Congenital aganglionic,megacolon,히르쉬스프룽병"
+소화기질환,선천성 담관 폐쇄증,"담도폐쇄증,담관폐쇄증"
+소화기질환,"선천성 소장 결손, 폐쇄 및 협착","선천성 소장 결손,선천성 소장 폐쇄,선천성 소장 협착"
+소화기질환,세균성 이질,"시겔라증,이질"
+소화기질환,셀리악병,"글루텐민감창자병증,만성소화장애증,비열대스프루,소아지방변증"
+소화기질환,소장암,"작은 창자의 악성 종양,작은 창자암"
+소화기질환,소장의 혈관 장애,"소장 혈관성 장애,소장혈관장애,창자 혈관성 장애"
+소화기질환,소화관의 이물,"소화관의이물질,소화관이물,소화관이물질"
+소화기질환,소화불량,"indigestion,급체,기능성 위장 장애,소화장애,위장 장애,체,체한경우,체했을때"
+소화기질환,식도 정맥류,Esophageal Varix
+소화기질환,식도암,식도암종
+소화기질환,식도염,"급성 식도염,부식성 식도염"
+소화기질환,식도의 이물,"식도의 이물질,식도이물,식도이물질"
+소화기질환,식도의 평활근종,"식도민무늬근종,식도평활근종"
+소화기질환,식도이완불능증,"분문연축,식도 무연동증,식도의 근육협동장애,식도의 무연동증"
+소화기질환,식중독,Food poisoning
+소화기질환,신생아 괴사성 장염,"Neonatal Necrotizing Enterocolitis,신생아 괴사성 소장결장염,태아 및 신생아의 괴사성 소장결장염"
+소화기질환,신생아 답즙정체증,"신생아 담즙정체,신생아 쓸개즙정체,담적,담적증"
+소화기질환,십이지장 궤양,소화성궤양
+소화기질환,아메바성 간농양,아메바성 간 고름집
+소화기질환,알코올성 간질환,"알콜성 간질환,음주 간질환"
+소화기질환,영아 비대성 유문협착증,"Hypertrophic Pyloric Stenosis in newborn infants,선천성 비대성 유문협착증,신생아 비후성 유문협착증"
+소화기질환,용혈성 요독 증후군,"햄버거병,HUS"
+소화기질환,원발성 담즙성 경화증,"담즙성 간경변,담즙성 간경화,원발성 담관간경화,원발성 담즙성 간경변증,원발성 담즙성 간경화,원발성 담즙성 경화"
+소화기질환,위궤양,"소화성 궤양,십이지장 궤양"
+소화기질환,위막성 대장염,"거짓막결장염,거짓막잘룩창자염,위막성 대장염,위막성결정염,위박성장염"
+소화기질환,위말트 림프종 ,"MALToma,위몰트림프종"
+소화기질환,위식도 역류성 질환,"역류성 식도염,위 식도 역류질환"
+소화기질환,위암,"Gastric cancer,Malignant neoplasm of stomach,cancer of the stomach,위 악성종양,위선암,위선암종,위암종"
+소화기질환,위염,위염증
+소화기질환,위용종,"양성 위종양,위물혹,위폴립"
+소화기질환,위장관 결핵,"위결핵,장결핵"
+소화기질환,위장관 기질 종양,"위장관 간질 종양,기스트,GIST,위장관 기질적 종양"
+소화기질환,윌슨병,"Hepatolenticular degeneration,간렌즈핵변성,윌슨씨병"
+소화기질환,유당분해효소결핍증,"우유 소화불량,유당분해효소결핍,유당불내증,젖당분해효소결핍,젖당불내성"
+소화기질환,이소성 췌장,"aberrant pancreas,heterotopic pancreas"
+소화기질환,자가면역성 간염,"Luphoid hepatitis,루포이드 간염,자가면역 간염"
+소화기질환,자극성 장 증후군,"과민성대장,과민성대장증후군,과민성장증후군,과민성창자,과민성창자증후군,자극성 창자증후군,자극성대장증후군,자극성장증후군"
+소화기질환,장염전,"장꼬임,장염전증,장의 꼬임,장의 염전,장축염전증"
+소화기질환,장유착,장유착증
+소화기질환,장중첩증,"장겹칩증,창자겹침증"
+소화기질환,장티푸스,"염병,장질 부사"
+소화기질환,장폐색,"ileus,장폐색증"
+소화기질환,재발성 탈장,"재발성헤르니아,탈장재발"
+소화기질환,전격성 간염,"Acute liver failure,급성 간부전"
+소화기질환,제대 탈장,"Exomphalos,Omphalocele,배꼽 탈장,제대 허니아,제대 헤르니아"
+소화기질환,조기 위암,"위암 조기,초기위암"
+소화기질환,지방간,"비알코올성 지방간,비알콜성지방간,알코올성 지방간,알콜성지방간"
+소화기질환,직장암,"직장악성종양,직장암종"
+소화기질환,직장의 양성 종양,"직장 용종,직장 종양,직장양성종양"
+소화기질환,진행성 위암,진행된위암
+소화기질환,총담관 낭,"담관 낭종,선천성 담관 확장증"
+소화기질환,총담관 담석,"쓸개관 결석,총수담관 결석,총담관 결석"
+소화기질환,충수암,"맹장암,충수돌기암"
+소화기질환,췌장 전이암,"전이성 췌장 종양,전이성 췌장암"
+소화기질환,췌장염,"췌장염증,이자염"
+소화기질환,치핵,치질
+소화기질환,카롤리병,"총담관낭 5형,카롤리증후군"
+소화기질환,크론병,"국한성 창자염,염증성 장질환,육아종성 대장염,크론씨병"
+소화기질환,탈항,"직장탈,탈출성 치핵"
+소화기질환,항문 누공,치루
+소화기질환,항문 열구,"치열,항문열창"
+소화기질환,항문 주위 농양,"항문농양,항문직장 고름집"
+소화기질환,항문 폐쇄증,"무공성 항문,쇄항,폐쇄성 항문"
+소화기질환,항문소양증,"항문가려움,항문가려움증,항문소양,항문소양감"
+소화기질환,항문암,"항문관암,항문악성종양,항문의 악성신생물"
+소화기질환,헬리코박터균 감염,"헬리코박터,헬리코박터균,헬리코박터파일로리감염증"
+순환기질환,WPW 증후군,"볼프파킨스화이트증후군,볼프파킨슨화이트증후군,빈맥증후군,심실조기흥분증후군,조기흥분증후군"
+순환기질환,가와사키병,"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
+순환기질환,결절성 다발동맥염,"결절다발동맥염,결절성동맥주위염"
+순환기질환,경동맥 협착증,"경동맥협착,죽상경화성경동맥협착증,목동맥 협착증"
+순환기질환,고콜레스테롤혈증,"고콜레스테롤혈,과콜레스테롤,과콜레스테롤혈증,콜레스테롤과다증"
+순환기질환,고혈압,"High blood pressure,Hypertension,본태성 고혈압,속발성 고혈압"
+순환기질환,급성 관동맥 증후군,"ACS,급성 협심증"
+순환기질환,급성 류마티스성 열,"급성 류머티스 열,류마티스 열,류마티스성열,류머트열,류머티스 열,류머티스성열"
+순환기질환,급성 심근경색증,"급성 심근경색,동맥증후군,심근경색,심근경색증"
+순환기질환,단심실,"단심실 심장병,단일 심실"
+순환기질환,대동맥 박리,"대동맥 박리증,박리성 대동맥류"
+순환기질환,대동맥 협착,대동맥판 협착
+순환기질환,대동맥 협착증,"대동맥 판막 협착증,대동맥축착증"
+순환기질환,대동맥궁 단절,IAA
+순환기질환,대동맥판막 기능부전,"Aortic insufficiency,대동맥판막 기능부전증,대동맥판폐쇄부전,대동맥판폐쇄부전증"
+순환기질환,대동맥판막 협착,"대동맥 판 협착,대동맥 판 협착증,대동맥 판막 협착증"
+순환기질환,대혈관 전위,완전 대혈관 전위증
+순환기질환,동기능 부전 증후군,"동기능부전증,동방결절기능부전,동방결절기능부전증,동방결절기능부전증후군"
+순환기질환,동맥간증,"동맥간,동맥간 지속성 동맥줄기"
+순환기질환,동맥관 개존증,보탈로동맥관개존증
+순환기질환,동맥류,"가성 동맥류,선천성 동맥류,진성 동맥류"
+순환기질환,동맥색전증 및 혈전증,"Thrombosis,embolism,뇌 동맥 혈전증,뇌동맥 색전증,동맥 혈전색전증,동맥색전,동맥색전증,동맥혈전,동맥혈전증,색전증,혈전색전증,혈전증"
+순환기질환,두통,머리의 통증
+순환기질환,레이노병,"레이노 증후군,레이노드증후군,레이노씨병,레이노이드 증상,레이노이드 증후군,레이노이드 질환"
+순환기질환,림프부종,"림프수종,임파종대"
+순환기질환,마르판 증후군 ,"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
+순환기질환,발살바동 동맥류 파열,발살바동동맥류
+순환기질환,발육부전성 좌심 증후군,좌심 형성 부전 증후군
+순환기질환,발작성 상심실성 빈맥,"PSVT,발작성 심실상성 빈맥,방실결절 회귀성 빈맥,방실회귀성 빈맥"
+순환기질환,방실 중격 결손,"방실 관 결손,방실중격 결손증,심내막상 결손,심방심실 중격 결손증"
+순환기질환,복부 대동맥류,복부동맥류
+순환기질환,부르가다 증후군,"부르가다,브루가다,브루가다 증후군"
+순환기질환,부정맥,심장 부정맥
+순환기질환,불안정형 협심증,"불안정협심증,비안정성협심증"
+순환기질환,상대정맥 증후군,SVC Syndrome
+순환기질환,서맥,"느린 맥박,느린맥"
+순환기질환,선천성 심장 질환,"선천성 심장 기형,선천성 심장병"
+순환기질환,수정대혈관 전위,수정대혈관 전위증
+순환기질환,수족냉증,손발냉증
+순환기질환,승모판 기능부전,"mitral insufficiency,승모판기능부전증,승모판막역류증,승모판폐쇄부전"
+순환기질환,승모판 협착,"Mitral stenosis,승모판협착증"
+순환기질환,심계항진,"가슴 두근거림,두근거림"
+순환기질환,심근병증,"비후성심근증,심근증,제한성 심근증,확장성심근증"
+순환기질환,심근염,심근염증
+순환기질환,심낭 삼출 ,"심낭삼출,심낭삼출액,심장막 삼출액"
+순환기질환,심낭 압전,"심낭압전증,심장 눌림증,심장압전,심장압전증"
+순환기질환,심낭염,"심낭염증,심막염,심막염증"
+순환기질환,심내막염,"infectiveendocarditis,감염성심내막염,급성감염성심내막염,급성심내막염,심내막염증,심장내막염,심장내막염증,아급성감염성심내막염,아급성심내막염"
+순환기질환,심방 세동,심방 잔떨림
+순환기질환,심방 중격 결손,"ASD,소아 심방중격결손,심방중격결손증"
+순환기질환,심부정맥 색전증,"Deep vein thrombosis,심부정맥 혈전증,이코노미 클래스 증후군"
+순환기질환,심실 빈맥,"다형 심실빈맥,단형 심실빈맥,비지속성 심실빈맥,심실성빈맥,지속성 심실빈맥"
+순환기질환,심실 중격 결손,"VSD,근성부 결손,막양부 결손,심실중격결손증,판막 하 결손"
+순환기질환,심장 종양,"심장 암종,심장암"
+순환기질환,심장 판막 질환,심장판막증
+순환기질환,심장신경성 실신,"미주신경성 실신,혈관미주신경성 실신"
+순환기질환,엡스테인 심기형,"엡스타인기형,엡스테인 기형"
+순환기질환,오래된 심근경색증,"만성 심근경색증,만성심근경색"
+순환기질환,울혈성 심부전,"울혈성심부전증,울혈심부전,울혈심부전증"
+순환기질환,이상지질혈증,이상지질단백혈증
+순환기질환,잠수병,"bends,caisson disease,decompression sickness,감압병,벤즈,잠수병통증,잠수부병,잠함병,잠합병,케이슨병"
+순환기질환,장간막 동맥 혈전증,장간막 혈전증
+순환기질환,저혈압,"기립성 저혈압,본태성 저혈압"
+순환기질환,전도 장애,"심장전도장애,심장전도계 이상"
+순환기질환,전폐정맥연결 이상,"총폐정맥 환류 이상증,총폐정맥이상연결증"
+순환기질환,죽상경화증,"동맥경화,동맥경화증"
+순환기질환,척추 뇌저 동맥 증후군,"vertebro-basilar insufficiency,척추기저동맥부전"
+순환기질환,측두동맥염,"Giant Cell Arteritis,거대세포 동맥염,노인 혈관성 두통,노인성 혈관성 두통,측두동맥염증"
+순환기질환,타카야수 혈관염,"pulseless disease,대동맥궁 증후군,대동맥활 증후군,타카야수동맥염,다까야수혈관염"
+순환기질환,타코츠보 심근증,"스트레스성 심근증,상심증후군,상실심장증후군,스트레스 유발성성 심근증,Broken heart syndrome,Broken heart disease,Apical ballooning syndrome,Stress (induced) cardiomyopathy"
+순환기질환,팔로 사 징후,"tof,팔로4징,팔로4징증,팔로4징후,팔로씨4징,팔롯4징,팔롯사징후,활로4징"
+순환기질환,폐 혈전색전증,"폐동맥 색전증,폐색전증"
+순환기질환,폐색성 혈전 혈관염 ,"Buerger Disease,Buergers Disease,버거씨병,뷰르거병,폐색혈전혈관염,폐쇄혈전혈관염"
+순환기질환,폐성 고혈압,"폐고혈압,폐동맥 고혈압,폐동맥고혈압"
+순환기질환,하지 정맥류,"정맥류,다리 정맥류"
+순환기질환,허혈성 심질환,"허혈성심장병,허혈성심장질환"
+순환기질환,헤노호 쉰라인 자반증,"H-S 자반증(HSP),과민성 혈관염,알레르기성 자반증,알레르기성 혈관염"
+순환기질환,혈관염,"거대세포 혈관염,과민성 혈관염,다발성 결절성 혈관염,혈관염증"
+순환기질환,협심증,"coronary syndrome,관동맥 증후군,심근허혈"
+순환기질환,흉부 대동맥류,가슴대동맥류
+순환기질환,흉통,가슴통증
+신장비뇨기질환,PSA 상승,전립선특이항원 상승
+신장비뇨기질환,간질성 방광염,"만성 방광염,방광 통증 증후군"
+신장비뇨기질환,감돈포경,과장포피
+신장비뇨기질환,고나트륨혈증,"고나트륨증,고장성 및 고나트륨혈증,과나트륨증,과나트륨혈증"
+신장비뇨기질환,고마그네슘혈증,"고마그네슘증,과마그네슘증,과마그네슘혈증"
+신장비뇨기질환,고칼륨혈증,"고칼륨증,고칼륨혈,고포타시움혈증,과칼륨증,과칼륨혈,과칼륨혈증"
+신장비뇨기질환,고환 종양,고환암
+신장비뇨기질환,고환염,고환염증
+신장비뇨기질환,고환의 염전,고환 염전
+신장비뇨기질환,급성 간질성 신염,세뇨관 간질성 신염
+신장비뇨기질환,급성 방광염,"방광 감염,방광 염증,방광염,오줌소태,하부요로감염"
+신장비뇨기질환,급성 신부전,"급성신부전증,급성신장기능상실증,급성콩팥기능상실증"
+신장비뇨기질환,급성 신우신염,"신우신염,신우염"
+신장비뇨기질환,남성 갱년기,"노인 남성의 남성 호르몬 부분결핍증(PADAM : progressive patial androgen deficiency in anging male ),노인 남성의 남성 호르몬 결핍증 (ADAM : androgen deficiency in anging male)"
+신장비뇨기질환,남성 불임,"sterilitas virilis,남성 불임증,불임남성"
+신장비뇨기질환,낭성 신장 질환,"Polycystic kidney,다낭성 신증,신장물혹,PKD"
+신장비뇨기질환,만성 신부전,만성콩팥기능상실증
+신장비뇨기질환,만성 신우신염,만성 신우염
+신장비뇨기질환,만성 전립선염,만성 전립샘염
+신장비뇨기질환,말기 신질환,말기 신장(콩팥)병
+신장비뇨기질환,매독,잠복 매독
+신장비뇨기질환,면역글로불린 A 신병증,"면역글로불린 A 신병증,면역글로빈 A 신병증,버거병,버거스씨병,Bergers disease,IgA 신병증,IgA 신증"
+신장비뇨기질환,무정자증,희소정자증
+신장비뇨기질환,발작성야간혈색뇨,"PNH,발작성 혈색소뇨"
+신장비뇨기질환,방광암,"Malignant neoplasm of bladder,방광 내 신생물,방광선암"
+신장비뇨기질환,방광의 신경근육 기능 장애,방광의 신경근 기능장애
+신장비뇨기질환,방광질 누공,방광질루
+신장비뇨기질환,방광탈,"방광낭류,방광류,방광탈출,방광탈출증"
+신장비뇨기질환,배뇨통,배뇨곤란
+신장비뇨기질환,복압성 요실금,"긴장성 요실금,스트레스성 요실금"
+신장비뇨기질환,부고환염,부고환염증
+신장비뇨기질환,비임균성 요도염,"비임질성 요도염,성기 클라미디아 감염증,클라미디아"
+신장비뇨기질환,사구체신염,"급성사구체신염,만성사구체신염,신염,신장염"
+신장비뇨기질환,사면발이증,음모슬증
+신장비뇨기질환,샅(서혜)육아종,"donovanosis,도노반증,사타구니육아종,샅고랑육아종,샅육아종,서혜육아종"
+신장비뇨기질환,서혜부 탈장,"사타구니 탈장,샅굴 탈장,샅 탈장,서혜 헤르니아"
+신장비뇨기질환,선천성 수신증,선천성 물콩팥증
+신장비뇨기질환,성기능장애,"Sexualanesthesia,불감증"
+신장비뇨기질환,성병,"STD,성감염질환,성행위로 전파되는 질환"
+신장비뇨기질환,소변 정체,소변정체증
+신장비뇨기질환,수신증,"물콩팥증,요신증"
+신장비뇨기질환,신동맥 협착증,신동맥 협착
+신장비뇨기질환,신부전,"kidney failure,신부전증"
+신장비뇨기질환,신세포암종,"renal cancer,신세포암,신장암"
+신장비뇨기질환,신우요관 폐색,신우요관폐색증
+신장비뇨기질환,신우요관암,신우뇨관암
+신장비뇨기질환,신장 결석,"신결석증,신장결석증,신결석"
+신장비뇨기질환,신장 이형성증,"신장이형성,이형성신장"
+신장비뇨기질환,신장의 신생물,신장종양
+신장비뇨기질환,신증후군,신증
+신장비뇨기질환,신증후성 출혈열,"신증후군 출혈열,신증후출혈열,유행성 출혈열"
+신장비뇨기질환,알포트 증후군,"Alport Syndrome,유전성 신장염"
+신장비뇨기질환,야뇨증,유뇨증
+신장비뇨기질환,양성 전립선 비대증,"전립샘의 증식,전립선비대,전립선비대증"
+신장비뇨기질환,요관 결석,요로결석
+신장비뇨기질환,요도하열,"hypospadia,요도밑열림증,요도하열증"
+신장비뇨기질환,요로 감염,요로염
+신장비뇨기질환,요로결석,요로결석증
+신장비뇨기질환,요실금,"노인성요실금,노인요실금"
+신장비뇨기질환,용혈성 요독 증후군,"햄버거병,HUS"
+신장비뇨기질환,음경 발기지속증,"발기지속,발기지속증,지속발기증"
+신장비뇨기질환,음경만곡증,페이로니씨병
+신장비뇨기질환,음낭 내 부속기 염전,음낭부속기염전
+신장비뇨기질환,음낭수종,"물음낭증,음낭수류"
+신장비뇨기질환,인유두종 바이러스 감염증,"사람 유두종 바이러스 감염증,HPV"
+신장비뇨기질환,임질,"임균감염증,임균성 요도염,성병"
+신장비뇨기질환,잠복고환증,"잠복고환,정류고환,정류고환증"
+신장비뇨기질환,저활동성 방광,UAB
+신장비뇨기질환,전립선암,"Malignant neoplasm of prostate,전립선 암종"
+신장비뇨기질환,전이성 신장암,전이신장암
+신장비뇨기질환,정계정맥류,고환정맥류
+신장비뇨기질환,정자부족증,감정자증
+신장비뇨기질환,조루증,조루증
+신장비뇨기질환,첨형 콘딜로마,"곤지름,뾰족콘딜로마,생식기 사마귀,성기사마귀,음부 사마귀,첨형 콘딜롬,콘딜롬,항문우췌,첨규형콘딜로마"
+신장비뇨기질환,칼만 증후군,칼만신드롬
+신장비뇨기질환,헤노호 쉰라인 자반증,"H-S 자반증(HSP),과민성 혈관염,알레르기성 자반증,알레르기성 혈관염"
+신장비뇨기질환,혈뇨,"소변에 피,소변에서 피,소변피,요혈"
+신장비뇨기질환,혈정액증,"정액피,피정액,혈정액"
+신장비뇨기질환,회음 괴저,"Fournier 괴저,푸르니에 괴저"
+여성질환,Rh 부적합 임신,신생아의 Rh형에 의한 용혈성 질환
+여성질환,거대세포 바이러스 질환,사이토메갈로 바이러스 감염
+여성질환,골반 염증성 질환,"PID,골반내염증,골반내염증질환,골반염"
+여성질환,과다월경,"Hypermenorrhea,Menorrhagia,過多月經,과다생리,과다생리증,생리과다,생리과다증,월경과다,월경과다증"
+여성질환,급성 질염,질염
+여성질환,난산,이상분만
+여성질환,난소 낭종,"ovarian cystic tumor,난소 낭성 종양,난소물혹,난소혹"
+여성질환,난관 이상,"나팔관이상,난소이상"
+여성질환,난소난관염,"Oophortis,Ovaritis,난관난소염,난관염,난소염,자궁관난소염"
+여성질환,난소암,"Malignant neoplasm of ovary,난소 악성 종양"
+여성질환,난소의 양성 종양,난소 양성 종양
+여성질환,노인성 질염,"노인성 질염,비특이성 질염,위축성 질염"
+여성질환,다낭성 난소 증후군,다낭성난소증
+여성질환,다태아,"쌍둥이,쌍태아,다태임신"
+여성질환,단일 제대 동맥,"단동맥,단동맥탯줄"
+여성질환,만기 정상 분만,"분만,정상분만,출산"
+여성질환,무월경,amenorrhoea
+여성질환,바르톨린샘의 고름집,"바르톨린관 농양,바르톨린샘 낭종,바르톨린샘 농양,바르톨린샘의 고름집,바르톨린샘의"
+여성질환,방광탈,"방광낭류,방광류,방광탈출,방광탈출증"
+여성질환,복압성 요실금,"긴장성 요실금,스트레스성 요실금"
+여성질환,분만 후 출혈,산후출혈
+여성질환,난관 이상,"dysfunctional uterine bleeding,기능성 자궁출혈,부정자궁출혈,자궁 질 출혈,자궁출혈,질출혈"
+여성질환,산후 갑상선염,"산후갑상선,산후갑상선염증"
+여성질환,산후 우울증,"산후우울,산후우울감"
+여성질환,생식선 및 생식 세포의 신생물,"Germ cell tumor,생식세포종,생식세포종양"
+여성질환,성병,"STD,성감염질환,성행위로 전파되는 질환"
+여성질환,습관성 유산,반복 유산
+여성질환,쌍태아 수혈 증후군,쌍태아간 수혈 증후군
+여성질환,양수과다증,"Polyhydraminos,과다양수증"
+여성질환,양수과소증,"양수부족,양수부족증"
+여성질환,양수색전증,양수색전
+여성질환,여성 불임,"infertility,불임,여성 불임증"
+여성질환,외음질의 이물,질 및 외음부의 이물질
+여성질환,원발성 월경곤란,"생리곤란증,생리통,원발성 월경곤란증,월경곤란,월경곤란증,월경통,일차성 생리통"
+여성질환,월경전 증후군,"PMS,생리전 증후군"
+여성질환,유방통,"유방통증,젖가슴통증"
+여성질환,유산,"사산,유발유산,자연유산"
+여성질환,반복유산,"다태,반복유산,유산 후 계속되는 임신"
+여성질환,융모막암종,"융모막 암,융모상피암"
+여성질환,이상 태위,"불완전태위,비정상적태위"
+여성질환,인유두종 바이러스 감염증,"사람 유두종 바이러스 감염증,HPV"
+여성질환,임신성 당뇨병,"Gestational diabetes mellitus,임신성당뇨"
+여성질환,자간전증,"임신중독증,임신중독"
+여성질환,자궁 경부의 이형성증,"자궁경부 이형성증,자궁경부 이형증,자궁경부이형성"
+여성질환,자궁 내 성장 지연,자궁 내 발육지연
+여성질환,자궁 상피 내 암종,"Cervical intraepithelial neoplasia,자궁경부 상피내종양"
+여성질환,자궁 외 임신,"나팔관 임신,난관임신"
+여성질환,자궁 탈출증,"자궁탈출,자궁탈"
+여성질환,자궁경관무력증,자궁 무력증
+여성질환,자궁경부암,Malignant neoplasm of cervix
+여성질환,자궁경부염,"자궁경관염,자궁입구염"
+여성질환,자궁내막 용종,"자궁내막 폴립,자궁용종"
+여성질환,자궁내막 이상증식증,"자궁내막 이상증식증,자궁내막증식,자궁내막증식증"
+여성질환,자궁내막암,"Malignant neoplasm of endometrium,자궁체부암"
+여성질환,자궁선근증,"endometriosis interna,선근증,자궁선근종,자궁선종,자궁선증"
+여성질환,자궁의 비염증성 장애,"여성생식기비염증성장애,자궁비염증성장애"
+여성질환,자궁의 평활근종,자궁근종
+여성질환,조기 양막 파열,"PROM,양막파수,양막파열,조기파막,조기양막파수"
+여성질환,조기 폐경,"일차성 난소부전증,조기난소부전"
+여성질환,조산,조기 출산
+여성질환,첨형 콘딜로마,"곤지름,뾰족콘딜로마,생식기 사마귀,성기사마귀,음부 사마귀,첨형 콘딜롬,콘딜롬,항문우췌,첨규형콘딜로마"
+여성질환,칸디다성 외음질염,"곰팡이성 질염,칸디다 질염,칸디다성 질염"
+여성질환,칼만 증후군,칼만신드롬
+여성질환,태반 유착증,"유착태반,태반유착"
+여성질환,태반 조기 박리,Premature separation of placenta
+여성질환,태아 알코올 증후군,"FASD,Fetal alcohol spectrum disorder,태아알코올스펙트럼장애,태아알콜중후군"
+여성질환,트리코모나스증,"질트리코모나스,질트리코모나스증,트리코모나스,트리코모나스 감염,트리코모나스 질염,트리코모나스감염증,트리코모너스감염,트리코모너스질염"
+여성질환,폐경,난소부전
+여성질환,폐경기 및 여성의 갱년기 상태,"갱년기,폐경기"
+여성질환,포상기태,포도송이기태
+여성질환,회음 괴저,"Fournier 괴저,푸르니에 괴저"
+여성질환,회음 열상,"외음파열,질회음열상,회음부열상"
+여성질환,희발월경,"생리불순,월경불순"
+유방내분비질환,갈색세포종,크롬친화세포종
+유방내분비질환,갑상선 결절,갑상샘결절
+유방내분비질환,갑상선 미분화암,갑상샘미분화암
+유방내분비질환,갑상선 수질암,갑상샘수질암
+유방내분비질환,갑상선 여포암,갑상샘여포암
+유방내분비질환,갑상선기능저하증,"갑상샘기능저하,갑상샘저하증,갑상선기능저하,갑상선저하증"
+유방내분비질환,갑상선기능항진증,"갑상샘 기능 항진증,갑상샘항진증,갑상선 항진증"
+유방내분비질환,갑상선암,"갑상샘암,갑상선암종"
+유방내분비질환,갑상선염,갑상선염증
+유방내분비질환,갑상선중독증,"Graves Disease,갑상샘 중독증,갑상선 중독,그레이브스병"
+유방내분비질환,갑상설관 낭종,갑상설관낭
+유방내분비질환,고칼륨혈증,"고칼륨증,고칼륨혈,고포타시움혈증,과칼륨증,과칼륨혈,과칼륨혈증"
+유방내분비질환,고칼슘혈증,"고칼슘증,과칼슘증,과칼슘혈증"
+유방내분비질환,골감소증,"골량감소,뼈감소증"
+유방내분비질환,골다공증,골조송증
+유방내분비질환,뇌하수체 기능 항진,뇌하수체 기능항진증
+유방내분비질환,뇌하수체 기능부전,뇌하수체기능저하증
+유방내분비질환,뇌하수체 양성 및 악성 신생물,"뇌하수체선종,프로락틴종,뇌하수체 종양,뇌하수체 악성 신생물,뇌하수체 양성 신생물"
+유방내분비질환,당뇨망막병증,당뇨망막증
+유방내분비질환,당뇨병,당뇨
+유방내분비질환,당뇨병성 말초신경병증,"당뇨병성신경병증,당뇨성말초신경병증,당뇨성신경병증"
+유방내분비질환,당뇨병성 족부 질환,"당뇨발,당뇨병성 족부 궤양"
+유방내분비질환,당뇨병성 케톤산증 ,"DKA,당뇨병케톤산증,당뇨성케톤산증,케톤산증"
+유방내분비질환,말단비대증,"acromegaly,거인증,말단거대증,선단거대증,선단비대증"
+유방내분비질환,부갑상선기능저하증,부갑상샘 기능저하증
+유방내분비질환,부갑상선기능항진증,부갑상선기능항진
+유방내분비질환,부신 기능부전,"부신기능부전증,부신피질기능부전,부신피질기능저하증,애디슨병,에디슨병,부신기능저하증"
+유방내분비질환,부신 종양,"Adrenal gland tumor,부신선종,부신양성종양,부신종,부신피질 세포 양성 신생물"
+유방내분비질환,사춘기 조숙,"성조숙증,조발 사춘기"
+유방내분비질환,성선기능저하증,생식샘기능저하증
+유방내분비질환,성장호르몬 결핍증,성장호르몬 결핍
+유방내분비질환,여성형 유방,여성형 유방증
+유방내분비질환,요붕증,항이뇨호르몬 결핍증
+유방내분비질환,유관 확장증,"유관확장,유선도관확장,젖샘관 확장,젖샘관확장증"
+유방내분비질환,유방 종양,"가슴종양,유방종괴"
+유방내분비질환,유방암,"Breast Cancer,Breast tumor,유방 악성신생물,유방종"
+유방내분비질환,유방의 미세석회화,"유방 미세석회화,유방석회화,유방석회화증"
+유방내분비질환,유방의 섬유선종,"가슴섬유선종,가슴섬유종,섬유선종,유방 섬유선종,유방섬유종"
+유방내분비질환,인슐린 비의존성 당뇨병,"Type 2 diabetes mellitus,성인형 당뇨병,제2형 당뇨병"
+유방내분비질환,인슐린 의존성 당뇨병,"Type 1 diabetes mellitus,소아당뇨병,제1형 당뇨병"
+유방내분비질환,임신성 당뇨병,"Gestational diabetes mellitus,임신성당뇨"
+유방내분비질환,저신장,"Nanocormia,성장장애,저신장증"
+유방내분비질환,저혈당증,저혈당
+유방내분비질환,점액수종 혼수,점액수종성 혼수
+유방내분비질환,카르시노이드 증후군,유암종증후군
+유방내분비질환,쿠싱 증후군,"Cushing disease,쿠싱병,쿠싱증"
+유방내분비질환,흉선암,"가슴샘종,흉선암종,흉선종"
+유전질환,22번 염색체 장완 미세결실 증후군,Di Georges syndrome
+유전질환,4번 염색체 단완결실 증후군,울프-허쉬호른증후군
+유전질환,ARC 증후군,"ARC Syndrome(Arthrogryposis,Renal Dysfunction,Cholestasis)"
+유전질환,Haw River 증후군,"DRPLA,무도병아데토시스"
+유전질환,OTC 결핍증 ,"Ornithine-transcarbamylase deficiency,오르니틴 트랜스카비미라제 결핍증,요소회로 대사이상증"
+유전질환,XXX 증후군,"superfemale syndrome,triple-X syndrome"
+유전질환,XYY 증후군,야콥증후군
+유전질환,가부키 증후군,가부키 신드롬
+유전질환,가족성 적혈구잠식성 림프조직구증,혈구탐식성 림프조직구증
+유전질환,갈락토오스혈증,"Galactose-1-phosphate uridyltransferase deficiency,갈락토스혈증"
+유전질환,결절성 경화증 ,결절경화증
+유전질환,고셔병,"가족성비성빈혈,고셰병"
+유전질환,골덴하 증후군,"얼굴귓바퀴척추증후군,Oculo-Auriculo-Vertebra syndrome"
+유전질환,골형성부전증,"골취약증,골형성 부전,골형성 장애,불완전골형성증,화골부전증"
+유전질환,근긴장성 이영양증 ,근육긴장퇴행위축
+유전질환,니만-피크병,니이만-픽병
+유전질환,니스트 이형성증,니스트 형성이상
+유전질환,다발성 흑자 증후군,"LEOPARD 증후군,Multiple lentigines syndrome"
+유전질환,다운 증후군 ,"21삼체성,trisomy 21,몽고증"
+유전질환,단풍당밀뇨증,"MSUD,단풍나무시럽병,단풍당뇨증,키노아미노산혈증"
+유전질환,당원 축적병,"Von Gierke병,당원병,당원병 Ia형,당원축적증"
+유전질환,대뇌성 거인증 ,소토스증후군
+유전질환,댄디워커 증후군,DWS
+유전질환,듀시엔형 근이영양증 ,"muscular dystrophy,근디스트로피,근육퇴행위축,근이영양증,두시엔느 근육퇴행위축,뒤셴형 근이영양증,뒤시엔느 근디스트로피,뒤시엔느 근육퇴행위축,뒤시엔느 근이영양증,듀시엔느 근이영양증"
+유전질환,라론 증후군,성장호르몬 불감성 증후군
+유전질환,레버씨 시신경 위축증 ,레버 유전성 시신경병증
+유전질환,레쉬-니한 증후군 ,레슈-니한 증후군
+유전질환,레트 증후군 ,"cerroatrophic hyperammonemia,대뇌위축성과암모니아혈증"
+유전질환,로우 증후군,"OCRL,Oculo-cerebro-renal syndrome of Lowe,로웨 증후군"
+유전질환,리 증후군,"Subacute necrotizing encephalomyelopathy,리씨증후군,아급성 괴사성 뇌척수염"
+유전질환,마로토-라미 증후군,"Mucopolysaccharidosis VI형,마로토-라미증후군,뮤코다당체침착증 Ⅵ형"
+유전질환,마르판 증후군 ,"거미손가락증,마르판씨증후군,마르팡씨증후군,마르팡증후군,마판증후군,말판씨증후군,말판증후군,지주지증"
+유전질환,망막아세포종,망막모세포종
+유전질환,메틸말론산증,메틸 말론산 혈증
+유전질환,멘케스병,멘케씨병
+유전질환,모르키오 증후군,"Morquio syndrome,Mucopolysaccharidosis IV형,모르키오병,모르키오증후군,뮤코다당체침착증 Ⅳ형"
+유전질환,모세혈관 확장성 운동실조 증후군 ,운동실조성모세혈관확장증후군
+유전질환,묘성 증후군,"5번 염색체 단완결실 증후군,고양이울음증후군"
+유전질환,무치아증,"선천성 치아 결손,치아 결손,무치증"
+유전질환,뮤코다당질축적증,"뮤코다당증,뮤코다당체침착증"
+유전질환,미토콘드리아성 뇌근육병증,"MELAS,lactic acidosis and stroke-like episodes,미토콘드리아성 뇌병증"
+유전질환,바르덴부르크 증후군,와덴버그 증후군
+유전질환,베스트 난황형 황반부 이영양증 ,"난황형 황반 영양장애,베스트 병"
+유전질환,베커형 근이영양증,"베커 근육퇴행위축,베커근이영양증,벡커 근육퇴행위축,벡커 근이영양증"
+유전질환,베크위트-위드만 증후군,벡위스-비데만증후군
+유전질환,본히펠린다우 증후군 ,"폰 히펠-린다우 증후군,VHL"
+유전질환,부가지,"다지증,발가락 다지증,손가락 다지증"
+유전질환,부신백질이영양증,"ALD,로렌조 오일병,부신백질형성장애증"
+유전질환,사이트린 결핍,"시트룰린혈증 2형,시트린결핍"
+유전질환,산필리포 증후군,"Mucopolysaccharidosis Ⅲ형,뮤코다당체침착증 Ⅲ형,산필리포증후군"
+유전질환,새열 낭종,"새낭종,새성낭종,새열낭종,새열이상,제 2 새열 낭종"
+유전질환,선천성 갑상선기능저하증,"cretinism,크레틴병"
+유전질환,선천성 기형,"기형,기형아"
+유전질환,선천성 부신과다 형성증,"선천성 부신과다형성,선천성 부신과다형성증,선천성 부신증식증"
+유전질환,선천성 수신증,선천성 물콩팥증
+유전질환,수정대혈관 전위,수정대혈관 전위증
+유전질환,스티클러 증후군,유전적 진행성 관절안병증
+유전질환,슬라이 증후군,"Mucopolysaccharidosis VII형,뮤코다당체침착증 VII형,슬라이 증후군"
+유전질환,시트룰닌혈증,"argininemia,argininosuccinic aciduria,아르기인혈증"
+유전질환,신경섬유종,"neurofibroma,신경섬유종양,신경섬유종증"
+유전질환,안드로겐 불감성 증후군 ,"Androgen Insensitivity Syndrome,안드로겐 둔감증"
+유전질환,알포트 증후군,"Alport Syndrome,유전성 신장염"
+유전질환,에이퍼트 증후군 ,"acrocephalosyndactyly,aperts syndrome,아페르 증후군,첨두합지증"
+유전질환,연골무형성증,"연골무발생증,연골발육부전증,태아연골이양증"
+유전질환,연골외배엽 이형성증 ,엘리스-반 클레벨드 증후군
+유전질환,연골형성저하증,"연골저형성증,저연골형성증"
+유전질환,윌름즈 종양,빌름스 종양
+유전질환,윌리암스 증후군 ,윌리엄스 증후군
+유전질환,윌슨병,"Hepatolenticular degeneration,간렌즈핵변성,윌슨씨병"
+유전질환,유약 X 증후군,"취약 X 증후군,취약엑스증후군"
+유전질환,이염성 백질이영양증 ,이염백질이영양증
+유전질환,저인산증,"Rathbuns Syndrome,래스번 증후군,저인산혈증"
+유전질환,중쇄 아실코에이 탈수소효소 결핍증,"MCAD deficiency,MCAD 결핍,MCAD 결핍증"
+유전질환,척수구근 근위축증 ,"Kennedy disease,케네디 증후군,케네디병"
+유전질환,척수근육위축,"척수성근위축,척수성근위축증"
+유전질환,척수소뇌성 운동실조증 ,척수소뇌실조증
+유전질환,카르니틴 팔미토일 전환효소 결핍증 2형,"CPT 2 deficiency,CPT II deficiency"
+유전질환,칼만 증후군,칼만신드롬
+유전질환,코넬리아드랑게 증후군 ,"Brachmann de Lange syndrome,CdLS,브라크만드랑즈 증후군,코넬리아디란지증후군"
+유전질환,크루존 증후군,"크로존 증후군,크루존병,크루존씨병"
+유전질환,테이-삭스병 ,흑내장가족성백치
+유전질환,트리처 콜린스 증후군 ,"프란체셰티증후군,하악안면골형성부전증,하악안면이골증"
+유전질환,파브리병,미만성구간혈관각화종
+유전질환,판코니범혈구감소증,"Fanconi syndrome,판코니 증후군"
+유전질환,페닐케톤뇨증,"pku,방향성 아미노산 대사장애,페닐알라닌 수산화효소 결핍,페닐알라닌증"
+유전질환,폼페병,"GSD II,Glycogen storage disease type II,글리코겐 축적 질환 Ⅱ,당원병Ⅱ형"
+유전질환,프라더 윌리 증후군 ,"프레더 윌리 증후군,프래더 윌리 증후군"
+유전질환,프로피온산증,프로피온산 혈증
+유전질환,프리이드라이히 운동실조증 ,프리드라이히 실조증
+유전질환,피질하 경색과 백질뇌증을 동반하는 상염색체 우성 뇌동맥질환,CADASIL
+유전질환,헌터 증후군,"Hunter disease,Mucopolysaccharidosis II형,뮤코다당증 제2형"
+유전질환,헌팅톤 병,무도병
+유전질환,헐러 증후군,"Mucopolysaccharidosis Ⅰ형,뮤코다당증 제1형,후를러증후군"
+유전질환,혈색소침착증,"HHC,Hereditary hemochromatosis,유전성 혈색소증"
+유전질환,혈우병,"Classic hemophilia,Factor IX deficiency"
+유전질환,호모시스틴뇨증,호모시스틴요증
+유전질환,횡격막 탈장,"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
+응급질환,가스 괴저,"Clostridial myonecrosis,가스괴저병"
+응급질환,고나트륨혈증,"고나트륨증,고장성 및 고나트륨혈증,과나트륨증,과나트륨혈증"
+응급질환,고마그네슘혈증,"고마그네슘증,과마그네슘증,과마그네슘혈증"
+응급질환,고산병,"altitude sickness,산악병"
+응급질환,고칼륨혈증,"고칼륨증,고칼륨혈,고포타시움혈증,과칼륨증,과칼륨혈,과칼륨혈증"
+응급질환,고칼슘혈증,"고칼슘증,과칼슘증,과칼슘혈증"
+응급질환,과호흡 증후군,"과다호흡,과다호흡증,과다호흡증후군,과호흡,과호흡증,과환기증후군"
+응급질환,광견병,"공수병,광견병 바이러스"
+응급질환,구획 증후군,"확정형 구획증후군,만성형 구획증후군"
+응급질환,급성 류마티스성 열,"급성 류머티스 열,류마티스 열,류마티스성열,류머트열,류머티스 열,류머티스성열"
+응급질환,급성 심근경색증,"급성 심근경색,동맥증후군,심근경색,심근경색증"
+응급질환,기뇌증,"공기뇌증,기두증"
+응급질환,뇌동맥류,"뇌동맥꽈리,뇌지주막하 출혈,두개강 내 동맥류"
+응급질환,대동맥 박리,"대동맥 박리증,박리성 대동맥류"
+응급질환,대사성 산증,"대사성 산혈증,산혈증"
+응급질환,대사성 알칼리증,"대사성알칼리혈증,알칼리혈증"
+응급질환,독성 쇼크 증후군,독소쇼크증후군
+응급질환,두통,머리의 통증
+응급질환,맹장염,"꼬리염,충수돌기염,충수염"
+응급질환,복강 내 출혈,복강출혈
+응급질환,복부 대동맥류,복부동맥류
+응급질환,부정맥,심장 부정맥
+응급질환,소화관의 이물,"소화관의이물질,소화관이물,소화관이물질"
+응급질환,수부 외상,손의 외상
+응급질환,식중독,Food poisoning
+응급질환,아나필락시스,"Anaphylactic shock,과민성 쇼크,아나필락시스성 쇼크,아나필락틱 쇼크"
+응급질환,악성 고열증,악성고체온증
+응급질환,압궤 손상,"crush syndrome,traumatic rhabdomyolysis,압좌손상,압좌증후군,압착손상,외상성 횡문근융해,크러쉬증후군,크러시증후군"
+응급질환,약물 알레르기,"Medication allergy,약물 알러지"
+응급질환,열 피로,"열경기,열경련,열성경기,열성경련,열탈진,일사병"
+응급질환,외상에 의한 뇌 손상,"brain concussion,뇌진탕"
+응급질환,외상에 의한 척수 손상,외상성척수손상
+응급질환,외음질의 이물,질 및 외음부의 이물질
+응급질환,이물질에 의한 기도 막힘,"기도 폐색,기도폐쇄,이물질기도막힘,이물질에의한질식,이물질질식,질식"
+응급질환,익수,"near-drowning,침수"
+응급질환,일산화탄소 중독,"번개탄중독,연탄가스중독,연탄중독,일산화탄소중독증"
+응급질환,자발성 두개강 내 출혈,"고혈압성 뇌출혈,뇌 내 출혈,뇌실질 내 출혈,뇌출혈,자발성 뇌내출혈"
+응급질환,장간막 동맥 혈전증,장간막 혈전증
+응급질환,저나트륨혈증,저마그네슘증
+응급질환,저마그네슘혈증,저마그네슘증
+응급질환,저칼륨혈증,"hypopotassemia,저칼륨증"
+응급질환,저혈당증,저혈당
+응급질환,전도 장애,"심장전도장애,심장전도계 이상"
+응급질환,허혈성 심질환,"허혈성심장병,허혈성심장질환"
+응급질환,혈관부종,"거대 두드러기,급성알레르기성혈관부종,비알레르기성약물반응혈관부종,알러지성 혈관부종,알레르기성혈관부종,원발성혈관부종,유전성성혈관부종,혈관신경성부종"
+응급질환,호흡성 산증,호흡성산혈증
+응급질환,호흡성 알칼리증,호흡성알칼리혈증
+응급질환,혼수,"Unconsciousness,의식불명,코마,코마상태,혼수상태"
+응급질환,화상,"전기화상,화학물질에 의한 화상,화학화상"
+응급질환,횡격막 탈장,"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
+응급질환,횡문근융해증,횡문근융해
+응급질환,흉부 대동맥류,가슴대동맥류
+응급질환,흉통,가슴통증
+종양혈액질환,간 전이,metastatic tumors of the liver
+종양혈액질환,간문부 담관암,"간문부암,근위부 담관암,상부 담관암,클라츠킨 종양,Klatskin's tumor"
+종양혈액질환,간세포성 암종,"liver cancer,간세포암,간세포암종,간암"
+종양혈액질환,간의 양성 신생물,"간의 양성 종양,간종양"
+종양혈액질환,갑상선암,"갑상샘암,갑상선암종"
+종양혈액질환,거대적혈모구빈혈,거대적아구성 빈혈
+종양혈액질환,고환 종양,고환암
+종양혈액질환,골수증식종양,"MPN,골수증식성 질환,다혈구혈증,특발성 혈소판증가증,골수증식성 신생물"
+종양혈액질환,골수형성이상증후군,"소아골수이형성증후군,골수이형성증후군"
+종양혈액질환,골육종,"골암,골원성육종,뼈암"
+종양혈액질환,구강암,"oral cavity cancer,구강저암,설암,치은암,협부암"
+종양혈액질환,급성골수성백혈병,"AML,급성백혈병"
+종양혈액질환,급성림프모구백혈병,급성 림프모구성 백혈병
+종양혈액질환,기저세포 암종,"기저세포상피종,기저세포암,기저세포종,모모세포종,모모조직암,바닥세포 암종,상피성악성종양"
+종양혈액질환,난소 낭종,"ovarian cystic tumor,난소 낭성 종양,난소물혹,난소혹"
+종양혈액질환,난소암,"Malignant neoplasm of ovary,난소 악성 종양"
+종양혈액질환,난소의 양성 종양,난소 양성 종양
+종양혈액질환,뇌종양,"뇌암,뇌종양"
+종양혈액질환,다발골수종,"malignant plasma cell neoplasm,다발성 골수종"
+종양혈액질환,단세포군감마글로불린병증,"단클론성 감마글로불린혈증,단클론성 감마글로불린장애"
+종양혈액질환,담관암,"담관악성종양,담관암종,담도암"
+종양혈액질환,담낭암,"담낭 선암종,담낭악성종양,쓸개악성종양,쓸개암"
+종양혈액질환,대장암,"결장암,대장악성종양,대장암종,대장의 악성신생물"
+종양혈액질환,대장의 양성 종양,대장양성종양
+종양혈액질환,두경부암,"구강암,부비동암,인두암,후두암,인후두암,혀암"
+종양혈액질환,랑거한스세포 조직구증식증,"Histiocytosis X,X 조직구증,랑거르한스세포조직구증,랑게르한스 조직구증,랑게르한스세포조직구증,랑게르한스세포조직구증식증,조직구 증식증"
+종양혈액질환,린치 증후군,"비용종성 대장암,비용종성 직장암,유전성 대장암,유전성 비용종성 대장 직장암,유전성 직장암"
+종양혈액질환,림프종,"림프암,악성림프종,임파선암"
+종양혈액질환,만성골수백혈병,"CML,만성백혈병,만성 골수성 백혈병"
+종양혈액질환,만성림프구백혈병,"CLL,만성 림프구성 백혈병"
+종양혈액질환,망막아세포종,망막모세포종
+종양혈액질환,면역결핍증,선천성 면역결핍증
+종양혈액질환,면역혈소판감소증,면역 혈소판감소 자색반병
+종양혈액질환,바터 팽대부 암,십이지장 유두암
+종양혈액질환,발작성야간혈색뇨,"PNH,발작성 혈색소뇨"
+종양혈액질환,방광암,"Malignant neoplasm of bladder,방광 내 신생물,방광선암"
+종양혈액질환,버킷 림프종,아프리칸 림프종
+종양혈액질환,범혈구감소증,"온혈구 감소증,전혈구 감소증"
+종양혈액질환,복막 가성점액종,"복막 위 점액종,전이성 점액성 선암종"
+종양혈액질환,부신 종양,"Adrenal gland tumor,부신선종,부신양성종양,부신종,부신피질 세포 양성 신생물"
+종양혈액질환,부신암,부신악성종양
+종양혈액질환,비소세포성 폐암,"기관지 폐포암,대세포암,비소세포 폐암,비소세포암,편평상피세포암,폐선암"
+종양혈액질환,비인두 종양,"비인두암,인두암"
+종양혈액질환,비호지킨 림프종,비호지킨병
+종양혈액질환,뼈의 신생물,"골종양,뼈종양"
+종양혈액질환,상대정맥 증후군,SVC Syndrome
+종양혈액질환,생식선 및 생식 세포의 신생물,"Germ cell tumor,생식세포종,생식세포종양"
+종양혈액질환,소세포성 폐암,소세포폐암
+종양혈액질환,소적혈구빈혈,소구성빈혈
+종양혈액질환,순수적혈구무형성,"순적혈구 무형성증,순적혈구무형성,순적혈구빈혈,적모구감소증,순수 적혈구 무형성증"
+종양혈액질환,식도암,식도암종
+종양혈액질환,신경모세포종,신경모세포종
+종양혈액질환,신생아 다혈구증,"Polycythemia neonatorum,신생아 적혈구증가증"
+종양혈액질환,신세포암종,"renal cancer,신세포암,신장암"
+종양혈액질환,신우요관암,신우뇨관암
+종양혈액질환,신장의 신생물,신장종양
+종양혈액질환,아밀로이드증,"유녹말증,유전분증"
+종양혈액질환,악성 종격동 종양,"종격동 악성종양,종격동 암"
+종양혈액질환,악성 흑색종,"멜라노마,악성 멜라노마,악성 흑색점,흑색종,흑색종증"
+종양혈액질환,안암,"눈암,안구암,눈의 악성 종양"
+종양혈액질환,양성 종격동 종양,"종격동 양성종양,종격동 종양"
+종양혈액질환,연부조직 전이,연조직 전이
+종양혈액질환,용혈빈혈,용혈성 빈혈
+종양혈액질환,원발부위 불명암,"미상암,불명암,원발불명암"
+종양혈액질환,원발성 중추신경계 림프종,중추신경계림프종
+종양혈액질환,위말트 림프종 ,"MALToma,위몰트림프종"
+종양혈액질환,위암,"Gastric cancer,Malignant neoplasm of stomach,cancer of the stomach,위 악성종양,위선암,위선암종,위암종"
+종양혈액질환,위장관 기질 종양,"위장관 간질 종양,기스트,GIST,위장관 기질적 종양"
+종양혈액질환,유방 파제트병 ,"유방파젯병,유방파젯트병"
+종양혈액질환,유방암,"Breast Cancer,Breast tumor,유방 악성신생물,유방종"
+종양혈액질환,유전구형적혈구증,"가족성 용혈성 빈혈,유전성 구상적혈구증"
+종양혈액질환,육종,"악성골종양,연부조직육종"
+종양혈액질환,이식편대숙주질환,"골수이식 거부반응,이식 후 거부반응"
+종양혈액질환,자가면역용혈질환,"자가면역성 용혈성 병,자가면역성 용혈성 질환"
+종양혈액질환,자궁 상피 내 암종,"Cervical intraepithelial neoplasia,자궁경부 상피내종양"
+종양혈액질환,자궁경부암,Malignant neoplasm of cervix
+종양혈액질환,자궁내막암,"Malignant neoplasm of endometrium,자궁체부암"
+종양혈액질환,자궁의 평활근종,자궁근종
+종양혈액질환,재생불량빈혈,재생불량빈혈
+종양혈액질환,전립선암,"Malignant neoplasm of prostate,전립선 암종"
+종양혈액질환,전이 암,"암 전이,전이성 암"
+종양혈액질환,전이성 신장암,전이신장암
+종양혈액질환,조기 위암,"위암 조기,초기위암"
+종양혈액질환,지방종,양성지방종성 신생물
+종양혈액질환,지중해빈혈,"유전성표적적혈구증가증,쿨리빈혈"
+종양혈액질환,직장암,"직장악성종양,직장암종"
+종양혈액질환,진행성 위암,진행된위암
+종양혈액질환,철결핍빈혈,"철 결핍 빈혈,철 부족성 빈혈,철 결핍성 빈혈"
+종양혈액질환,충수암,"맹장암,충수돌기암"
+종양혈액질환,췌장 전이암,"전이성 췌장 종양,전이성 췌장암"
+종양혈액질환,췌장암,"이자암,췌장 신경내분비암,췌장 신경내분비종,췌장 신경내분비종양,췌장선암,췌장악성종양,췌장암종,췌장의악성신생물"
+종양혈액질환,카르시노이드 증후군,유암종증후군
+종양혈액질환,캐슬만병,"림프선 과오종,여포성 림프 결절종,캐슬만씨병,혈관 여포성 종격림프선 증식증,혈관성 림프 과오종"
+종양혈액질환,타액선암,"Salivary Gland Tumor,Salivary adenocarcinoma,설하선암,소타액선암,악하선암,이하선암,침샘암"
+종양혈액질환,파종혈관내응고,"범발성혈관내응고증후군(DIC),파종성 혈관 내 응고 증후군"
+종양혈액질환,폐 전이,"전이된폐암,폐암 전이,전이성폐암"
+종양혈액질환,폐암,"기관지암,폐 악성신생물,폐악성종양,폐암종"
+종양혈액질환,포르피린증,"포르피리아,포르피리아증"
+종양혈액질환,폰빌레브란트병,"Pseudohemophilia B,vWD,vascular hemophilia,가성혈우병,폰빌레브란트,혈관혈우병"
+종양혈액질환,피부암,"피부암종,피부의 악성종양"
+종양혈액질환,피부의 양성 종양,피부 양성종양
+종양혈액질환,한랭글로불린혈증,한냉글로불린혈증
+종양혈액질환,항문암,"항문관암,항문악성종양,항문의 악성신생물"
+종양혈액질환,항인지질 항체 증후군,휴즈 증후군
+종양혈액질환,호산구 증가증,"호산구 증가,호산구증가증후군"
+종양혈액질환,호중구감소증,"과립구감소증,중성백혈구감소증"
+종양혈액질환,호지킨 림프종,"림프 육아종증,호지킨 병"
+종양혈액질환,횡문근육종,"횡문근육암,횡문근육종양"
+종양혈액질환,후두암,"성문상부암,성문암,성문하부암"
+종양혈액질환,흉선암,"가슴샘종,흉선암종,흉선종"
+치과질환,근단 주위 농양,치근단 농양
+치과질환,만성 치주염,"잇몸병,치주염,풍치"
+치과질환,매복 사랑니,"매복 지치,매복치"
+치과질환,발육성 치성 낭종,"발육성 치은낭종,치성 물혹,치성낭종,치은낭종"
+치과질환,설통,"설통증,혀의 통증,혀통증"
+치과질환,안면 골절,"안면골골절,얼굴골절,얼굴뼈골절"
+치과질환,안면 비대칭,"두상비대칭,얼굴비대칭,롬버그병"
+치과질환,치근낭,치근 낭종
+치과질환,치아 우식증[충치],치아 우식증
+치과질환,치열 궁 관계 이상,부정교합
+치과질환,치은염,잇몸염증
+치과질환,치조골염,"건성발치와,건조발치와,치조골염"
+치과질환,치주 농양,"잇몸고름,잇몸농양"
+치과질환,턱관절 장애,"악관절 장애,측두하악장애"
+치과질환,턱관절 탈구,"측두하악골 탈구,턱빠짐,턱탈구"
+치과질환,턱뼈 성장 이상,"돌출입,무턱증"
+치과질환,턱의 기타 낭증,"맹출성 낭종,비치조낭종,석회화 치성 낭종,원시성 낭종,치성각화낭종,치주낭종,합치성 낭종"
+피부질환,가와사키병,"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
+피부질환,간찰성 홍반,마찰 피부염
+피부질환,건선,"건선피부,건선피부염"
+피부질환,곰팡이 감염,곰팡이질환
+피부질환,광선 각화증,"Solar Keratosis,senile keratosis,일광각화증,자외선각화증"
+피부질환,국소 다한증,"다한증,손발바닥 땀과다증,땀과다증"
+피부질환,기미,chloasma
+피부질환,기저귀 피부염,"기저귀 발진,기저귀진,기저귀피부염,냅킨피부염,원발성 자극 기저귀 피부염"
+피부질환,기저세포 암종,"기저세포상피종,기저세포암,기저세포종,모모세포종,모모조직암,바닥세포 암종,상피성악성종양"
+피부질환,꽃가루 알레르기,화분 알레르기
+피부질환,내향성 손발톱,"내성발톱,내향성 손발톱,발톱감입,발톱감입증,조갑 갑입증"
+피부질환,농가진,고름딱지증
+피부질환,다모증,"hirsutism,hypertrichosis,남성형털과다증,조모증,털과다증"
+피부질환,단독,단독증
+피부질환,당뇨병성 족부 질환,"당뇨발,당뇨병성 족부 궤양"
+피부질환,대상포진,"Zoster,shingles"
+피부질환,대상포진 후 신경통,대상포진신경통
+피부질환,돌발성 발진,"roseola infantum,돌발발진,돌발진,소아 장미진,영아 발진"
+피부질환,동전모양 습진,화폐상습진
+피부질환,두드러기,"담마진,두드러기피부,은진,은진피부,피부두드러기,피부은진"
+피부질환,두부 백선,"기계충,독창,머리 백선"
+피부질환,딸기코,주사비
+피부질환,땀띠,"속립진,한진"
+피부질환,만성 단순 태선,태선
+피부질환,만성 두드러기,"만성담마진,만성은진,만성은진피부"
+피부질환,모공성 각화증,"닭살,모공 각화증"
+피부질환,모반,"Moles,색소성 모반,점"
+피부질환,무모증,"빈모증,음부털 감소증"
+피부질환,무좀,"Athlete’s foot,발백선"
+피부질환,백반증,"백납,백전풍"
+피부질환,베체트 병,"베체트,베체트 증후군,베체트씨병"
+피부질환,봉와직염,"봉소염,연조직염"
+피부질환,비립종,좁쌀종
+피부질환,사면발이증,음모슬증
+피부질환,상피내 신생물,"상피성신생물,악성 상피성 신생물,양성 상피성 신생물"
+피부질환,선천성 색소결핍증,"백색증,알비노,하얀병"
+피부질환,소양증,"가려움증,간지러움증,소양감"
+피부질환,수부 습진,손 습진
+피부질환,슈도모나스 감염,"슈도모나스,녹농균 감염증"
+피부질환,스티븐 존슨 증후군,"스티븐존슨병,피부점막안증후군"
+피부질환,습진,피부염
+피부질환,아토피성 피부염,"Atopic eczema,소아 아토피,아기 아토피,아토피,아토피 습진,아토피피부,아토피피부염"
+피부질환,악성 흑색종,"멜라노마,악성 멜라노마,악성 흑색점,흑색종,흑색종증"
+피부질환,안검황색종,"Xanthoma palpebrum,눈꺼풀황색판종"
+피부질환,약물 발진,약진
+피부질환,어루러기,"전풍,백선,등무좀"
+피부질환,어린선,"건피증,비늘선,비늘증,어린증,잔비늘증,비강진,전풍"
+피부질환,여드름,"Acne vugalis,blackhead,comedo,면포,보통여드름,일반여드름"
+피부질환,오타 모반,"오타모반,오타씨모반,오타 반점"
+피부질환,옴,"개선증,피부병 옴"
+피부질환,옻 중독,"옻,옻오름"
+피부질환,욕창,"Skin Defect and Soft Tissue Defect,Skin Defect or Soft Tissue Defect,pressure sore,sore,압박궤양,피부 또는 연조직 결손"
+피부질환,접촉 피부염,"광알레르기접촉피부염,알레르기접촉피부염,자극성 접촉피부염,자극접촉피부염,접촉성 피부염"
+피부질환,조갑 이영양증,"발톱이영양증,손톱이영양증"
+피부질환,조갑백선,"onychomycosis,손발톱 무좀"
+피부질환,조갑주위염,생인손
+피부질환,주근깨,"Ephelis,Freckle,작란반"
+피부질환,쥐젖,"물렁섬유종,섬유 상피 용종,연성 섬유종,피부폴립"
+피부질환,지루성 피부염,"두피지루성피부염,지루성 두피,지루성 피부,지루피부염"
+피부질환,지방종,양성지방종성 신생물
+피부질환,천포창,"물집증,펨피구스"
+피부질환,콜린성 두드러기,"콜린성 담마진,콜린성 알러지,콜린성알레르기"
+피부질환,탄저병,탄저균
+피부질환,탈락 피부염,"박탈성피부염,박탈피부염,벗음피부염,탈락피부염,홍색비강진,홍피증"
+피부질환,탈모증,"원형탈모,원형탈모증,탈모증"
+피부질환,편평 태선,"구강내편평태선,구강편평태선,편평홍색태선"
+피부질환,표피낭종,피하낭종
+피부질환,피부 농양,종기
+피부질환,피부근육염,"다발근육염,다발성근육염,소아피부근염,염증성 근병증,염증성 근육병증"
+피부질환,피부암,"피부암종,피부의 악성종양"
+피부질환,피부염,습진(eczema)
+피부질환,피부의 양성 종양,피부 양성종양
+피부질환,한랭 두드러기,"한냉 두드러기,한랭성 두드러기,콜드알러지,콜드알레르기,추위알레르기"
+피부질환,한선염,"화농성 한선염,아포클린 한선 여드름"
+피부질환,한센병,"한센씨병,문둥병,나병"
+피부질환,한포진,급성 수포성 수부 습진
+피부질환,화상,"전기화상,화학물질에 의한 화상,화학화상"
+피부질환,화염상 모반,불꽃 모반
+피부질환,흉터,반흔
+호흡기질환,가습기 살균제 연관 폐질환,"가습기살균제 폐손상,가습기살균제 폐질환,신종폐질환,원인미상 폐섬유화증,원인미상 폐손상,원인불명 중증 폐질환,원인불명 폐손상,원인불명 폐질환,임산부 폐질환,임산부폐렴,원인불명 신종 폐질환"
+호흡기질환,객혈,"각혈,혈담"
+호흡기질환,기흉,"공기가슴증,기흉,폐기흉"
+호흡기질환,과호흡 증후군,"과다호흡,과다호흡증,과다호흡증후군,과호흡,과호흡증,과환기증후군"
+호흡기질환,규폐증,"Anthracosilicosis,Silicosis NOS,Silicotic fibrosis (massive) of lung,규폐증 NOS,탄규폐증,폐의 광범위 규폐성 섬유증,폐의 규폐성 섬유증"
+호흡기질환,급성 기관지염,기관지염
+호흡기질환,기관 협착,기관지 협착
+호흡기질환,기관지폐 형성이상,"폐 이형성증,기관지폐 이형성증"
+호흡기질환,기관지확장증,기관지확장병
+호흡기질환,꽃가루 알레르기,화분 알레르기
+호흡기질환,낭종성 폐질환,선천성 전장 기형
+호흡기질환,늑막염,흉막염
+호흡기질환,두통,머리의 통증
+호흡기질환,만성 기관지염,만성폐색성기관지염
+호흡기질환,만성 폐쇄성 폐질환,COPD
+호흡기질환,미만성 간질성 폐질환,"간질성 폐질환,미만성 침윤성 폐질환,특발성 간질성 폐렴,폐섬유증,폐섬유화증"
+호흡기질환,병원 감염성 폐렴,병원성폐렴
+호흡기질환,비소세포성 폐암,"기관지 폐포암,대세포암,비소세포 폐암,비소세포암,편평상피세포암,폐선암"
+호흡기질환,상기도 감염,"common cold,감기"
+호흡기질환,상대정맥 증후군,SVC Syndrome
+호흡기질환,성인 호흡곤란 증후군,ARDS
+호흡기질환,소세포성 폐암,소세포폐암
+호흡기질환,속립성 결핵,속립결핵
+호흡기질환,신생아 호흡곤란증후군,"RDS,신생아진행성호흡부전,신생아호흡부전,신생아호흡장애증후군,유리질막증,초자막 질환"
+호흡기질환,신종 플루,"H1N1,돼지독감,돼지인플루엔자,신종인플루엔자,신종인플루엔자A"
+호흡기질환,아스페르길루스증,아스페르길루스종
+호흡기질환,악성 종격동 종양,"종격동 악성종양,종격동 암"
+호흡기질환,양성 종격동 종양,"종격동 양성종양,종격동 종양"
+호흡기질환,이물질에 의한 기도 막힘,"기도 폐색,기도폐쇄,이물질기도막힘,이물질에의한질식,이물질질식,질식"
+호흡기질환,인플루엔자,독감
+호흡기질환,재발성 천명,천명
+호흡기질환,중동 호흡기 증후군,"신종 코로나 바이러스 감염증,메르스바이러스 감염증,메르스 코로나 바이러스 감염증"
+호흡기질환,중증 급성 호흡기 증후군,"사스,SARS"
+호흡기질환,지역사회성 폐렴,"비정형성 폐렴,지역사회 획득 폐렴"
+호흡기질환,진폐증,탄광부 진폐증
+호흡기질환,천식,"소아천식,운동유발성천식,직업성천식"
+호흡기질환,코로나-19,"신종 코로나바이러스 폐렴,우한 폐렴,2019-nCoV,2019-Novel Coronavirus,신종 코로나 바이러스 감염증"
+호흡기질환,태변 흡인 증후군,태변 흡입 증후군
+호흡기질환,특발성 폐섬유화증,특발성 폐섬유증
+호흡기질환,폐 농양,폐농양
+호흡기질환,폐결절,"SPN,Solitary pulmonary nodule,고립성폐결절,단일폐결절,폐의 결절"
+호흡기질환,폐결핵,TB
+호흡기질환,폐기종,"emphysema of the lung,pulmonary emphysema"
+호흡기질환,폐렴,"바이러스성 폐렴,폐염증"
+호흡기질환,폐렴간균에 의한 폐렴 ,"크레브시엘라 폐렴,폐렴간균,폐렴간균 폐렴"
+호흡기질환,폐부종,"급성폐부종,폐수종,폐울혈"
+호흡기질환,폐암,"기관지암,폐 악성신생물,폐악성종양,폐암종"
+호흡기질환,호흡성 산증,호흡성산혈증
+호흡기질환,횡격막 탈장,"선천성 가로막 탈장,선천성 횡격막 탈장,태아횡격막탈장,횡격막 허니아,횡격막 헤르니아"
+호흡기질환,흉막 삼출,흉수
+호흡기질환,흉선암,"가슴샘종,흉선암종,흉선종"
+호흡기질환,히스토플라즈마증,히스토플라스마증
+기타,가와사키병,"MLNS,가와사키증후군,점막피부림프절증후군,카와사끼병,카와사키병,카와사키증후군,Mucocutaneous lymph node syndrome"
+기타,각막 부종,"각막 중심부 부종,각막 후면 부종"
+기타,단일 제대 동맥,"단동맥,단동맥탯줄"
+기타,림프관종,"낭성 림프관종,해면상림프관종"
+기타,설소대 단축증,"Ankyloglossia,단설소대증,설단축증,설소대 단축,설유착증"
+기타,쇼그렌 증후군,"건조 증후군,쇼그렌병,쉐그렌 증후군,자가면역 상피염,자가면역 외분비병증"
+기타,악액질,"소모증후군,종말증후군"
+기타,음식 알레르기,음식 알러지
+기타,전신 홍반성 낭창,"낭창,루퍼스,루푸스,루프스,전신성 에리테마토우시스,전신성 홍반성 낭창,전신성 홍반성 루푸스,홍반성 낭창,홍반성 루푸스,홍반성 루프스,SLE"
+기타,처그 스트라우스 증후군,"처그 스트라우스 혈관염,처그스트라우스,처그스트라우스씨 병,폐 침습성 다발동맥염"
+기타,침샘염,"타액선염,이하선염,설하선염"
+기타,항인지질 항체 증후군,휴즈 증후군
