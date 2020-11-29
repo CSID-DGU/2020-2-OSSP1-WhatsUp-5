@@ -62,16 +62,7 @@ def compute_coherence_values(mallet_path, id2word, corpus, texts, limit, start=8
 
     return model_list, coherence_values, topic_cnt
 
-
-def show_coherence_graph(start, limit, step, coherence_values, path):
-    x = range(start, limit, step)
-    plt.plot(x, coherence_values)
-    plt.xlabel("Topic Number")
-    plt.ylabel("Coherence")
-    plt.legend(("coherence_values"), loc='best')
-    plt.show()
-
-def save_coherence_graph(start, limit, step, coherence_values, path):
+def coherence_graph(start, limit, step, coherence_values, path):
     x = range(start, limit, step)
     plt.plot(x, coherence_values)
     plt.xlabel("Topic Number")
@@ -91,8 +82,9 @@ def format_topics_sentences(ldamodel, corpus, texts):
                 wp = ldamodel.show_topic(topic_num,topn=20)
                 topic_keywords = ", ".join([word for word, prop in wp])
                 sent_topics_df = sent_topics_df.append(pd.Series([int(topic_num), round(prop_topic,4), topic_keywords]), ignore_index=True)
-            else:
-                break
+            #언제 break 할 지 선택 : 첫번째 max or full max
+            #else: # 첫 번째 max 선택
+                #break
     sent_topics_df.columns = ['Dominant_Topic', 'Perc_Contribution', 'Topic_Keywords']
 
     contents = pd.Series(texts)
@@ -141,3 +133,8 @@ def mallet_to_lda(mallet_model):
     model_gensim.sync_state()
     model_gensim.state.sstats = mallet_model.wordtopics
     return model_gensim
+
+def coherence_score(model, texts, dictionary, coherence='c_v'):
+    coherence_model_ldamallet = CoherenceModel(model=model, texts=texts, dictionary=dictionary, coherence=coherence)
+    coherence_ldamallet = coherence_model_ldamallet.get_coherence()
+    return coherence_ldamallet
