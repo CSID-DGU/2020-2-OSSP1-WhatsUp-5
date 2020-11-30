@@ -1,4 +1,5 @@
-'''
+<pre>
+<code>
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
 
 
@@ -39,4 +40,5 @@ if(typeof(LDAvis) !== "undefined"){
          });
 }
 </script>
-'''
+</pre>
+</code>
