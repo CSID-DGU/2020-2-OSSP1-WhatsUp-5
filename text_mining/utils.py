@@ -1,6 +1,48 @@
 from konlpy.tag import Mecab
 import pandas as pd
 from tqdm import tqdm
+import pandas as pd
+from jamo import h2j, j2hcj
+
+
+def get_disease_in_keywords(result_df, disease_df):
+    dis = disease_df['disease'].tolist()
+    dis = set(dis)
+
+    keywords_list = []
+    for keywords in result_df['Keywords']:
+        keywords = keywords.split(',')
+        for keyword in keywords:
+            if keyword.strip() in dis:
+                keywords_list.append(keyword.strip())
+    keywords_list = list(set(keywords_list))
+
+    dic = {}
+    for disease_keyword in keywords_list:
+        dic[disease_keyword] = get_jongsung_TF(disease_keyword)
+    df = pd.DataFrame()
+    for key, value in dic.items():
+        df = df.append(
+            pd.Series([key, value]), ignore_index=True)
+    df.columns=['disease', 'jongsung']
+
+    return df
+
+
+# 종성 확인
+def get_jongsung_TF(sample_text):
+    sample_text_list = list(sample_text)
+    last_word = sample_text_list[-1]
+    last_word_jamo_list = list(j2hcj(h2j(last_word)))
+    last_jamo = last_word_jamo_list[-1]
+    jongsung_TF = "T"
+    if last_jamo in (
+    'ㅏ', 'ㅑ', 'ㅓ', 'ㅕ', 'ㅗ', 'ㅛ', 'ㅜ', 'ㅠ', 'ㅡ', 'ㅣ', 'ㅘ', 'ㅚ', 'ㅙ', 'ㅝ', 'ㅞ', 'ㅢ', 'ㅐ', 'ㅔ', 'ㅟ', 'ㅖ', 'ㅒ', '2', '4',
+    '5', '9'):
+        jongsung_TF = "F"
+
+    return jongsung_TF
+
 
 def get_stopword(path="data/stopword.txt"):
     '''
