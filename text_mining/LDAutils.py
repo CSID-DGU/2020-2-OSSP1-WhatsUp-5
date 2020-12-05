@@ -43,7 +43,7 @@ os.environ['MALLET_HOME'] = '/content/mallet-2.0.8'
 mallet_path = '/content/mallet-2.0.8/bin/mallet'
 
 #최적의 토픽 수를 찾기 위해 여러 토픽 수로 일관성을 계산하고 비교
-def compute_coherence_values(mallet_path, id2word, corpus, texts, limit, start=8, step=2,):
+def compute_coherence_values(mallet_path, id2word, corpus, texts, limit, start=8, step=2, early_stop=True):
     coherence_values = []
     model_list = []
     topic_cnt = 0
@@ -57,10 +57,11 @@ def compute_coherence_values(mallet_path, id2word, corpus, texts, limit, start=8
     for idx, value in enumerate(coherence_values[1:]):
         if coherence_values[topic_cnt] < value:
             topic_cnt = idx
-        else:
+        elif (coherence_values[topic_cnt] >= value) and (early_stop):
             break
 
     return model_list, coherence_values, topic_cnt
+
 
 def coherence_graph(start, limit, step, coherence_values, path):
     x = range(start, limit, step)
@@ -69,52 +70,6 @@ def coherence_graph(start, limit, step, coherence_values, path):
     plt.ylabel("Coherence")
     plt.legend(("coherence_values"), loc='best')
     plt.savefig(path)
-
-#트윗들의 토픽을 확인 (토픽별로)
-def format_topics_sentences(ldamodel, corpus, texts):
-    sent_topics_df = pd.DataFrame()
-
-    #ldamodel[corpus]: lda_model에 corpus를 넣어 각 토픽 당 확률을 알 수 있음
-    for i, row in enumerate(ldamodel[corpus]):
-        row = sorted(row, key=lambda x: (x[1]), reverse=True)
-        for j, (topic_num, prop_topic) in enumerate(row):
-            if j == 0:
-                wp = ldamodel.show_topic(topic_num,topn=20)
-                topic_keywords = ", ".join([word for word, prop in wp])
-                sent_topics_df = sent_topics_df.append(pd.Series([int(topic_num), round(prop_topic,4), topic_keywords]), ignore_index=True)
-            #언제 break 할 지 선택 : 첫번째 max or full max
-            #else: # 첫 번째 max 선택
-                #break
-    sent_topics_df.columns = ['Dominant_Topic', 'Perc_Contribution', 'Topic_Keywords']
-
-    contents = pd.Series(texts)
-    sent_topics_df = pd.concat([sent_topics_df, contents], axis=1)
-    return(sent_topics_df)
-
-
-# 각 Document의 topic
-def format_topics_sentences(ldamodel, corpus, texts):
-    # Init output
-    sent_topics_df = pd.DataFrame()
-
-    # Get main topic in each document
-    for i, row in enumerate(ldamodel[corpus]):
-        row = sorted(row, key=lambda x: (x[1]), reverse=True)
-        # Get the Dominant topic, Perc Contribution and Keywords for each document
-        for j, (topic_num, prop_topic) in enumerate(row):
-            if j == 0:  # => dominant topic
-                wp = ldamodel.show_topic(topic_num)
-                topic_keywords = ", ".join([word for word, prop in wp])
-                sent_topics_df = sent_topics_df.append(
-                    pd.Series([int(topic_num), round(prop_topic, 4), topic_keywords]), ignore_index=True)
-            else:
-                break
-    sent_topics_df.columns = ['Dominant_Topic', 'Perc_Contribution', 'Topic_Keywords']
-
-    # Add original text to the end of the output
-    contents = pd.Series(texts)
-    sent_topics_df = pd.concat([sent_topics_df, contents], axis=1)
-    return (sent_topics_df)
 
 
 def mallet_to_lda(mallet_model):
@@ -134,7 +89,70 @@ def mallet_to_lda(mallet_model):
     model_gensim.state.sstats = mallet_model.wordtopics
     return model_gensim
 
+
 def coherence_score(model, texts, dictionary, coherence='c_v'):
     coherence_model_ldamallet = CoherenceModel(model=model, texts=texts, dictionary=dictionary, coherence=coherence)
     coherence_ldamallet = coherence_model_ldamallet.get_coherence()
     return coherence_ldamallet
+
+
+
+def summary(model, corpus, texts):
+    '''
+    :param model: Gensim LDA model
+    :param corpus: corpus that input value fo LDA model
+    :param texts: texts that input value of LDA model
+    :param num_topics: number of topics
+    :return: dataframe df
+    df.columns = ['Keywords', 'Num_Documents', 'Perc_Documents'], descending sort
+    '''
+    df = pd.DataFrame()
+    df_topic_sents_keywords = pd.DataFrame()
+    num_topics = model.num_topics
+    # df_topic_sents_keywords = format_topics_sentences(ldamodel=model, corpus=corpus, texts=texts)
+    # Get main topic in each document
+    for i, row in enumerate(model[corpus]):
+        row = sorted(row, key=lambda x: (x[1]), reverse=True)
+        # Get the Dominant topic, Perc Contribution and Keywords for each document
+        for j, (topic_num, prop_topic) in enumerate(row):
+            if j == 0:  # => dominant topic
+                wp = model.show_topic(topic_num)
+                topic_keywords = ", ".join([word for word, prop in wp])
+                df_topic_sents_keywords = df_topic_sents_keywords.append(
+                    pd.Series([int(topic_num), topic_keywords]), ignore_index=True)
+            else:
+                break
+    df_topic_sents_keywords.columns = ['Dominant_Topic', 'Topic_Keywords']
+
+    # Number of Documents for Each Topic
+    topic_counts = df_topic_sents_keywords['Dominant_Topic'].value_counts()
+
+    # Percentage of Documents for Each Topic
+    topic_contribution = round(topic_counts / topic_counts.sum(), 4)
+    for topic_num in range(num_topics):
+        wp = model.show_topic(topic_num)
+        topic_keywords = ", ".join([word for word, prop in wp])
+        df = df.append(
+            pd.Series([topic_num, topic_keywords]), ignore_index=True)
+
+    # change columns name
+    df.columns = ['Dominant_Topic', 'Keywords']
+
+    # Number of Documents for Each Topic
+    topic_counts = df_topic_sents_keywords['Dominant_Topic'].value_counts()
+
+    # Percentage of Documents for Each Topic
+    topic_contribution = round(topic_counts / topic_counts.sum(), 4)
+
+    # Concatenate Column wise
+    df = pd.concat([df, topic_counts, topic_contribution], axis=1)
+
+    # change columns name
+    df.columns = ['Dominant_Topic', 'Keywords', 'Num_Documents', 'Perc_Documents']
+
+    # del unnecessary col
+    df = df.drop(['Dominant_Topic'], axis=1)
+
+    # sort by the number of documents belonging to
+    df = df.sort_values(by=['Num_Documents'], ascending=False, ignore_index=True)
+    return df
