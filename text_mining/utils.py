@@ -6,9 +6,15 @@ from jamo import h2j, j2hcj
 
 
 def get_disease_in_keywords(result_df, disease_df):
+    '''
+    :param result_df: LDA result dataframe
+    :param disease_df: disease list dataframe
+    :return: disease words in LDA model topics
+    '''
     dis = disease_df['disease'].tolist()
     dis = set(dis)
 
+    # result dataframe에서 keyword만 추출
     keywords_list = []
     for keywords in result_df['Keywords']:
         keywords = keywords.split(',')
@@ -17,9 +23,12 @@ def get_disease_in_keywords(result_df, disease_df):
                 keywords_list.append(keyword.strip())
     keywords_list = list(set(keywords_list))
 
+    # make dict
     dic = {}
     for disease_keyword in keywords_list:
         dic[disease_keyword] = get_jongsung_TF(disease_keyword)
+
+    # for return
     df = pd.DataFrame()
     for key, value in dic.items():
         df = df.append(
