@@ -39,18 +39,17 @@ def get_disease_in_keywords(result_df, disease_df):
 
 
 # 종성 확인
-def get_jongsung_TF(sample_text):
-    sample_text_list = list(sample_text)
-    last_word = sample_text_list[-1]
-    last_word_jamo_list = list(j2hcj(h2j(last_word)))
-    last_jamo = last_word_jamo_list[-1]
-    jongsung_TF = "T"
-    if last_jamo in (
+def get_jongsung_TF(sentence):
+    sentence = list(sentence)
+    last_word = sentence[-1]
+    last_word = list(j2hcj(h2j(last_word)))
+    jongsung = "T"
+    if last_word[-1] in (
     'ㅏ', 'ㅑ', 'ㅓ', 'ㅕ', 'ㅗ', 'ㅛ', 'ㅜ', 'ㅠ', 'ㅡ', 'ㅣ', 'ㅘ', 'ㅚ', 'ㅙ', 'ㅝ', 'ㅞ', 'ㅢ', 'ㅐ', 'ㅔ', 'ㅟ', 'ㅖ', 'ㅒ', '2', '4',
     '5', '9'):
-        jongsung_TF = "F"
+        jongsung = "F"
 
-    return jongsung_TF
+    return jongsung
 
 
 def get_stopword(path="data/stopword.txt"):
