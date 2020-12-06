@@ -1,14 +1,11 @@
 ### GPT2를 이용한 기사생성
 
-**필요한 환경-requirements.txt**
+**requirements.txt** : 환경설정
 
 1. gluonnlp == 0.9.1
-2. mxnet == 1.6.0
-3. sentencepiece == 0.1.85
-4. transformers == 2.11.0
+2. sentencepiece == 0.1.85
+3. transformers == 2.11.0
 
+**GENERATE_MODEL.ipynb** : 학습된 모델로 기사 생성
 
-- GPT2_finetuning.ipnynb
-: tensorflow를 이용한 허깅페이스의 transformers 라이브러리와 SKT KoGPT2 모델 기반으로 작성된 코드 + 의료기사, 의학 데이터 전처리 후 학습
-- koGPT2_use.ipnynb
-: SKI의 koGPT2를 실행시켜 본 코드, 어떠한 학습도 시키지 않고 "감기는" 이라는 단어로 문장을 생성한 예시
+**createTitle.ipynb**: 기사 제목 학습 
