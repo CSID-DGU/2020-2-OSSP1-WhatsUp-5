@@ -8,7 +8,7 @@
 2. gluonnlp == 0.9.1
 3. sentencepiece >= 0.1.85
 4. transformers == 2.11.0
-
+5. mxnet == 1.6.0
 
 
 
