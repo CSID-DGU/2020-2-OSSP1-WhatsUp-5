@@ -5,6 +5,7 @@
 1. gluonnlp == 0.9.1
 2. sentencepiece == 0.1.85
 3. transformers == 2.11.0
+4. mxnet == 1.6.0
 
 **GENERATE_MODEL.ipynb** : 학습된 모델로 기사 생성
 
