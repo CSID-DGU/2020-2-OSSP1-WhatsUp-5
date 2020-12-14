@@ -1,4 +1,3 @@
-
 ## 실행 방법
 > 필요한 패키지를 설치해주세요. 
 ```
@@ -36,6 +35,40 @@ install_java()
 !wget http://mallet.cs.umass.edu/dist/mallet-2.0.8.zip
 !unzip mallet-2.0.8.zip
 ```
+
+## 설명
+
+<h3>Mallet Coherence Score</h3><p>
+
+![coherenceScore](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/output/coherence_values.png "Mallet Coherence Score")
+
+키워드를 파악함에 있어서 LDA에서는 적절한 개수의 topic으로 분류할지 정하는 것이 중요하다.
+그러나 토픽의 개수를 정하는 방법은 결정적으로 정해져있지 않다. 
+따라서 우리는 최소의 topic을 활용하여 기사를 분리하고자 하여 Coherence의 값이 감소하기 전, 최대값을 topic 개수로 하였다.<p>
+
+Coherence는 기사가 얼마나 잘 clustering 되었는지 주제의 일관성을 나타내는 지표이다. Gensim 내장 LDA model에서 Mallet의 LDA 모델을 활용함으로
+Coherence Scroe를 0.05 이상 향상시켰다.
+
+
+> Mallet Coherence Score
+```
+# Compute Coherence Score
+coherence_model_ldamallet = CoherenceModel(model=model, texts=texts, dictionary=id2word, coherence='c_v')
+coherence_ldamallet = coherence_model_ldamallet.get_coherence()
+print('\nCoherence Score: ', coherence_ldamallet)
+```
+
+Coherence Score:  0.5862624134508976
+
+>Gensim Coherence Score
+```
+# Compute Coherence Score
+coherence_model_ldamallet = CoherenceModel(model=model, texts=texts, dictionary=id2word, coherence='c_v')
+coherence_ldamallet = coherence_model_ldamallet.get_coherence()
+print('\nCoherence Score: ', coherence_ldamallet)
+```
+
+Coherence Score:  0.5399192464467387
 
 
 [LDA_MAP](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/output/LDA_Map.html "lda")
