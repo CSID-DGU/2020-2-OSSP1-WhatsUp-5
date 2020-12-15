@@ -1,3 +1,7 @@
+## 개발 환경
+- colab
+- python 3.6
+
 ## 실행 방법
 > 필요한 패키지를 설치해주세요. 
 ```
@@ -99,4 +103,9 @@ Coherence Scroe를 0.05 이상 향상되었다.
 <p>기사 생성 모델에서 input으로 들어갈 질병명이다. LDA 모델링 결과로 출력된 keyword에서 질병명을 추줄하고, 종성을 분석하여 dataframe 형태로 값을 반환하였다. 기사를 생성할 때, .csv 파일을 불러와서 생성해야할 기사의 중심 질병 키워드를 얻을 수 있다.
 
 
+## 참고 문헌
+https://radimrehurek.com/gensim/models/ldamodel.html <p>
+http://mallet.cs.umass.edu/ <p>
+https://wikidocs.net/30708 <p>
+https://colab.research.google.com/github/polsci/colab-gensim-mallet/blob/master/topic-modeling-with-colab-gensim-mallet.ipynb <p>
 
