@@ -50,7 +50,7 @@ Trend_Analysis.ipynb 파일에서는 사전에 크롤링한 데이터를 활용�
 
 
 ### LDA 토픽 모델링
-#### Mallet Coherence Score
+#### - Mallet Coherence Score
 <p>
 
 ![coherenceScore](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/output/coherence_values.png "Mallet Coherence Score")
@@ -70,7 +70,7 @@ print('\nCoherence Score: ', coherence_ldamallet)
 
 Coherence Score:  0.5862624134508976
 
->Gensim Coherence Score
+> Gensim Coherence Score
 ```
 # Compute Coherence Score
 coherence_model_ldamallet = CoherenceModel(model=model, texts=texts, dictionary=id2word, coherence='c_v')
@@ -84,11 +84,19 @@ Coherence Score:  0.5399192464467387
 Coherence는 기사가 얼마나 잘 clustering 되었는지 주제의 일관성을 나타내는 지표이다. Gensim 내장 LDA model에서 Mallet의 LDA 모델을 활용함으로
 Coherence Scroe를 0.05 이상 향상되었다.
 
-### LDA MAP
+#### - LDA MAP
 ![LDAMAP](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/img/ldamap.png "ldamap")
+
+[LDA_MAP](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/output/LDA_Map.html "lda") 
+<p>토픽 모델링 결과이다. 좌측 Intertopic Distance Map은 클러스터링 된 결과를 차원을 낮추어 보여준 것으로 원이 겹칠 수록 유사한 키워드를 가질 확률이 높은 것이다.
+우측 Relevant Terms는 해당 토픽 그룹에서 등장할 확률이 높은 단어를 나타낸다. 모든 기사에서 등장할 수 있는 단어들은 stopword를 추가하여 제거해주었다. 현재, 코로나19가 전세계적으로 이슈를 끌고있으며 해당 토픽은 코로나19 백신 관련한 토픽을 클러스터링한 결과이므로 해당 토픽에서는 코로나19가 등장할 확률이 높은 것을 보인
+
 ![LDA_INFO](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/img/lda_info.png "lda_info")
+<p>LDA MAP을 통해 시각화 된 정보를 dataframe으로 나타낸 것이다. 해당 토픽에서 등장할 확률이 높은 Keyword와 해당 토픽의 개수, 전체 기사에서 해당 토픽의 비율을 나타낸다.
+겨울에 추운 날씨로 인한 혈관의 수축으로 특히 주의해야할 고혈압과 뇌졸중 또한 키워드로 추출된 것을 관찰할 수 있다. 현재 코로나19가 유행하고 있기 때문에 대부분의 토픽들이 코로나19와 연관된 것을 관찰할 수 있다. 그러나 LDA Topic Modeling의 경우, 각 토픽이 얼마나 유사한지 알 수 없어 이에 대한 개선이 있을 경우 토픽 간의 관계를 더욱 잘 파악할 수 있을 것으로 보인다.
+
 ![DISEASE_LIST](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/img/disease_list.png "disease_list")
+<p>기사 생성 모델에서 input으로 들어갈 질병명이다. LDA 모델링 결과로 출력된 keyword에서 질병명을 추줄하고, 종성을 분석하여 dataframe 형태로 값을 반환하였다. 기사를 생성할 때, .csv 파일을 불러와서 생성해야할 기사의 중심 질병 키워드를 얻을 수 있다.
 
 
-[LDA_MAP](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/output/LDA_Map.html "lda")
 
