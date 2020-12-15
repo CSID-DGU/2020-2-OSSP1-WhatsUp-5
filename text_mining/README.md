@@ -62,9 +62,7 @@ Trend_Analysis.ipynb 파일에서는 사전에 크롤링한 데이터를 활용�
 
 ![coherenceScore](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/output/coherence_values.png "Mallet Coherence Score")
 
-키워드를 파악함에 있어서 LDA에서는 적절한 개수의 topic으로 분류할지 정하는 것이 중요하다.
-그러나 토픽의 개수를 정하는 방법은 결정적으로 정해져있지 않다. 
-따라서 우리는 최소의 topic을 활용하여 기사를 분리하고자 하여 Coherence의 값이 감소하기 전, 최대값을 topic 개수로 하였다.<p>
+키워드를 파악함에 있어서 LDA에서는 적절한 개수의 topic으로 분류할지 정하는 것이 중요하다. 그러나 토픽의 개수를 정하는 방법은 결정적으로 정해져있지 않다. 따라서 우리는 여러개의 LDA 모델을 만들었다. 최소의 topic을 활용하여 기사를 분리하기 위해 기본적으로 Coherence의 값이 감소하기 전, 최대값을 topic 개수로 하였다. 이는 설정에 따라 변경할 수 있다. <p>
 
 
 > Mallet Coherence Score
