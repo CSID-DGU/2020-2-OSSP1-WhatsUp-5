@@ -94,7 +94,7 @@ Coherence Scroe를 0.05 이상 향상되었다.
 
 [LDA_MAP](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/output/LDA_Map.html "lda") 
 <p>토픽 모델링 결과이다. 좌측 Intertopic Distance Map은 클러스터링 된 결과를 차원을 낮추어 보여준 것으로 원이 겹칠 수록 유사한 키워드를 가질 확률이 높은 것이다.
-우측 Relevant Terms는 해당 토픽 그룹에서 등장할 확률이 높은 단어를 나타낸다. 모든 기사에서 등장할 수 있는 단어들은 stopword를 추가하여 제거해주었다. 현재, 코로나19가 전세계적으로 이슈를 끌고있으며 해당 토픽은 코로나19 백신 관련한 토픽을 클러스터링한 결과이므로 해당 토픽에서는 코로나19가 등장할 확률이 높은 것을 보인
+우측 Relevant Terms는 해당 토픽 그룹에서 등장할 확률이 높은 단어를 나타낸다. 모든 기사에서 등장할 수 있는 단어들은 stopword를 추가하여 제거해주었다. 현재, 코로나19가 전세계적으로 이슈를 끌고있으며 해당 토픽은 코로나19 백신 관련한 토픽을 클러스터링한 결과이므로 해당 토픽에서는 코로나19가 등장할 확률이 높은 것을 보인다.
 
 ![LDA_INFO](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/text_mining/img/lda_info.png "lda_info")
 <p>LDA MAP을 통해 시각화 된 정보를 dataframe으로 나타낸 것이다. 해당 토픽에서 등장할 확률이 높은 Keyword와 해당 토픽의 개수, 전체 기사에서 해당 토픽의 비율을 나타낸다.
