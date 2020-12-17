@@ -7,6 +7,9 @@
 3. transformers == 2.11.0
 4. mxnet == 1.6.0
 
-**GENERATE_MODEL.ipynb** : 학습된 모델로 기사 생성
+**dataEDA.ipynb** : 학습 데이터 EDA 
 
-**createTitle.ipynb**: 기사 제목 학습 
+**trainNews.ipynb**: 기사 학습 
+
+
+**generateNews.ipynb**: 텍스트 생성 
