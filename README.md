@@ -43,12 +43,23 @@ kogpt2를 활용한 의료기사 생성 시스템
 ## 전체 시스템 구성도
 ![시스템 구성도](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/img/system_flow.png "시스템 구성도")
 
+- 기사 제목 학습 데이터 : 97517 문장
+
+- 기사 본문 학습 데이터 : 82576 문장 (길이가 100 이하인 데이터 삭제)
+
+
 ## Preview
 
 1. 좋은 예시
+
+<p><p>
+
 ![좋은 예시](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/img/ex1.png "좋은 예시")
 
 2. 나쁜 예시
+
+<p><p>
+   
 ![나쁜 예시](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/img/ex2.png "나쁜 예시")
 
 ## 기대효과 / 특장점
