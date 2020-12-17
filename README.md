@@ -50,13 +50,13 @@ kogpt2를 활용한 의료기사 생성 시스템
 
 ## Preview
 
-1. 좋은 예시
+> 좋은 예시
 
 <p><p>
 
 ![좋은 예시](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/img/ex1.png "좋은 예시")
 
-2. 나쁜 예시
+> 나쁜 예시
 
 <p><p>
    
