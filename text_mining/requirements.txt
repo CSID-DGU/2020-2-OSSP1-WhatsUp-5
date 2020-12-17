@@ -1,7 +1,6 @@
 pandas
 tqdm
 konlpy
-wordcloud
 nltk
 matplotlib
 IPython
