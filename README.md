@@ -24,7 +24,7 @@ kogpt2를 활용한 의료기사 생성 시스템
 1. Colab
 2. Python 3.6
 
-## 필요한 환경
+## 필요한 라이브러리
 
 > requirements.txt
 1. gluonnlp == 0.9.1
@@ -42,6 +42,14 @@ kogpt2를 활용한 의료기사 생성 시스템
 
 ## 전체 시스템 구성도
 ![시스템 구성도](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/img/system_flow.png "시스템 구성도")
+
+## Preview
+
+1. 좋은 예시
+![좋은 예시](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/img/ex1.png "좋은 예시")
+
+2. 나쁜 예시
+![나쁜 예시](https://csid-dgu.github.io/2020-2-OSSP1-WhatsUp-5/img/ex2.png "나쁜 예시")
 
 ## 기대효과 / 특장점
 
