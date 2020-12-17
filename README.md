@@ -9,9 +9,9 @@ kogpt2를 활용한 의료기사 생성 시스템
 ## 개발 목표
 (1) 웹 크롤링 모듈 구현 - 의료정보, 의료기사 수집 자동화<p>
    
-(2) [텍스트마이닝 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/text_mining/README.md) - 의료기사 데이터를 기반으로 한 Topic Modeling, 시각화<p>
+(2) [텍스트마이닝 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/text_mining/) - 의료기사 데이터를 기반으로 한 Topic Modeling, 시각화<p>
    
-(3)  [자연어 기반의 text-generator 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/model/README.md)
+(3)  [자연어 기반의 text-generator 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/model/)
 
 ## 개발환경
 1. Colab
