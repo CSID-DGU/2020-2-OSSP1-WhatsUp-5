@@ -7,11 +7,11 @@ kogpt2를 활용한 의료기사 생성 시스템
    기사의 취재, 작성, 유통 등 일련의 저널리즘 과정을 알고리즘으로 대체 또는 보완하는 것. 저널리즘 과정을 자동화함으로써 대량의 맞춤형 기사 작성, 기계적 반복 작업의 대체, 주관적 판단의 배제, 빠른 정보 처리 등의 이점을 기대할 수 있으며, 알고리즘의 장점인 대용량 정보 처리, 맞춤형 기사 작성 및 추천 등의 추가 효과 또한 사용자들이 누리게 될 장점이다.
 
 ## 개발 목표
-(1) 웹 크롤링 모듈 구현 - 의료정보, 의료기사 수집 자동화<p>
+1. 웹 크롤링 모듈 구현 - 의료정보, 의료기사 수집 자동화<p>
    
-(2) [텍스트마이닝 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/text_mining/) - 의료기사 데이터를 기반으로 한 Topic Modeling, 시각화<p>
+2. [텍스트마이닝 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/text_mining/) - 의료기사 데이터를 기반으로 한 Topic Modeling, 시각화
    
-(3)  [자연어 기반의 text-generator 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/model/)
+3.  [자연어 기반의 text-generator 모듈 구현](https://github.com/CSID-DGU/2020-2-OSSP1-WhatsUp-5/blob/master/model/)
 
 ## 개발환경
 1. Colab
