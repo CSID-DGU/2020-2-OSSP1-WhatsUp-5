@@ -47,6 +47,8 @@ kogpt2를 활용한 의료기사 생성 시스템
  
  2020-2-OSSP1-WhatsUp-5/model/checkpoint 에 maxlen20_loss0.36_acc0.56, psy_loss2.0_acc0.32 폴더를 복사해야합니다.
  
+ 동국대학교 Gsuite 계정에만 접근 권한이 있습니다.
+ 
 
 
 
