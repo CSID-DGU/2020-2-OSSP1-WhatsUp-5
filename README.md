@@ -24,9 +24,13 @@ kogpt2를 활용한 의료기사 생성 시스템
 1. Colab
 2. Python 3.6
 
+
 ## 필요한 라이브러리
 
+최종 산출물 파일은 Generate_Article(final).ipynb 입니다. 필요한 라이브러리 및 가중치를 설치한 후, 순차적으로 셀을 실행하면 됩니다.
+
 > requirements.txt
+
 1. gluonnlp == 0.9.1
 2. sentencepiece >= 0.1.85
 3. transformers == 2.11.0
@@ -38,6 +42,12 @@ kogpt2를 활용한 의료기사 생성 시스템
 > 가중치 파일
 
 가중치 파일을 다운로드 받고, PATH 설정이 필요합니다.
+
+ [checkpoint](https://drive.google.com/drive/folders/1D8s6tbMm-nDLBz3q-BFXCOrg7a-AQNHS?usp=sharing)
+ 
+ 2020-2-OSSP1-WhatsUp-5/model/checkpoint 에 maxlen20_loss0.36_acc0.56, psy_loss2.0_acc0.32 폴더를 복사해야합니다.
+ 
+
 
 
 ## 전체 시스템 구성도
@@ -64,11 +74,12 @@ kogpt2를 활용한 의료기사 생성 시스템
 
 ## 기대효과 / 특장점
 
-1. 사회적, 경제적 등 다양한 측면의 기대효과
+> 사회적, 경제적 등 다양한 측면의 기대효과
 - 로봇 저널리즘 세계 시장 규모 : 2021년 12억 달러에 이를 것으로 전망
 - 국내 잠재 시장 규모는 2021년 234억원 수준으로 전망
 
-2. 특장점
+
+> 특장점
 - 자동화된 시스템으로 방대한 데이터를 빠르게 수집
 - 기사를 보다 빠르고, 편리하게 작성/편집
 - 사람이 범할 수 있는 실수의 가능성을 크게 줄여줌
