@@ -27,5 +27,8 @@ gpt_ckpt 폴더가 생성되고 config.json, tf_model.h5, gpt_kor_tokenizer.spic
 
 ![스크린샷 2020-12-18 오후 10 14 08](https://user-images.githubusercontent.com/40908279/102618553-5a346500-417e-11eb-9c15-156ef0f96ea9.png)
 
-## **generateNews.ipynb**: 텍스트 생성 
+## 텍스트 생성 
+ **generateNews.ipynb**: 학습한 모델로 문장을 생성하는 파일이다. Generate_sent 함수는 아래 그림과 같은 매개변수로 구성되어 있다. 
  
+ <img width="700" alt="스크린샷 2020-12-18 오후 10 23 08" src="https://user-images.githubusercontent.com/40908279/102619323-9fa56200-417f-11eb-9cb7-140842e7bff1.png">
+top_k는 확률이 높은 순서대로 k번째까지 필터링, top_p는 일정 확률값 이상인 단어에 대해서 필터링을 진행해주는 값이다. Generate_sent 함수를 실행하면 Max_step만큼 반복문을 돌며 토큰을 생성하고 기사(제목)의 끝을 알리는 스페셜 토큰 슬래시 에스</s>가 나오면 문장 생성을 멈춘다.
